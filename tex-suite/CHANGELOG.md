@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.46.0 (2026-10-29) - The book reader
+
+- **Books open inside Tex Suite** (founder's top priority: "we need one thing
+  to be right"), with **one click** on the cover, as the best reading apps do.
+  EPUB, PDF, Word (.docx), OpenDocument (.odt), text and Markdown; your own
+  writing reads like a book (headings become chapters). Books are read from
+  memory: nothing decrypted is written to disk.
+- **Set like printed books**: EB Garamond, justified, first-line indents,
+  chapters on new pages, the chapter at the top and the page number at the
+  foot. PDF pages drawn by hayro (pure Rust).
+- **Pages turn like paper**: hold any point of a page's edge and drag; the
+  page curls from there and follows, showing its back; let go past the middle
+  and it turns, otherwise it falls back. Click or the arrow keys turn it too.
+- **Auto** (two pages in landscape, one in portrait), **1 page** or **2 pages**,
+  kept for every book; **Paper**, **Sepia**, **Night**; text size; turning as
+  paper or instant (readers asked to be able to switch animation off).
+- **Every book reopens where you stopped.**
+- The reader is its own module, **tex-reader** (crates/tex-reader), tested:
+  typesetting, the curl's geometry (the held point follows the pointer, paper
+  keeps its length, the page cannot tear), hostile files.
+- Knowledge base: new article "Reading books".
+- Dependencies: hayro 0.8 (Apache-2.0 OR MIT, forbids unsafe code), ab_glyph.
+
 ## 0.45.0 (2026-10-29) - Integrity check, Trust report, Anivo study, book covers
 
 - **Tex Suite checks itself at every start** (founder: "not a single
