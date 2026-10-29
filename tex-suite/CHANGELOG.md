@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.47.0 (2026-10-29) - Contacts import, numbers with their country, duplicates; a simpler update button
+
+- **Import contacts** (founder: his Google Contacts file would not import):
+  Google Contacts (CSV), Outlook (CSV) or a phone's vCard (.vcf). Numbers
+  written without a country get Tanzania's.
+- **Possible duplicates** after an import: the same number (even written
+  differently), the same email, or names alike; **Merge** keeps every number
+  and email once, **Keep both** leaves them apart.
+- **Several numbers and emails per person**, each number with its **country**
+  (Tanzania, the United States, then A to Z), kept in full: "+255 712 345 678".
+- **Settings > Updates: one button** that says what it will do: Check for
+  updates, Checking…, Update to vX. The answer shows at once (founder: Check
+  now had to be pressed twice).
+- **The top bar fits small windows** (founder: Import and search overlapped).
+- Engine: tex-engine 0.30.0.
+
 ## 0.46.0 (2026-10-29) - The book reader
 
 - **Books open inside Tex Suite** (founder's top priority: "we need one thing

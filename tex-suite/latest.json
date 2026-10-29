@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.46.0",
+ "version": "0.47.0",
  "date": "2026-10-29",
- "title": "The book reader",
- "notes": "- **Books open inside Tex Suite** (founder's top priority: \"we need one thing\n  to be right\"), with **one click** on the cover, as the best reading apps do.\n  EPUB, PDF, Word (.docx), OpenDocument (.odt), text and Markdown; your own\n  writing reads like a book (headings become chapters). Books are read from\n  memory: nothing decrypted is written to disk.\n- **Set like printed books**: EB Garamond, justified, first-line indents,\n  chapters on new pages, the chapter at the top and the page number at the\n  foot. PDF pages drawn by hayro (pure Rust).\n- **Pages turn like paper**: hold any point of a page's edge and drag; the\n  page curls from there and follows, showing its back; let go past the middle\n  and it turns, otherwise it falls back. Click or the arrow keys turn it too.\n- **Auto** (two pages in landscape, one in portrait), **1 page** or **2 pages**,\n  kept for every book; **Paper**, **Sepia**, **Night**; text size; turning as\n  paper or instant (readers asked to be able to switch animation off).\n- **Every book reopens where you stopped.**\n- The reader is its own module, **tex-reader** (crates/tex-reader), tested:\n  typesetting, the curl's geometry (the held point follows the pointer, paper\n  keeps its length, the page cannot tear), hostile files.\n- Knowledge base: new article \"Reading books\".\n- Dependencies: hayro 0.8 (Apache-2.0 OR MIT, forbids unsafe code), ab_glyph.",
- "file": "0.46.0/tex-suite-0.46.0-linux-x86_64.tar.gz",
- "size": 20946049,
- "sha256": "28a56b8fcaf01cdacaa13287b78fa0a9d2b30a9bc424d8021d3e63fe10652ecd",
- "signature": "f5ebf059d2bec3db646a1fb062cbd0289dbbddb000e308ed662ce72a31e1817d7cf2ddf4fd73ed4f501acd0fa2ad7c39b521ff940a48864d0095bab987312708"
+ "title": "Contacts import, numbers with their country, duplicates; a simpler update button",
+ "notes": "- **Import contacts** (founder: his Google Contacts file would not import):\n  Google Contacts (CSV), Outlook (CSV) or a phone's vCard (.vcf). Numbers\n  written without a country get Tanzania's.\n- **Possible duplicates** after an import: the same number (even written\n  differently), the same email, or names alike; **Merge** keeps every number\n  and email once, **Keep both** leaves them apart.\n- **Several numbers and emails per person**, each number with its **country**\n  (Tanzania, the United States, then A to Z), kept in full: \"+255 712 345 678\".\n- **Settings > Updates: one button** that says what it will do: Check for\n  updates, Checking…, Update to vX. The answer shows at once (founder: Check\n  now had to be pressed twice).\n- **The top bar fits small windows** (founder: Import and search overlapped).\n- Engine: tex-engine 0.30.0.",
+ "file": "0.47.0/tex-suite-0.47.0-linux-x86_64.tar.gz",
+ "size": 21034997,
+ "sha256": "14f357e91b975f9d37304239a80ed7fe32dcbe098bbdbf93851ec927128cb062",
+ "signature": "1da9f0d6113968ed681a56addc5a9adc0f990dddb1e238dad7c0aa3ea1baeba07d01aaed7d1855ef4b24582fe40a90ba1fcc9bc33e87e608c5f1d265da36ad01"
 }
