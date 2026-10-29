@@ -1,5 +1,55 @@
 # Changelog
 
+## 0.44.0 (2026-10-29) - Off-grid control, rollback, Anivo's daily flow, Vault upload
+
+- **Go fully off-grid** (founder): Settings, **Scheduled tasks** lists
+  everything Tex Suite does by itself (update checks, announcements, Space
+  Saver, auto-lock, calendar and Anivo reminders), each tagged Online or
+  On this device, each with its own switch. **Off-grid mode** stops every
+  internet contact; everything else keeps working.
+- **Off-grid report** in the Dashboard's menu: no account, no trackers,
+  encryption, the Vault's PIN, auto-lock, the clipboard, where your data
+  lives, and **every time Tex Suite went online** (when, where, why).
+- **Go back to an earlier version** (founder): before each update the
+  version you had is kept (the last two); Settings, Updates offers to go
+  back, and the version you leave is not offered again until a newer one.
+- **Settings in sections**: Appearance, Language, Updates (now with
+  **Download and install**, founder: the update showed but could not be
+  installed from there), Notifications, Scheduled tasks.
+- **Anivo's daily flow** (founder): **Prayer**, then the **main
+  reading**, then the **further reading**, shown as steps. Further
+  reading is one continuous passage ("Genesis 1:1 – 3:7"). Leaving it for
+  later counts as half a day (½ in the streak, a gold tick in the
+  calendar). Verses in a lighter font, easier to read. About Anivo
+  rewritten for readers.
+- **The Dashboard** (founder): Anivo as the big tile on the left, the
+  six other apps in a 3 × 2 grid on the right.
+- **Projects is a tool of its own** (founder): Projects and Tasks; Code
+  keeps the Editor and Repositories. New Projects icon.
+- **Edu**: the menu shows **All courses** and each category. The course
+  "How to use Tex Suite" has a 12th lesson, Off-grid.
+- **What's new, guided** (founder): after an update a small green dot
+  marks each app with something new, and the new item in its menu;
+  opening it clears the dot. A fresh install shows none.
+- **Vault: adding files made easy** (founder: "currently so hard for
+  someone to use and upload"): My Photos, My Videos, Voice notes and
+  Documents open with a big drop zone ("Drop files into My Photos here")
+  that lights up while files are dragged over the window, with a **Choose
+  files** button. Files added there land on that shelf, but only files of
+  that sort (a film dropped in My Photos stays a film; a test proves it).
+- French: labels that ran past the menu's edge shortened.
+- Knowledge base: new article **Off-grid**; Settings, Updates (rollback,
+  green dots), Anivo, Find your way, Edu and Vault files updated; every
+  screenshot taken again.
+- Engine: tex-engine 0.27.1 (the texts above, the Projects icon).
+- Security review of this release: the off-grid switch is checked before
+  every internet contact (updates, announcements) and each contact is
+  logged; rollback only restores copies this device made of its own earlier
+  version, from its own folder, never anything downloaded; the drop zone adds files through
+  the same review and encryption as every import. The test that fails on
+  any unknown internet address still passes.
+- Package: still .tar.gz, so 0.42 can install it; .tar.xz from 0.45.
+
 ## 0.43.0 (2026-10-29) - Anivo, Edu, Tools, notifications, the Vault's PIN reset
 
 - **Anivo is here** (founder): Bible reading, a world of its own like the
