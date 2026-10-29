@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.45.0 (2026-10-29) - Integrity check, Trust report, Anivo study, book covers
+
+- **Tex Suite checks itself at every start** (founder: "not a single
+  modification"): each release program is signed with Churtex's release key;
+  a program changed by one byte, or unsigned, opens in protected mode: only
+  Export Suite and a genuine update. Proven on a real build (one byte changed:
+  protected mode). Rollback and updates carry the signatures.
+- **About > Trust report**: tex-testkit's report of this version and of its
+  engine, shown as a short paper: verdict, key figures, abstract, results,
+  standards (NIST SSDF, OWASP ASVS), limitations, how to reproduce. Every
+  number comes from a real run; what could not run is shown as a gap.
+- **Anivo**: tap a verse for five highlight colours, a bookmark, a note or a
+  copy; **My study** lists Bookmarks, Highlights and Notes. Every reading has
+  a **title** (all 366 days). **Section headings inside Genesis**, written in
+  Anivo's own words from reading the text verse by verse (more books follow).
+  Verses in **EB Garamond**, the reading face.
+- **Books** stand as books: 2:3 covers, the book's own cover when it has one
+  in a book's shape (EPUB, comics, FB2), otherwise a designed cloth cover.
+- **The Vault's PIN screen scrolls** (founder: with Forgot PIN open the words
+  did not all show).
+- Security: zstd vulnerabilities fixed in the engine (0.28); the book cover
+  reader and the integrity check are tested with hostile input.
+- Engine: tex-engine 0.29.0.
+- Coming next: the book reader inside Tex Suite (tex-reader, in progress).
+
 ## 0.44.0 (2026-10-29) - Off-grid control, rollback, Anivo's daily flow, Vault upload
 
 - **Go fully off-grid** (founder): Settings, **Scheduled tasks** lists
