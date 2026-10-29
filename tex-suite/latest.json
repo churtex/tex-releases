@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.47.0",
- "date": "2026-10-29",
- "title": "Contacts import, numbers with their country, duplicates; a simpler update button",
- "notes": "- **Import contacts** (founder: his Google Contacts file would not import):\n  Google Contacts (CSV), Outlook (CSV) or a phone's vCard (.vcf). Numbers\n  written without a country get Tanzania's.\n- **Possible duplicates** after an import: the same number (even written\n  differently), the same email, or names alike; **Merge** keeps every number\n  and email once, **Keep both** leaves them apart.\n- **Several numbers and emails per person**, each number with its **country**\n  (Tanzania, the United States, then A to Z), kept in full: \"+255 712 345 678\".\n- **Settings > Updates: one button** that says what it will do: Check for\n  updates, Checking…, Update to vX. The answer shows at once (founder: Check\n  now had to be pressed twice).\n- **The top bar fits small windows** (founder: Import and search overlapped).\n- Engine: tex-engine 0.30.0.",
- "file": "0.47.0/tex-suite-0.47.0-linux-x86_64.tar.gz",
- "size": 21034997,
- "sha256": "14f357e91b975f9d37304239a80ed7fe32dcbe098bbdbf93851ec927128cb062",
- "signature": "1da9f0d6113968ed681a56addc5a9adc0f990dddb1e238dad7c0aa3ea1baeba07d01aaed7d1855ef4b24582fe40a90ba1fcc9bc33e87e608c5f1d265da36ad01"
+ "version": "0.48.0",
+ "date": "2026-10-30",
+ "title": "The reader, one page at a time; updates found at once",
+ "notes": "- **The reader, as the founder asked after trying 0.46**: always **one page**\n  (no two-page view), opening **on the cover** (with \"Continue from page …\" for\n  a book read before), **‹ and › beside the page** that turn it with a quick,\n  clean flip round its edge (no ‹ on the cover, no › on the last page), and\n  **zoom** (− +, Fit page, Fit width, Ctrl + wheel, a pinch): zoomed in, the\n  page scrolls up and down. Text laid out at the size it is shown, so it reads\n  at its true size. Paper, Sepia, Night, text size; kept for every book.\n- **Updates found at once** (founder: \"update should check instantly and\n  reflect in the app\"): Tex Suite looks on opening, and again when Settings >\n  Updates or the bell is opened (if the last look is over a minute old); it\n  always asks for the fresh update file (GitHub kept copies for minutes).\n- **Settings > Updates is the one place for updates** (founder): \"Update to\n  vX\" downloads and installs right there, with what is new and the steps in the\n  same card; the bell's update notice leads there.\n- **No more \"timeout: global\"**: a download had two minutes in all, too short\n  for 21 MB on a slow line. Now connecting must succeed within 20 s and a slow\n  download has half an hour; problems are said in plain words.\n- **The bell** is an icon alone at the right of the Tex Suite box, level with\n  the name (founder: \"its more visible\"); in the top bar only on narrow windows.\n- Knowledge base: \"Reading books\" rewritten for the new reader.\n- Engine: tex-engine 0.30.1.",
+ "file": "0.48.0/tex-suite-0.48.0-linux-x86_64.tar.gz",
+ "size": 20988756,
+ "sha256": "e7a5003101c85380652117da538f672d5be998bf7408f1c7972ca50a2c00700c",
+ "signature": "6a1dc4029109e7ea93f2bd30dddf27bdf2fdb837f03b5787c9cec3f40bff9a7e7903abee88daf80225d46a8ec523ea8e05b2c441b88bac25e9d9cf1ae0b1f009"
 }

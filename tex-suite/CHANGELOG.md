@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.48.0 (2026-10-30) - The reader, one page at a time; updates found at once
+
+- **The reader, as the founder asked after trying 0.46**: always **one page**
+  (no two-page view), opening **on the cover** (with "Continue from page …" for
+  a book read before), **‹ and › beside the page** that turn it with a quick,
+  clean flip round its edge (no ‹ on the cover, no › on the last page), and
+  **zoom** (− +, Fit page, Fit width, Ctrl + wheel, a pinch): zoomed in, the
+  page scrolls up and down. Text laid out at the size it is shown, so it reads
+  at its true size. Paper, Sepia, Night, text size; kept for every book.
+- **Updates found at once** (founder: "update should check instantly and
+  reflect in the app"): Tex Suite looks on opening, and again when Settings >
+  Updates or the bell is opened (if the last look is over a minute old); it
+  always asks for the fresh update file (GitHub kept copies for minutes).
+- **Settings > Updates is the one place for updates** (founder): "Update to
+  vX" downloads and installs right there, with what is new and the steps in the
+  same card; the bell's update notice leads there.
+- **No more "timeout: global"**: a download had two minutes in all, too short
+  for 21 MB on a slow line. Now connecting must succeed within 20 s and a slow
+  download has half an hour; problems are said in plain words.
+- **The bell** is an icon alone at the right of the Tex Suite box, level with
+  the name (founder: "its more visible"); in the top bar only on narrow windows.
+- Knowledge base: "Reading books" rewritten for the new reader.
+- Engine: tex-engine 0.30.1.
+
 ## 0.47.0 (2026-10-29) - Contacts import, numbers with their country, duplicates; a simpler update button
 
 - **Import contacts** (founder: his Google Contacts file would not import):
