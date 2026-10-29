@@ -1,5 +1,46 @@
 # Changelog
 
+## 0.43.0 (2026-10-29) - Anivo, Edu, Tools, notifications, the Vault's PIN reset
+
+- **Anivo is here** (founder): Bible reading, a world of its own like the
+  Vault. **Today's reading** from the founder's Anivo Bible Reading Plan:
+  the New Testament main reading and the Old Testament further reading, in
+  the King James Version, "Day N of 365" (366 in leap years), the streak
+  of days read in a row, **Mark as read**. **Reading calendar**: read days
+  ticked, missed days (since you started) marked, today ringed; click a day
+  to read it. **Bible (KJV)**: all 66 books. **About Anivo** in its
+  author's words, with the open-use policy for churches. While today's
+  reading waits, the Dashboard reminds you.
+- **Edu: the course "How to use Tex Suite"**: 11 lessons made from the
+  knowledge base, each with a 3-question quiz marked at once; best marks
+  and progress kept.
+- **Tools as menu categories** (founder): Calendar, Maps, Code (Projects,
+  Editor), Lang (Translate, Learn), Comm (Messages, Radio); pages still to
+  come say so in place.
+- **Notifications** (founder): a bell in the top bar, with a red dot and
+  a small shake when something is new; its own menu (All, Updates,
+  Announcements); select and delete, Delete all; Settings can switch them
+  off. An update is always first, and installing shows each step as a
+  timeline (downloading, checking the signature, installing, restarting).
+  The version line under the name stays as it was.
+- **The Vault's PIN**: 3 wrong tries lock it for an hour, then longer
+  each time, at most a day. **Forgot PIN?**: with Tex Suite's password, a
+  reset empties the Vault's own things 72 hours later, then a new PIN is
+  set; the right PIN in between cancels it. **The Vault hides its
+  contents** whenever Tex Suite is not the window in front.
+- **Passwords**: after an import, Tex Suite offers to delete the export
+  file for good (overwritten, then removed).
+- **Every clickable control shows the hand** (founder: Import and Export
+  did not): a test now reads the code and fails if any does not.
+- Knowledge base: new articles Anivo, Edu, Notifications; Vault,
+  Passwords and Find your way updated; every screenshot taken again.
+- **Smaller downloads from 0.44**: the updater now also reads .tar.xz
+  packages, measured 10.7 MB instead of 15.4 MB (gzip) for this release.
+  0.43 itself still ships as gzip so 0.42 can install it. A test also
+  proves a hostile package cannot write outside its folder.
+- Dependencies: tex-engine 0.27.0; new xz2 0.1 (static liblzma, public
+  domain/MIT) for .tar.xz; `cargo update`.
+
 ## 0.42.1 (2026-10-29) - when Tex Suite last looked for updates
 
 - Settings > Updates shows when Tex Suite last looked for a newer version

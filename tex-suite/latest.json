@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.42.1",
+ "version": "0.43.0",
  "date": "2026-10-29",
- "title": "when Tex Suite last looked for updates",
- "notes": "- Settings > Updates shows when Tex Suite last looked for a newer version\n  (\"Last checked at 06:12\").\n- The first version delivered by the updater itself: if you are reading\n  this in the update notice, updates work.\n- Dependencies: tex-engine 0.26.4.",
- "file": "0.42.1/tex-suite-0.42.1-linux-x86_64.tar.gz",
- "size": 14291035,
- "sha256": "7ee598f557e70a32b892c5c5d58d5f0f77673763672a502b5f469399888f9d46",
- "signature": "e18fa209121cb53c429c7e6e3f24712024b3811b4d0695a49f624e861627ba8e6744af2e4a2f20c06384ac3d7d60ff73bffa7f0954224622ef76e27b94714e02"
+ "title": "Anivo, Edu, Tools, notifications, the Vault's PIN reset",
+ "notes": "- **Anivo is here** (founder): Bible reading, a world of its own like the\n  Vault. **Today's reading** from the founder's Anivo Bible Reading Plan:\n  the New Testament main reading and the Old Testament further reading, in\n  the King James Version, \"Day N of 365\" (366 in leap years), the streak\n  of days read in a row, **Mark as read**. **Reading calendar**: read days\n  ticked, missed days (since you started) marked, today ringed; click a day\n  to read it. **Bible (KJV)**: all 66 books. **About Anivo** in its\n  author's words, with the open-use policy for churches. While today's\n  reading waits, the Dashboard reminds you.\n- **Edu: the course \"How to use Tex Suite\"**: 11 lessons made from the\n  knowledge base, each with a 3-question quiz marked at once; best marks\n  and progress kept.\n- **Tools as menu categories** (founder): Calendar, Maps, Code (Projects,\n  Editor), Lang (Translate, Learn), Comm (Messages, Radio); pages still to\n  come say so in place.\n- **Notifications** (founder): a bell in the top bar, with a red dot and\n  a small shake when something is new; its own menu (All, Updates,\n  Announcements); select and delete, Delete all; Settings can switch them\n  off. An update is always first, and installing shows each step as a\n  timeline (downloading, checking the signature, installing, restarting).\n  The version line under the name stays as it was.\n- **The Vault's PIN**: 3 wrong tries lock it for an hour, then longer\n  each time, at most a day. **Forgot PIN?**: with Tex Suite's password, a\n  reset empties the Vault's own things 72 hours later, then a new PIN is\n  set; the right PIN in between cancels it. **The Vault hides its\n  contents** whenever Tex Suite is not the window in front.\n- **Passwords**: after an import, Tex Suite offers to delete the export\n  file for good (overwritten, then removed).\n- **Every clickable control shows the hand** (founder: Import and Export\n  did not): a test now reads the code and fails if any does not.\n- Knowledge base: new articles Anivo, Edu, Notifications; Vault,\n  Passwords and Find your way updated; every screenshot taken again.\n- **Smaller downloads from 0.44**: the updater now also reads .tar.xz\n  packages, measured 10.7 MB instead of 15.4 MB (gzip) for this release.\n  0.43 itself still ships as gzip so 0.42 can install it. A test also\n  proves a hostile package cannot write outside its folder.\n- Dependencies: tex-engine 0.27.0; new xz2 0.1 (static liblzma, public\n  domain/MIT) for .tar.xz; `cargo update`.",
+ "file": "0.43.0/tex-suite-0.43.0-linux-x86_64.tar.gz",
+ "size": 15930968,
+ "sha256": "2a958d53e2cd25beed0fd9764d0ac0d739e665f4b6539ba1e345cacabd316d5a",
+ "signature": "8015232c9d27164e221944ec6bbc9ab75f3a7159a83da30a94ba7ae98e3a650adbdd255b042b8d1f5230e6e6c58ed5818462f9c1486511a7799ad04bf4450907"
 }
