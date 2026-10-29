@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.42.1 (2026-10-29) - when Tex Suite last looked for updates
+
+- Settings > Updates shows when Tex Suite last looked for a newer version
+  ("Last checked at 06:12").
+- The first version delivered by the updater itself: if you are reading
+  this in the update notice, updates work.
+- Dependencies: tex-engine 0.26.4.
+
 ## 0.42.0 (2026-10-29) - updates from the Tex releases page
 
 - **Updates** (founder): while the device is online, Tex Suite looks at the

@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.42.0",
+ "version": "0.42.1",
  "date": "2026-10-29",
- "title": "updates from the Tex releases page",
- "notes": "- **Updates** (founder): while the device is online, Tex Suite looks at the\n  Tex releases page every 15 minutes (and once soon after opening). A newer\n  version shows **Update to v… available** under the name; click it to\n  read what's new, then **Download and install**: it downloads, checks\n  Churtex's signature, installs and restarts. Nothing is downloaded before\n  you agree; a changed or fake update is refused and your version keeps\n  working.\n- Settings has an **Updates** card: look automatically (on), Check now.\n- **The Vault**: an **Exit** button at the top beside \"Vault\" (founder:\n  the one at the bottom was easy to miss); the menu says My Finances, My\n  Vehicles, My Supplies, My Contacts, My Photos, My Videos, My Journal.\n- The small uppercase headings in every menu have more space between\n  their letters (founder: \"too thin\").\n- **About** is its own menu (founder): Founder, Churtex, Features, FAQs.\n  Features: \"No account, no internet\" first, \"Videos 50 to 70% smaller\",\n  and the Free and Pro boxes the same height.\n- **What's new** shows the ten latest versions, without dates, and a button\n  to the full changelog on the Tex releases page (published with every\n  release); the update notice has no date either.\n- **Menu labels never pass the menu's edge** (\"Sync with my devices\" did):\n  shorter \"Sync devices\", and any label too long ends with \"…\" with the\n  whole text on hover. Screenshot runs now list every label that does not\n  fit, checked at each release (it caught three French ones, shortened).\n- Knowledge base: a new article, Updates; the Vault article follows the\n  new names; every screenshot taken again.\n- Dependencies: tex-engine 0.26.3; new ureq 3.5 (HTTPS, rustls),\n  ed25519-dalek 3 (signatures), sha2, hex, flate2 and tar (the package),\n  getrandom (the release key), all MIT/Apache; `cargo update`.",
- "file": "0.42.0/tex-suite-0.42.0-linux-x86_64.tar.gz",
- "size": 14290940,
- "sha256": "92284da982eef8bd8b12a4ad3ecc666c09f3f1587a77677cbe316ef7d32351a9",
- "signature": "f3a2e85d0c7c2a134a9b7d7b0a911d6f88b6cc0886d6f1d2a3caa474e664a4dc7c7dd57a5c5c50e147175fc324230ba8b548cd2aebfec0c624aa8b3e3373bd09"
+ "title": "when Tex Suite last looked for updates",
+ "notes": "- Settings > Updates shows when Tex Suite last looked for a newer version\n  (\"Last checked at 06:12\").\n- The first version delivered by the updater itself: if you are reading\n  this in the update notice, updates work.\n- Dependencies: tex-engine 0.26.4.",
+ "file": "0.42.1/tex-suite-0.42.1-linux-x86_64.tar.gz",
+ "size": 14291035,
+ "sha256": "7ee598f557e70a32b892c5c5d58d5f0f77673763672a502b5f469399888f9d46",
+ "signature": "e18fa209121cb53c429c7e6e3f24712024b3811b4d0695a49f624e861627ba8e6744af2e4a2f20c06384ac3d7d60ff73bffa7f0954224622ef76e27b94714e02"
 }
