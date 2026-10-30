@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.52.0 (2026-10-30) - Anivo: Prayers, Prophecies and Answers
+
+Designed with the founder in the live replica (design/replica), approved:
+- **Prayers**: a red **New prayer** button opens a writing box with an
+  optional **hoped-for date**; the day it was added is kept by itself.
+  **Recently answered** (the three newest) sits on top with View all; under
+  it **My prayer points**: each with when it began (and the day hoped for),
+  a plain **Answered** checkbox and a bin. A prayer answered today stays in
+  the list, below, in green, until tomorrow. 2025 | 2026 shows each year's
+  answers; unanswered prayers stay whatever year they began.
+- **Prophecies**, kept like prayers: what was spoken, from whom, an optional
+  "awaited by" date, the day received, **Fulfilled** (in violet).
+- **Answers**: one timeline of answered prayers (green) and fulfilled
+  prophecies (violet), by year and by month, each with how long it took.
+- **Read Today's prayer** shows the same list, with New prayer opening the
+  writing box in place, so you stay in the reading; **Amen** counts every
+  open point as prayed for that day (no tick per point).
+- Anivo's menu: Pray → Prayers · Prophecies · Answers.
+- Engine: tex-engine 0.30.5 (texts).
+- Security review: new local data only (prayers and prophecies with their
+  days, kept encrypted with Anivo's state); no network, no new dependency.
+
 ## 0.51.0 (2026-10-30) - A new reading look in Anivo, sharper books, faster scrolling
 
 - **Anivo reads in groups of four** (designed with the founder in the live
