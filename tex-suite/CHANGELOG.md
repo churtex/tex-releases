@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.51.0 (2026-10-30) - A new reading look in Anivo, sharper books, faster scrolling
+
+- **Anivo reads in groups of four** (designed with the founder in the live
+  replica, approved): a new paragraph every 4 verses; in each, verses 1-3 in
+  near black and the 4th in deep blue, so the eye keeps its place. The Bible
+  and the daily readings share the look.
+- **The names of God in purple**, everywhere in the text: Jesus, Christ, God,
+  LORD, the Father, the Holy Ghost, I AM THAT I AM, the Lamb of God, the Holy
+  One of Israel and more (found whole, longest first; "I AM" only in capitals;
+  a test keeps "gods", "I am" and "my lord" plain).
+- **Reading sheets** have 101 px of space above and below the text.
+- **Anivo's menu, renamed**: Home (Read Today, Calendar), Pray (Prayers), King
+  James (KJV), My study (… My Notes).
+- **Toggles**: a light, pressed-in track and a raised white key, flat colours.
+- **Faster scrolling** everywhere: 100 px a mouse-wheel notch (was 40), as in
+  a browser (founder: the app scrolled "very slow").
+- **Books open at Fit page**; text is placed on whole screen pixels and drawn
+  20% larger at Fit page (founder: it looked fuzzy; clear at 120%); a page
+  turn is a clean slide (no blank sheet in between); PDF pages are never
+  stretched from a smaller picture.
+- **Design replica** (design/replica): a live HTML copy of Tex Suite to design
+  in first; approved designs are listed in design/APPROVED.md and come to the
+  app in the next releases (Prophecies, Fasting, Answers, Insights, Emotions,
+  Memory, the Summary, the Bible pages, the verse bar).
+- Engine: tex-engine 0.30.4 (texts).
+- Dependencies: `cargo update` (js-sys, wasm-bindgen, web-sys: patch releases).
+- Downloads: each release now also has the Windows installer
+  (Tex-Suite-Setup-<version>.exe), a .deb and an .rpm, each signed, with
+  SHA256SUMS and Download links on churtex/tex-releases (tools/publish-installers.sh);
+  Windows copies of Tex Suite look at latest-windows.json.
+- Security review: the new code draws text and reads the app's own state; no
+  network, no new dependency.
+
 ## 0.50.0 (2026-10-30) - Landscape in halves, reading progress, Anivo on white sheets
 
 - **Landscape reading: one page in two halves** (founder: "one page, but split
