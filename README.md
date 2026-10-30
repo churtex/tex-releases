@@ -21,6 +21,7 @@ without the internet: Media, Books, Pedia, Tools, Edu, Anivo and the Vault
 | System | File |
 |---|---|
 | Windows 10 / 11 | [Tex-Suite-Setup-0.51.0.exe](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.51.0/Tex-Suite-Setup-0.51.0.exe) |
+| Ubuntu, Linux Mint, Debian | [tex-suite_0.51.0-1_amd64.deb](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.51.0/tex-suite_0.51.0-1_amd64.deb) |
 | Fedora, AlmaLinux, openSUSE | [tex-suite-0.51.0-1.x86_64.rpm](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.51.0/tex-suite-0.51.0-1.x86_64.rpm) |
 | Any Linux | [tex-suite-0.51.0-linux-x86_64.tar.gz](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.51.0/tex-suite-0.51.0-linux-x86_64.tar.gz) |
 
