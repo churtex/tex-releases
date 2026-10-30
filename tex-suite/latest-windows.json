@@ -1,0 +1,11 @@
+{
+ "app": "tex-suite",
+ "version": "0.50.0",
+ "date": "2026-10-30",
+ "title": "Landscape in halves, reading progress, Anivo on white sheets",
+ "notes": "- **Landscape reading: one page in two halves** (founder: \"one page, but split\n  in half so that it becomes landscape\"): the page's upper half first, a turn,\n  then its lower half; \"Page 3 of 10 · upper half\". The cut always falls\n  between lines (a test checks every line at several sizes); a PDF page is cut\n  at a blank row near its middle, never through a line. The two-column sheet\n  of 0.49 is gone.\n- **Reader arrows click at once** (founder: they would not click while the\n  mouse was on them): the page's frame lay over them; they are now on top. The\n  page also sits clear of the \"Page N of M\" label.\n- **Books show how much has been read**: a bar on the cover and \"42% read\" or\n  \"Finished\" under the title.\n- **Anivo reads like a document** (founder): a tinted page (#F4F4F4) with\n  each reading on a white sheet, half an inch of margin on all sides; verses\n  at **18 pt** (24 px, line height 1.5) and lines held to about 68 characters,\n  as book typography advises (45-75; Bringhurst; WCAG asks no more than 80).\n  The Bible and the daily readings share one look.\n- **Anivo: Prayer points in the menu** (a Pray section): today's ticks, add\n  and remove, and how many of the last 30 days each point was prayed for.\n- **Tex Suite Preview** (`tools/preview.sh`): the next version installed beside\n  the real app, to try before a release; it never updates itself and will not\n  open while Tex Suite is open (one app at a time on a library).\n- Engine: tex-engine 0.30.3 (texts). Dependencies: `cargo update` brought no\n  changes beyond the engine.\n- Security review: the new code reads only the app's own saved state (reading\n  progress, prayer points) and a PDF page's own pixels; it opens no network\n  connection and adds no dependency. The preview launcher refuses to open a\n  library the real app has open.",
+ "file": "0.50.0/Tex-Suite-Setup-0.50.0.exe",
+ "size": 18057728,
+ "sha256": "727e7981d33b7ce3f80c4d694b1243b3eb367745fafd3117227d5613e7de5c08",
+ "signature": "ee1dd484ba44d7ad9e97e27ee184a47d5ce8e37210745fc2a360f81cb4af85f35a54f59a31ae40eaac875ea9c31cdb1c5642443ab5e7dadd13e42dfd52bcfd0f"
+}
