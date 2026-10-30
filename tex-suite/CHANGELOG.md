@@ -1,5 +1,35 @@
 # Changelog
 
+## 0.50.0 (2026-10-30) - Landscape in halves, reading progress, Anivo on white sheets
+
+- **Landscape reading: one page in two halves** (founder: "one page, but split
+  in half so that it becomes landscape"): the page's upper half first, a turn,
+  then its lower half; "Page 3 of 10 · upper half". The cut always falls
+  between lines (a test checks every line at several sizes); a PDF page is cut
+  at a blank row near its middle, never through a line. The two-column sheet
+  of 0.49 is gone.
+- **Reader arrows click at once** (founder: they would not click while the
+  mouse was on them): the page's frame lay over them; they are now on top. The
+  page also sits clear of the "Page N of M" label.
+- **Books show how much has been read**: a bar on the cover and "42% read" or
+  "Finished" under the title.
+- **Anivo reads like a document** (founder): a tinted page (#F4F4F4) with
+  each reading on a white sheet, half an inch of margin on all sides; verses
+  at **18 pt** (24 px, line height 1.5) and lines held to about 68 characters,
+  as book typography advises (45-75; Bringhurst; WCAG asks no more than 80).
+  The Bible and the daily readings share one look.
+- **Anivo: Prayer points in the menu** (a Pray section): today's ticks, add
+  and remove, and how many of the last 30 days each point was prayed for.
+- **Tex Suite Preview** (`tools/preview.sh`): the next version installed beside
+  the real app, to try before a release; it never updates itself and will not
+  open while Tex Suite is open (one app at a time on a library).
+- Engine: tex-engine 0.30.3 (texts). Dependencies: `cargo update` brought no
+  changes beyond the engine.
+- Security review: the new code reads only the app's own saved state (reading
+  progress, prayer points) and a PDF page's own pixels; it opens no network
+  connection and adds no dependency. The preview launcher refuses to open a
+  library the real app has open.
+
 ## 0.49.0 (2026-10-30) - Sharp text in the reader, a two-column sheet in landscape, prayer points
 
 - **Reader text is sharp** (founder: the text looked fuzzy): pages are no
