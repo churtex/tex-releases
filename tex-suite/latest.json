@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.48.0",
+ "version": "0.49.0",
  "date": "2026-10-30",
- "title": "The reader, one page at a time; updates found at once",
- "notes": "- **The reader, as the founder asked after trying 0.46**: always **one page**\n  (no two-page view), opening **on the cover** (with \"Continue from page …\" for\n  a book read before), **‹ and › beside the page** that turn it with a quick,\n  clean flip round its edge (no ‹ on the cover, no › on the last page), and\n  **zoom** (− +, Fit page, Fit width, Ctrl + wheel, a pinch): zoomed in, the\n  page scrolls up and down. Text laid out at the size it is shown, so it reads\n  at its true size. Paper, Sepia, Night, text size; kept for every book.\n- **Updates found at once** (founder: \"update should check instantly and\n  reflect in the app\"): Tex Suite looks on opening, and again when Settings >\n  Updates or the bell is opened (if the last look is over a minute old); it\n  always asks for the fresh update file (GitHub kept copies for minutes).\n- **Settings > Updates is the one place for updates** (founder): \"Update to\n  vX\" downloads and installs right there, with what is new and the steps in the\n  same card; the bell's update notice leads there.\n- **No more \"timeout: global\"**: a download had two minutes in all, too short\n  for 21 MB on a slow line. Now connecting must succeed within 20 s and a slow\n  download has half an hour; problems are said in plain words.\n- **The bell** is an icon alone at the right of the Tex Suite box, level with\n  the name (founder: \"its more visible\"); in the top bar only on narrow windows.\n- Knowledge base: \"Reading books\" rewritten for the new reader.\n- Engine: tex-engine 0.30.1.",
- "file": "0.48.0/tex-suite-0.48.0-linux-x86_64.tar.gz",
- "size": 20988756,
- "sha256": "e7a5003101c85380652117da538f672d5be998bf7408f1c7972ca50a2c00700c",
- "signature": "6a1dc4029109e7ea93f2bd30dddf27bdf2fdb837f03b5787c9cec3f40bff9a7e7903abee88daf80225d46a8ec523ea8e05b2c441b88bac25e9d9cf1ae0b1f009"
+ "title": "Sharp text in the reader, a two-column sheet in landscape, prayer points",
+ "notes": "- **Reader text is sharp** (founder: the text looked fuzzy): pages are no\n  longer pictures; the text is drawn live like the rest of Tex Suite, sharp at\n  any zoom. Words are measured exactly as they are drawn (a test keeps it so).\n- **Landscape: one page as a sheet in two columns** (founder: \"split into two\n  pieces … the cut is clean\"): the text keeps its true size and runs down the\n  left column and on at the top of the right; the split is always between\n  lines.\n- **The page turn is a light paper fold** (founder: too much shadow): the\n  folded paper shows its plain back, the next page appears behind the fold,\n  and the shading is faint; the text stays sharp throughout.\n- **Anivo: prayer points** (founder): write what you pray for and tick each\n  point when prayed for; ticks start fresh each day.\n- **Anivo: verses** a little larger, in a softer ink (not bold), **justified**,\n  with a little letter spacing.\n- Engine: tex-engine 0.30.2.",
+ "file": "0.49.0/tex-suite-0.49.0-linux-x86_64.tar.gz",
+ "size": 20976720,
+ "sha256": "ca0afc84460a097b0d32f3a8fd71bc42a027b735c12f2040ebae7f83c750ea4f",
+ "signature": "361d1c77a44462a41d692f8cc58b7989c1c7e95d045fbfbcbb7c4d78236795e30a4a6db093d83adbeb327711eed0c6652ad4b1bc5858a39db38ce53050641301"
 }

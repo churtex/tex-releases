@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.49.0 (2026-10-30) - Sharp text in the reader, a two-column sheet in landscape, prayer points
+
+- **Reader text is sharp** (founder: the text looked fuzzy): pages are no
+  longer pictures; the text is drawn live like the rest of Tex Suite, sharp at
+  any zoom. Words are measured exactly as they are drawn (a test keeps it so).
+- **Landscape: one page as a sheet in two columns** (founder: "split into two
+  pieces … the cut is clean"): the text keeps its true size and runs down the
+  left column and on at the top of the right; the split is always between
+  lines.
+- **The page turn is a light paper fold** (founder: too much shadow): the
+  folded paper shows its plain back, the next page appears behind the fold,
+  and the shading is faint; the text stays sharp throughout.
+- **Anivo: prayer points** (founder): write what you pray for and tick each
+  point when prayed for; ticks start fresh each day.
+- **Anivo: verses** a little larger, in a softer ink (not bold), **justified**,
+  with a little letter spacing.
+- Engine: tex-engine 0.30.2.
+
 ## 0.48.0 (2026-10-30) - The reader, one page at a time; updates found at once
 
 - **The reader, as the founder asked after trying 0.46**: always **one page**
