@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.54.0 (2026-10-31) - Anivo: the Bible and My study, and nothing overlaps
+
+Designed in Tex Studio and built from the same parts:
+- **The King James home**: Continue reading (with the chapter's heading),
+  **Go to** as you type ("John 3:16", "gen 1", "ps 23"), the Old Testament
+  · New Testament · About · Copyright toggle, the books as tiles as wide as
+  the longest name needs.
+- **A chapter**: its headings, the verses in groups of four, the names of
+  God marked, **today's reading** beside the title (waiting, done, or the
+  extra kept for later), the arrows on the sheet's edges as you scroll, and
+  how the chapter left you.
+- **The verse bar** opens under the last verse you picked: four highlight
+  colours, bookmark, memorize, note, copy.
+- **My study**: Bookmarks (Bible order or newest), Highlights with a pill
+  per colour, My Notes edited in place, **Memory** (Learning with Practice,
+  Memorized with its day).
+- **Nothing overlaps any more when the window is narrow**: a title and its
+  button, the date and the streak, a form's fields and its buttons share a
+  line when they fit; otherwise the right part goes under (a shared part,
+  tex_ui::split, with a test). Toggles give long words the room they need.
+- Engine: tex-engine 0.30.8 (texts). Design parts: tex-ui 0.1.8.
+- Security review: no new data beyond the order bookmarks were made (kept
+  with the study, encrypted in the Vault); no network, no new reader of
+  outside data. Testkit: secrets, hosts, unsafe, audit (no vulnerabilities),
+  clippy and tests pass; licences: the known cabac item (being replaced).
+
 ## 0.53.0 (2026-10-31) - Anivo: the new Read Today
 
 Designed with the founder in Tex Studio, the live Rust design window, and
