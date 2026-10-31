@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.55.0 (2026-10-31) - Anivo: Prayers and Fasting, as designed
+
+Designed in Tex Studio and built from the same parts:
+- **Prayers**: New prayer and the year switch in the title, recently
+  answered (three), then your prayer points with Answered and the bin; the
+  writing box with an optional hoped-for date (31/12/2026). Read Today's
+  prayer uses the same box.
+- **Prophecies**: kept like prayers, with who gave them and an awaited
+  date; Fulfilled in violet.
+- **Answers**: one timeline of answered prayers and fulfilled prophecies by
+  year and month; the two latest years as pills, earlier ones under Older.
+- **Fasting** (new, Pray → Fasting): plan a fast (full, partial, Daniel or
+  media; days, hours, a prayer it is for, a note); the fast in progress with
+  an hourglass that runs on your clock through the whole fast and stops at
+  its last hour, the days kept, End the fast; Coming up and Earlier.
+- Everything stays clear of everything else in a narrow window.
+- Engine: tex-engine 0.30.9 (texts; French for the new Bible, Prayers and
+  Fasting texts). Design parts: tex-ui 0.1.8.
+- Security review: new local data only (fasts: kind, days, hours, a prayer,
+  a note), kept encrypted with Anivo's state in the Vault; dates typed are
+  checked before they are kept; no network, no new dependency. Testkit:
+  secrets, hosts, unsafe, audit, clippy and tests pass; licences: the known
+  cabac item.
+
 ## 0.54.0 (2026-10-31) - Anivo: the Bible and My study, and nothing overlaps
 
 Designed in Tex Studio and built from the same parts:
