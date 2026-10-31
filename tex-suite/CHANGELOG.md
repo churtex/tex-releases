@@ -1,5 +1,26 @@
 # Changelog
 
+## 0.61.0 (2026-10-31) - The daily reading reads like the Bible
+
+- **Read Today's readings work like the Bible** (founder: "it should
+  behave just like reading the bible normally"): click verses to
+  highlight, bookmark, add to memory verses, write a note or copy them,
+  with the same verse bar as the Bible. What you mark shows in the Bible
+  too, and the other way round. **KJV** at the top is the version (more
+  will join it), on the readings and on every chapter of the Bible.
+- **A reading of several chapters names each one** where it begins
+  (founder: the verses started "again at verse one" with nothing to say a
+  new chapter or book began): "Philemon 1", then "Hebrews 1".
+- **A prophecy's awaited date can be any day**, past or future; a
+  prayer's hoped-for date keeps its range (a year back to 82 years
+  ahead).
+- What's new: Read Today carries the green dot after this update.
+- Engine: tex-engine 0.30.18. Design parts: tex-ui 0.1.21.
+- Security review: no new data (the marks are the Bible's own), no
+  network, no new dependency. Screenshot tools: URTEX_SHOT_DAY,
+  URTEX_SHOT_VERSE, URTEX_SHOT_HEIGHT. Testkit: secrets, hosts, unsafe,
+  sbom, audit, clippy and tests (56) pass; licences: the known cabac item.
+
 ## 0.60.0 (2026-10-31) - Anivo in French, its icons as designed, What's new dots that clear
 
 - **Anivo's menu has the icons drawn in Tex Studio**: the app kept a copy
