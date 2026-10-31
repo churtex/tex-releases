@@ -1,5 +1,30 @@
 # Changelog
 
+## 0.58.0 (2026-10-31) - Anivo: Addictions, About Anivo, balanced buttons
+
+Designed in Tex Studio and built from the same pages:
+- **Addictions** (Pray → Addictions): name a struggle (and why you want to
+  be free); each card shows the days free and the longest run, **It
+  happened** with the time and what led to it, six months of squares (how
+  often; days kept free in green) and gentle reports (this week, 30 days,
+  the hardest day, when in the day). **See the journey** opens its page:
+  every year of squares, the reports, the whole timeline with what you
+  wrote. **Set free** moves it to **Saved from**; **It came back** brings
+  it back to the top. Only on this device, encrypted in the Vault.
+- **About Anivo** in the new layout: the promise, the plan in four numbers
+  (two by two in a narrow window), each section in EB Garamond, justified.
+- **Exit in Anivo goes back to the page you were on** before opening it.
+- **The hoped-for date sits under its label** in the prayer and prophecy
+  boxes; Cancel and Add stay beside it, or go under it in a narrow window.
+- **Buttons with an icon are balanced**: the icon's line is as heavy as its
+  words (a faint plus made "Plan a fast" look off centre); every button on
+  every page measured.
+- Engine: tex-engine 0.30.14 (texts). Design parts: tex-ui 0.1.12.
+- Security review: new local data only (struggles, the times logged and
+  what was written), kept encrypted with Anivo's state; no network, no new
+  dependency. Testkit: secrets, hosts, unsafe, audit, clippy and tests pass;
+  licences: the known cabac item.
+
 ## 0.57.0 (2026-10-31) - Anivo: Calendar, Insights and Feelings, as designed
 
 Designed in Tex Studio and built from the same parts, each page checked at
