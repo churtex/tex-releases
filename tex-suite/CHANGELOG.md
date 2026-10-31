@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.57.0 (2026-10-31) - Anivo: Calendar, Insights and Feelings, as designed
+
+Designed in Tex Studio and built from the same parts, each page checked at
+full width and at the narrowest window:
+- **Anivo Calendar**: a reading mark on each day (full with a tick for both
+  readings, half for one) whose red deepens along a streak; fasting days
+  tinted; dots for a fast, a prayer begun, an answer, a hoped-for date;
+  pills to show or hide each; a day opens its reading.
+- **Insights** (Pray → Insights): days of prayer (or every year in weeks),
+  the counters against the time before, made and answered, the answer rate,
+  how long answers took, what still waits, answers by the hoped-for date;
+  numbers only, from your own prayers.
+- **Feelings** (a new section): **Emotions** (the last days as dots, this
+  month's share of each feeling, every entry) and the **Journal** (your
+  words with up to two feelings and a verse; the feelings show in Emotions).
+- Shared parts (tex-ui 0.1.11): a row's right part wraps inside the line
+  when it is wider than it; switches fit narrow rooms (tighter, then a
+  little smaller); both with tests.
+- Engine: tex-engine 0.30.13 (texts, English and French).
+- Security review: new local data only (the Calendar's layers, journal
+  entries: words, feelings, a verse), kept encrypted with Anivo's state in
+  the Vault; no network, no new dependency. Testkit: secrets, hosts, unsafe,
+  audit, clippy and tests pass; licences: the known cabac item.
+
 ## 0.56.0 (2026-10-31) - One text size for the whole app
 
 - **Text size for the whole app**: every text in Tex Suite (about 480
