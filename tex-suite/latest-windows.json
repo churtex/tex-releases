@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.54.0",
+ "version": "0.55.0",
  "date": "2026-10-31",
- "title": "Anivo: the Bible and My study, and nothing overlaps",
- "notes": "Designed in Tex Studio and built from the same parts:\n- **The King James home**: Continue reading (with the chapter's heading),\n  **Go to** as you type (\"John 3:16\", \"gen 1\", \"ps 23\"), the Old Testament\n  · New Testament · About · Copyright toggle, the books as tiles as wide as\n  the longest name needs.\n- **A chapter**: its headings, the verses in groups of four, the names of\n  God marked, **today's reading** beside the title (waiting, done, or the\n  extra kept for later), the arrows on the sheet's edges as you scroll, and\n  how the chapter left you.\n- **The verse bar** opens under the last verse you picked: four highlight\n  colours, bookmark, memorize, note, copy.\n- **My study**: Bookmarks (Bible order or newest), Highlights with a pill\n  per colour, My Notes edited in place, **Memory** (Learning with Practice,\n  Memorized with its day).\n- **Nothing overlaps any more when the window is narrow**: a title and its\n  button, the date and the streak, a form's fields and its buttons share a\n  line when they fit; otherwise the right part goes under (a shared part,\n  tex_ui::split, with a test). Toggles give long words the room they need.\n- Engine: tex-engine 0.30.8 (texts). Design parts: tex-ui 0.1.8.\n- Security review: no new data beyond the order bookmarks were made (kept\n  with the study, encrypted in the Vault); no network, no new reader of\n  outside data. Testkit: secrets, hosts, unsafe, audit (no vulnerabilities),\n  clippy and tests pass; licences: the known cabac item (being replaced).",
- "file": "0.54.0/Tex-Suite-Setup-0.54.0.exe",
- "size": 18539520,
- "sha256": "69e281069e57e42380f36e516b6be1958b2a7e6505170f663b0ba21c916ba1c9",
- "signature": "13c9044c28158f758c4b65165902c038af5ddcec6939c99c639ac69e3dc24a12ecd087c041ebf121bea4bbd0c4544daacb89c097ef580d3b353cb1ac1abeaf02"
+ "title": "Anivo: Prayers and Fasting, as designed",
+ "notes": "Designed in Tex Studio and built from the same parts:\n- **Prayers**: New prayer and the year switch in the title, recently\n  answered (three), then your prayer points with Answered and the bin; the\n  writing box with an optional hoped-for date (31/12/2026). Read Today's\n  prayer uses the same box.\n- **Prophecies**: kept like prayers, with who gave them and an awaited\n  date; Fulfilled in violet.\n- **Answers**: one timeline of answered prayers and fulfilled prophecies by\n  year and month; the two latest years as pills, earlier ones under Older.\n- **Fasting** (new, Pray → Fasting): plan a fast (full, partial, Daniel or\n  media; days, hours, a prayer it is for, a note); the fast in progress with\n  an hourglass that runs on your clock through the whole fast and stops at\n  its last hour, the days kept, End the fast; Coming up and Earlier.\n- Everything stays clear of everything else in a narrow window.\n- Engine: tex-engine 0.30.9 (texts; French for the new Bible, Prayers and\n  Fasting texts). Design parts: tex-ui 0.1.8.\n- Security review: new local data only (fasts: kind, days, hours, a prayer,\n  a note), kept encrypted with Anivo's state in the Vault; dates typed are\n  checked before they are kept; no network, no new dependency. Testkit:\n  secrets, hosts, unsafe, audit, clippy and tests pass; licences: the known\n  cabac item.",
+ "file": "0.55.0/Tex-Suite-Setup-0.55.0.exe",
+ "size": 18654720,
+ "sha256": "0ffa867289d0df609ab1e34311e9fb2ff1ed77022a1b54079edc069e36518041",
+ "signature": "e66463cd7e20711bac2e3227ef1518a2512ab17822957802855efb24a273ac639b7f498c1519b30c96f9849f042913a3e3c07b06258db21261a4d8dcbde9c209"
 }
