@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.56.0",
+ "version": "0.57.0",
  "date": "2026-10-31",
- "title": "One text size for the whole app",
- "notes": "- **Text size for the whole app**: every text in Tex Suite (about 480\n  places) now follows one size, the +3 approved in Tex Studio, as the Anivo\n  pages already did; the menu takes half the increase.\n- **Settings → Appearance → Text size**: A− and A+ make all of it smaller or\n  larger at once; Reset goes back to +3.\n- **No sign shows as an empty box**: arrows (→), ticks (✓) and other signs\n  our fonts lack come from a small cut of DejaVu Sans behind every font\n  (a test checks every family).\n- **A line of one word is never stretched**: justified text spread the\n  letters of a label that wrapped (\"a d v i s o r i e s\"); a test keeps it.\n- Engine: tex-engine 0.30.10 (texts). Design parts: tex-ui 0.1.9.\n- Security review: one new setting (a number, clamped to 0–8); one new\n  bundled font (DejaVu Sans, Bitstream Vera licence, in tex-ui); no\n  network, no new reader of outside data. Testkit: secrets, hosts, unsafe,\n  audit, clippy and tests pass; licences: the known cabac item.",
- "file": "0.56.0/Tex-Suite-Setup-0.56.0.exe",
- "size": 19024384,
- "sha256": "f413de01a0f56777c9500b8fd74a484d24b518e1c8f9c97a7570b53c609bb642",
- "signature": "01b5a0d4bbf6431ea6c262617faf2c5abc89f59a60a963d315353da1b05543e8cc31cfbbde2bfb30b7a614f7807025bd7a6984f33d823a3e19541486fc12df01"
+ "title": "Anivo: Calendar, Insights and Feelings, as designed",
+ "notes": "Designed in Tex Studio and built from the same parts, each page checked at\nfull width and at the narrowest window:\n- **Anivo Calendar**: a reading mark on each day (full with a tick for both\n  readings, half for one) whose red deepens along a streak; fasting days\n  tinted; dots for a fast, a prayer begun, an answer, a hoped-for date;\n  pills to show or hide each; a day opens its reading.\n- **Insights** (Pray → Insights): days of prayer (or every year in weeks),\n  the counters against the time before, made and answered, the answer rate,\n  how long answers took, what still waits, answers by the hoped-for date;\n  numbers only, from your own prayers.\n- **Feelings** (a new section): **Emotions** (the last days as dots, this\n  month's share of each feeling, every entry) and the **Journal** (your\n  words with up to two feelings and a verse; the feelings show in Emotions).\n- Shared parts (tex-ui 0.1.11): a row's right part wraps inside the line\n  when it is wider than it; switches fit narrow rooms (tighter, then a\n  little smaller); both with tests.\n- Engine: tex-engine 0.30.13 (texts, English and French).\n- Security review: new local data only (the Calendar's layers, journal\n  entries: words, feelings, a verse), kept encrypted with Anivo's state in\n  the Vault; no network, no new dependency. Testkit: secrets, hosts, unsafe,\n  audit, clippy and tests pass; licences: the known cabac item.",
+ "file": "0.57.0/Tex-Suite-Setup-0.57.0.exe",
+ "size": 19272704,
+ "sha256": "71d6c1f45fe7d96d897ae97085ab67b925e448f9dd6973dc646ab4d6cfad372a",
+ "signature": "08b619c537f58604af2b37999fafcaebee5bfed37beb443f35c26fced1594e8ed65b45a4b7105497a3bcf4d942562c6d8ad08cfdb99cdb901168fa6a4ddeeb08"
 }
