@@ -1,5 +1,41 @@
 # Changelog
 
+## 0.59.0 (2026-10-31) - Anivo: Sermons, date and time pickers, the OffGrid box
+
+Designed in Tex Studio and built from the same pages:
+- **Sermons** (Sermons → Sermons): keep the sermons you hear. **New
+  sermon** keeps the title, the preacher (pick one kept before and the
+  church fills in) and church, the date, a category (or a new one), the
+  verses, your notes and a link to watch or listen again. The list goes by
+  month, newest first, with category pills and a search; a sermon's page
+  opens its verses in the Bible. Only on this device, encrypted in the Vault.
+- **Dates are picked from a calendar, times from a 24-hour clock**: every
+  date field (hoped-for date, fasting days, sermon date) opens a month view.
+  Click the month or the year to choose another one. Every time field (the
+  hours of a fast, the time an addiction happened) opens hours 00–23 and
+  minutes in fives.
+- **The hoped-for date** can be at most a year in the past and at most 82
+  years ahead; other dates are faded and cannot be picked.
+- **The OffGrid box** in the bottom bar: a ring shows how ready your
+  library is to live without the internet (movies and ebooks, the targets
+  to be set), and the **OnGrid / OffGrid** switch turns off-grid mode on or
+  off. The version stays at the top. In the narrow icon rail only the
+  ring shows.
+- **The Anivo menu scrolls** when the window is short and stops above the
+  bottom bar (its last item ran under the bar).
+- **Screenshot runs keep a folder of their own**: they had been saving the
+  sample library's settings into the real settings folder (a test now
+  guards it). The internet-address check no longer stumbles on "…".
+- Engine: tex-engine 0.30.16 (texts). Design parts: tex-ui 0.1.16.
+- Security review: new local data only (sermons and their notes, links the
+  user types), kept encrypted with Anivo's state. A typed link could have
+  reached the system opener as a local file or program: links now open
+  only when they are http(s) web addresses (tested with hostile inputs:
+  file paths, programs, other schemes, quotes and options). Nothing is
+  fetched by itself. Samples use reserved example addresses. No new
+  dependency. Testkit: secrets, hosts, unsafe, sbom, audit, clippy and tests (54)
+  pass; licences: the known cabac item.
+
 ## 0.58.0 (2026-10-31) - Anivo: Addictions, About Anivo, balanced buttons
 
 Designed in Tex Studio and built from the same pages:
