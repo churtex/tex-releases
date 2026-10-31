@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.56.0 (2026-10-31) - One text size for the whole app
+
+- **Text size for the whole app**: every text in Tex Suite (about 480
+  places) now follows one size, the +3 approved in Tex Studio, as the Anivo
+  pages already did; the menu takes half the increase.
+- **Settings → Appearance → Text size**: A− and A+ make all of it smaller or
+  larger at once; Reset goes back to +3.
+- **No sign shows as an empty box**: arrows (→), ticks (✓) and other signs
+  our fonts lack come from a small cut of DejaVu Sans behind every font
+  (a test checks every family).
+- **A line of one word is never stretched**: justified text spread the
+  letters of a label that wrapped ("a d v i s o r i e s"); a test keeps it.
+- Engine: tex-engine 0.30.10 (texts). Design parts: tex-ui 0.1.9.
+- Security review: one new setting (a number, clamped to 0–8); one new
+  bundled font (DejaVu Sans, Bitstream Vera licence, in tex-ui); no
+  network, no new reader of outside data. Testkit: secrets, hosts, unsafe,
+  audit, clippy and tests pass; licences: the known cabac item.
+
 ## 0.55.0 (2026-10-31) - Anivo: Prayers and Fasting, as designed
 
 Designed in Tex Studio and built from the same parts:

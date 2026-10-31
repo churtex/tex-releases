@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.55.0",
+ "version": "0.56.0",
  "date": "2026-10-31",
- "title": "Anivo: Prayers and Fasting, as designed",
- "notes": "Designed in Tex Studio and built from the same parts:\n- **Prayers**: New prayer and the year switch in the title, recently\n  answered (three), then your prayer points with Answered and the bin; the\n  writing box with an optional hoped-for date (31/12/2026). Read Today's\n  prayer uses the same box.\n- **Prophecies**: kept like prayers, with who gave them and an awaited\n  date; Fulfilled in violet.\n- **Answers**: one timeline of answered prayers and fulfilled prophecies by\n  year and month; the two latest years as pills, earlier ones under Older.\n- **Fasting** (new, Pray → Fasting): plan a fast (full, partial, Daniel or\n  media; days, hours, a prayer it is for, a note); the fast in progress with\n  an hourglass that runs on your clock through the whole fast and stops at\n  its last hour, the days kept, End the fast; Coming up and Earlier.\n- Everything stays clear of everything else in a narrow window.\n- Engine: tex-engine 0.30.9 (texts; French for the new Bible, Prayers and\n  Fasting texts). Design parts: tex-ui 0.1.8.\n- Security review: new local data only (fasts: kind, days, hours, a prayer,\n  a note), kept encrypted with Anivo's state in the Vault; dates typed are\n  checked before they are kept; no network, no new dependency. Testkit:\n  secrets, hosts, unsafe, audit, clippy and tests pass; licences: the known\n  cabac item.",
- "file": "0.55.0/tex-suite-0.55.0-linux-x86_64.tar.gz",
- "size": 21614996,
- "sha256": "e54467d63fdbc6424bd976c4d5d4120c041df47be28f8694ca824d18e6a56f12",
- "signature": "45ad695729e560cf388c53679218fe5f027336925a4525b08f9d507beec0531c13de563da5daf6a9967ea4782aa9db4ceba1feefc080dd6cd3d0f7c55a074f0d"
+ "title": "One text size for the whole app",
+ "notes": "- **Text size for the whole app**: every text in Tex Suite (about 480\n  places) now follows one size, the +3 approved in Tex Studio, as the Anivo\n  pages already did; the menu takes half the increase.\n- **Settings → Appearance → Text size**: A− and A+ make all of it smaller or\n  larger at once; Reset goes back to +3.\n- **No sign shows as an empty box**: arrows (→), ticks (✓) and other signs\n  our fonts lack come from a small cut of DejaVu Sans behind every font\n  (a test checks every family).\n- **A line of one word is never stretched**: justified text spread the\n  letters of a label that wrapped (\"a d v i s o r i e s\"); a test keeps it.\n- Engine: tex-engine 0.30.10 (texts). Design parts: tex-ui 0.1.9.\n- Security review: one new setting (a number, clamped to 0–8); one new\n  bundled font (DejaVu Sans, Bitstream Vera licence, in tex-ui); no\n  network, no new reader of outside data. Testkit: secrets, hosts, unsafe,\n  audit, clippy and tests pass; licences: the known cabac item.",
+ "file": "0.56.0/tex-suite-0.56.0-linux-x86_64.tar.gz",
+ "size": 21978780,
+ "sha256": "56f27eaa34ea9c5e67231274f4480628bd7b223edc3c8f27305801fdcc2d799f",
+ "signature": "8c1a50f875fa6b40c27f1146c5ffeab79cffe6153b56789bf7d69d14de601c7e823388410cf7ea6da713241b4022975c91af7e5132423b5d3de8703692a40c0f"
 }
