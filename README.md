@@ -16,17 +16,17 @@ without the internet: Media, Books, Pedia, Tools, Edu, Anivo and the Vault
 - Systems: Windows and Linux (Android coming)
 
 <!-- downloads -->
-### Download Tex Suite 0.58.0
+### Download Tex Suite 0.59.0
 
 | System | File |
 |---|---|
-| Windows 10 / 11 | [Tex-Suite-Setup-0.58.0.exe](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.58.0/Tex-Suite-Setup-0.58.0.exe) |
-| Ubuntu, Linux Mint, Debian | [tex-suite_0.58.0-1_amd64.deb](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.58.0/tex-suite_0.58.0-1_amd64.deb) |
-| Fedora, AlmaLinux, openSUSE | [tex-suite-0.58.0-1.x86_64.rpm](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.58.0/tex-suite-0.58.0-1.x86_64.rpm) |
-| Any Linux | [tex-suite-0.58.0-linux-x86_64.tar.gz](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.58.0/tex-suite-0.58.0-linux-x86_64.tar.gz) |
+| Windows 10 / 11 | [Tex-Suite-Setup-0.59.0.exe](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.59.0/Tex-Suite-Setup-0.59.0.exe) |
+| Ubuntu, Linux Mint, Debian | [tex-suite_0.59.0-1_amd64.deb](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.59.0/tex-suite_0.59.0-1_amd64.deb) |
+| Fedora, AlmaLinux, openSUSE | [tex-suite-0.59.0-1.x86_64.rpm](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.59.0/tex-suite-0.59.0-1.x86_64.rpm) |
+| Any Linux | [tex-suite-0.59.0-linux-x86_64.tar.gz](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.59.0/tex-suite-0.59.0-linux-x86_64.tar.gz) |
 
 Each file has a `.sig` signature beside it and a line in
-[SHA256SUMS](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.58.0/SHA256SUMS). Windows may show "Windows protected your PC"
+[SHA256SUMS](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.59.0/SHA256SUMS). Windows may show "Windows protected your PC"
 the first time: choose **More info → Run anyway** (the installer is not yet
 signed with a Microsoft certificate; Tex Suite checks its own signature at
 every start).
