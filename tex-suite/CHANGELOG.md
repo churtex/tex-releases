@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.53.0 (2026-10-31) - Anivo: the new Read Today
+
+Designed with the founder in Tex Studio, the live Rust design window, and
+built from the same parts, so the app shows exactly what was approved:
+- **Read Today in seven steps** on a new day card: the date, Day N of the
+  year, a bigger streak, the Main and Extra passages (click one to read it)
+  and the steps **Prayer · Main · Notes · Extra · Notes · Summary · Done**.
+  In a narrow window only the step you are on shows its name.
+- **Prayer**: a different verse every day to pray with, your prayer points
+  (Answered, the bin, **New prayer** with an optional hoped-for date written
+  as 31/12/2026) and **Amen**.
+- **Main and Extra readings** on white sheets in EB Garamond, the names of
+  God marked, each with its title; then **how did this reading leave you?**
+  (up to two of four faces); the Extra reading can wait with **Read later**.
+- **Notes** after each reading, kept as you type.
+- **Summary**: a gentle look back (minutes spent, the usual minutes, how much
+  was read, your feelings and notes; never a grade, only on this device),
+  then a blessing.
+- **Done**: today's task (one small thing to do for someone), **I did it**,
+  with paper and crosses falling.
+- **Words and icons sit in the middle of every button, pill and toggle**,
+  measured on what is drawn (the shared tex-ui parts; a test keeps it).
+- **A bottom bar on every page**: the version (v0.53.0) and the copyright.
+- English only for now: the other languages are shown, greyed, not chosen
+  (French returns when its texts are complete).
+- Engine: tex-engine 0.30.7 (texts). Design parts: tex-ui 0.1.4.
+- Dependencies: log 0.4.35.
+- Security review: new local data only (steps, notes, feelings, reading
+  times, tasks), kept encrypted with Anivo's state in the Vault; no network,
+  no new reader of outside data; tex-ui is our own code. cargo audit: no
+  vulnerabilities (5 crates flagged unmaintained, as before); secrets scan of
+  the changes: clean.
+
 ## 0.52.0 (2026-10-30) - Anivo: Prayers, Prophecies and Answers
 
 Designed with the founder in the live replica (design/replica), approved:
