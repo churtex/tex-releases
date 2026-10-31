@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.60.0 (2026-10-31) - Anivo in French, its icons as designed, What's new dots that clear
+
+- **Anivo's menu has the icons drawn in Tex Studio**: the app kept a copy
+  with its own icons (six of seventeen differed). The menu is now defined
+  once in tex-ui and both draw it the same way.
+- **What's new dots inside Anivo**: after an update, the pages that are new
+  carry the green dot in Anivo's menu, so you can see where to go. The
+  app's dot on the rail now clears once you have opened them. Before, the
+  rail dot stayed. A test checks that every new page has a dot to find.
+- **Addictions and Sermons in French**: their words, dates, month and day
+  names, counts ("3 jours", "1 prédication") and the sermon categories.
+  The pages drawn in Tex Studio run unchanged in the app and say their
+  words in the chosen language.
+- Fixed: French month names with accents (août) crashed the Addictions
+  graph (a word was cut in the middle of a letter); short month names are
+  now their own words (juin, juil.).
+- Engine: tex-engine 0.30.18 (texts, `lang::from_english`). Design parts:
+  tex-ui 0.1.21 (`ANIVO_MENU`, `menu_item_new`, `tr`/`trf`, `first_letters`).
+- Security review: no new data, no network, no new dependency; the
+  translator only looks up fixed texts. Tools: `tools/studio-pages.sh`
+  copies the Tex Studio pages into the app. Testkit: secrets, hosts, unsafe,
+  sbom, audit, clippy and tests (55) pass; licences: the known cabac item.
+
 ## 0.59.0 (2026-10-31) - Anivo: Sermons, date and time pickers, the OffGrid box
 
 Designed in Tex Studio and built from the same pages:
