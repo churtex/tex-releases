@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.69.20 (2026-11-07) - Files and voice calls in TexChat; subtitles from a file
+- **Files in TexChat**: "Send a file" in an open chat sends any file straight to the other
+ device, sealed between the two; it arrives in their library, encrypted, and the chat shows it
+ with Open. Live lines show how far a file has gone each way.
+- **Voice calls in TexChat**: "Voice call" in an open chat rings the other device (Answer or
+ Decline); while talking: the time, Mute and End call. The voice is made small by Opus
+ (about 24 kbit/s, 20 ms pieces) and sealed like the messages; nothing goes through the
+ internet.
+- **Subtitles from a file**: the player's subtitles button adds a .srt file (a right click when
+ the film already has subtitles), as other players do; it is kept with the film, encrypted,
+ and shown instead of the film's own. Downloading subtitles from the internet is not part of
+ the app.
+
 ## 0.69.19 (2026-11-07) - Bookmarks in books; song covers
 - **Bookmarks in the reader**: "Bookmark" marks the exact spot being read (the page and, in
  landscape, its top or bottom half); "Bookmarks (n)" lists them by page, a click goes there and

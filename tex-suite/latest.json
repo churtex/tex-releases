@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.19",
+ "version": "0.69.20",
  "date": "2026-11-07",
- "title": "Bookmarks in books; song covers",
- "notes": "- **Bookmarks in the reader**: \"Bookmark\" marks the exact spot being read (the page and, in\n landscape, its top or bottom half); \"Bookmarks (n)\" lists them by page, a click goes there and\n ✕ takes one away. Kept encrypted in the Vault with the reading places; earlier places still\n read. On a narrow window the Fit buttons step aside to make room (zoom + and − stay).\n- **Song covers**: the song bar shows the song's own cover picture when it carries one.\n- **Songs in the shelf's order**: a song clicked on the Music shelf plays on in the order the\n shelf shows (its sort and filters).",
- "file": "0.69.19/tex-suite-0.69.19-linux-x86_64.tar.gz",
- "size": 25447208,
- "sha256": "8a29af22952f36761985f8a8f5a390ec4e6c7060a51de7682a89f1240aadc731",
- "signature": "5218f0f262ff6549e22de04b70dd39c9dcf79b6a122c434ea2240bba6630d33b3603eec006f6b25bb94a4d383295a5cb12643e1e1434cf4c30009f1e7737fe0a"
+ "title": "Files and voice calls in TexChat; subtitles from a file",
+ "notes": "- **Files in TexChat**: \"Send a file\" in an open chat sends any file straight to the other\n device, sealed between the two; it arrives in their library, encrypted, and the chat shows it\n with Open. Live lines show how far a file has gone each way.\n- **Voice calls in TexChat**: \"Voice call\" in an open chat rings the other device (Answer or\n Decline); while talking: the time, Mute and End call. The voice is made small by Opus\n (about 24 kbit/s, 20 ms pieces) and sealed like the messages; nothing goes through the\n internet.\n- **Subtitles from a file**: the player's subtitles button adds a .srt file (a right click when\n the film already has subtitles), as other players do; it is kept with the film, encrypted,\n and shown instead of the film's own. Downloading subtitles from the internet is not part of\n the app.",
+ "file": "0.69.20/tex-suite-0.69.20-linux-x86_64.tar.gz",
+ "size": 25656749,
+ "sha256": "fbb790b14f5faf6e943f1ff0effad76c9fbb0eea499036c1bdb48c9d86f8305f",
+ "signature": "062fc280c75fa18810791cdf8a502c693d29319df3027c2f6068cdaf6d0f0464d6df3d6c7052eec31b38cace62ac6552ed05e3e7863a7d2daffcdcdacd4c6e00"
 }
