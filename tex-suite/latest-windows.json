@@ -1,0 +1,11 @@
+{
+  "app": "tex-suite",
+  "version": "0.69.2",
+  "date": "2026-11-06",
+  "title": "Name your devices; your AID in boxes",
+  "notes": "- **Your AID in sixteen boxes**:\n type it one character at a time, or paste it whole; the box to fill\n glows, each character pops in, and a light sweeps across while ASI\n Portal checks it.\n- **An AID no account has is said plainly**: before, nothing showed at all.\n- **Name your devices**: under This device's name, on Share & Sync and\n when linking your AID; ASI Portal's My Devices and your other devices\n show it. A computer with no name of its own is no longer called\n \"Churtex\".\n- **Ten devices on one AID**.\n- **The player, truly full screen**: the film takes the whole screen, no menu or bars; Exit full screen\n (or F, or Esc) brings them back.\n- **−10 s and +10 s** beside Play, and **playback speed** 0.5×, 1×, 1.5×,\n 2×, the voices kept\n at their own pitch (a time-stretch, tested: a 440 Hz tone stays 440 Hz at\n every speed).\n- **The account button**: your initials, in the same square as the padlock\n beside it.\n- **Chat**, with two tabs: **Tex** (the assistant) and **Others** (people\n on your network).\n- **Choose what to sync**: nothing goes until you have chosen; Sync waits.\n- **On Linux**, when nobody shows up, Share & Sync gives the command that\n lets ChurtexMe through the firewall.\n- Help: Share & Sync, and Chat (naming, choosing, the firewall); Find your\n way around (Chat).\n- Security review: the device name is plain text, at most 40 characters,\n control characters removed on both sides; the AID boxes take letters\n and numbers only.\n- Dependencies: tex-ui 0.1.71.",
+  "file": "0.69.2/Tex-Suite-Setup-0.69.2.exe",
+  "size": 21828096,
+  "sha256": "7676256b90d22bdaaff4dec6900bba555c325b3dc1d9d71eaf334aa35819d81f",
+  "signature": "0ca42d0817e832719436f47b9cebbc1c37a8663694bd8a3b47f4899cb8ef96411b1da0d5fe36749225449763f2d16bffa5bec56ad3db921e0914d5ea19b4340f"
+}
