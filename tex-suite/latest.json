@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.20",
- "date": "2026-11-07",
- "title": "Files and voice calls in TexChat; subtitles from a file",
- "notes": "- **Files in TexChat**: \"Send a file\" in an open chat sends any file straight to the other\n device, sealed between the two; it arrives in their library, encrypted, and the chat shows it\n with Open. Live lines show how far a file has gone each way.\n- **Voice calls in TexChat**: \"Voice call\" in an open chat rings the other device (Answer or\n Decline); while talking: the time, Mute and End call. The voice is made small by Opus\n (about 24 kbit/s, 20 ms pieces) and sealed like the messages; nothing goes through the\n internet.\n- **Subtitles from a file**: the player's subtitles button adds a .srt file (a right click when\n the film already has subtitles), as other players do; it is kept with the film, encrypted,\n and shown instead of the film's own. Downloading subtitles from the internet is not part of\n the app.",
- "file": "0.69.20/tex-suite-0.69.20-linux-x86_64.tar.gz",
- "size": 25656749,
- "sha256": "fbb790b14f5faf6e943f1ff0effad76c9fbb0eea499036c1bdb48c9d86f8305f",
- "signature": "062fc280c75fa18810791cdf8a502c693d29319df3027c2f6068cdaf6d0f0464d6df3d6c7052eec31b38cace62ac6552ed05e3e7863a7d2daffcdcdacd4c6e00"
+  "app": "tex-suite",
+  "version": "0.69.20",
+  "date": "2026-11-07",
+  "title": "Files and voice calls in TexChat; subtitles from a file",
+  "notes": "- **Files in TexChat**: \"Send a file\" in an open chat sends any file straight to the other\n device, sealed between the two; it arrives in their library, encrypted, and the chat shows it\n with Open. Live lines show how far a file has gone each way.\n- **Voice calls in TexChat**: \"Voice call\" in an open chat rings the other device (Answer or\n Decline); while talking: the time, Mute and End call. The voice is made small by Opus\n (about 24 kbit/s, 20 ms pieces) and sealed like the messages; nothing goes through the\n internet.\n- **Subtitles from a file**: the player's subtitles button adds a .srt file (a right click when\n the film already has subtitles), as other players do; it is kept with the film, encrypted,\n and shown instead of the film's own. Downloading subtitles from the internet is not part of\n the app.",
+  "file": "0.69.20/tex-suite-0.69.20-linux-x86_64.tar.gz",
+  "size": 25656749,
+  "sha256": "fbb790b14f5faf6e943f1ff0effad76c9fbb0eea499036c1bdb48c9d86f8305f",
+  "signature": "062fc280c75fa18810791cdf8a502c693d29319df3027c2f6068cdaf6d0f0464d6df3d6c7052eec31b38cace62ac6552ed05e3e7863a7d2daffcdcdacd4c6e00",
+  "deb": "0.69.20/tex-suite_0.69.20-1_amd64.deb",
+  "rpm": "0.69.20/tex-suite-0.69.20-1.x86_64.rpm"
 }
