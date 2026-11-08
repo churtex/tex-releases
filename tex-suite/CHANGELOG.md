@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.69.37 (2026-11-09) - The Psalms titled, and more
+- **Every Psalm has its title** in Anivo's own words, all 150.
+- **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).
+- tex-engine 0.30.56 (the headings).
+
 ## 0.69.36 (2026-11-09) - The histories titled: Joshua to Kings
 - **Section headings for Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings** in Anivo's own
  words (235 more).

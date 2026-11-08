@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.36",
-  "date": "2026-11-09",
-  "title": "The histories titled: Joshua to Kings",
-  "notes": "- **Section headings for Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings** in Anivo's own\n words (235 more).\n- tex-engine 0.30.55 (the headings).",
-  "file": "0.69.36/tex-suite-0.69.36-linux-x86_64.tar.gz",
-  "size": 29528977,
-  "sha256": "40044f9316ecc523099db664953bc52c656cc34bc53010100ccc127c7ce8d861",
-  "signature": "98bd8df2a0cadecf513da335934aa0dba537bb6a733562d5e51fdfa6832f5ad221f364e8d4d44592d118fc48e4b36409df8f66c29ad84abc30eb5e4a8955800c",
-  "deb": "0.69.36/tex-suite_0.69.36-1_amd64.deb",
-  "rpm": "0.69.36/tex-suite-0.69.36-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.37",
+ "date": "2026-11-09",
+ "title": "The Psalms titled, and more",
+ "notes": "- **Every Psalm has its title** in Anivo's own words, all 150.\n- **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).\n- tex-engine 0.30.56 (the headings).",
+ "file": "0.69.37/tex-suite-0.69.37-linux-x86_64.tar.gz",
+ "size": 29529985,
+ "sha256": "de814a9b24b77f83486f423207fcf8641ce74eab717523865d887cabdff68cad",
+ "signature": "ee9aab69d2c9d45b10da3fccb30e0d05596c57f5f0bc63bf2f35fd3687a86e58167ed46e3fe7628ebf9ddbbc7bb03206cb4bf8d2fe18bc9f422bd72e7178e801"
 }
