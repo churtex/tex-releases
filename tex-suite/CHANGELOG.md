@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.69.39 (2026-11-09) - The whole Bible titled
+- **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,
+ Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis
+ to Revelation, each on its own verse.
+- tex-engine 0.30.58 (the headings).
+
 ## 0.69.38 (2026-11-09) - Wisdom and the twelve prophets titled
 - **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the
  twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).

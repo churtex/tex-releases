@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.38",
-  "date": "2026-11-09",
-  "title": "Wisdom and the twelve prophets titled",
-  "notes": "- **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the\n twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).\n- tex-engine 0.30.57 (the headings).",
-  "file": "0.69.38/tex-suite-0.69.38-linux-x86_64.tar.gz",
-  "size": 29537980,
-  "sha256": "419f9919e76f3e01b72a142536541c696236870e71a40bdfc7e7d71c7c85c7a8",
-  "signature": "7a11c970a9ace4f7fe77351e9850843330e130d02798e1886b64d2ccdd7c72f53cdfd806ad72c337d39777a5fe7f4e3398d1c4427ebf83e2ee90df938276d50a",
-  "deb": "0.69.38/tex-suite_0.69.38-1_amd64.deb",
-  "rpm": "0.69.38/tex-suite-0.69.38-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.39",
+ "date": "2026-11-09",
+ "title": "The whole Bible titled",
+ "notes": "- **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,\n Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis\n to Revelation, each on its own verse.\n- tex-engine 0.30.58 (the headings).",
+ "file": "0.69.39/tex-suite-0.69.39-linux-x86_64.tar.gz",
+ "size": 29537571,
+ "sha256": "f10c9dacc657774c714e882e52f87373a9085b4652caa605bd904dd4dfe42542",
+ "signature": "ea129b7e1eb022a8ce94322da20a2924cb575da810bb5f578cf8c65d8eb38611297b8e9ada4395fe0203e739c07fc5a36f20f65545781197ab5b4b6803000804"
 }
