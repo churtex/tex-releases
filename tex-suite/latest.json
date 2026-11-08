@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.25",
- "date": "2026-11-08",
- "title": "Record sermons; Preachers and Ministries found fast; Ctrl+B",
- "notes": "- **Record a sermon** inside the app: Record on the sermon's form, a live clock and level,\n Pause, Resume, Stop and keep. It goes on while you look at other pages, is kept encrypted in\n your library as a talk (made smaller by Space Saver), and plays with TexMe's own player:\n Listen on the sermon. Up to four hours.\n- **\"+ New preacher / ministry / category\"** on the sermon form opens that list's own page,\n its form ready. Keep it, press Back to the sermon: the new one is already picked.\n- **Preachers**: search by name, title or ministry; group by letter, ministry or title.\n- **Ministries**: search by name, country or region; sort A–Z, by most sermons, or churches\n then ministries.\n- **Categories and Titles**: a pencil renames one, and every sermon or preacher carrying it\n follows.\n- **Rich text**: Ctrl+B bold, Ctrl+I italic, Ctrl+Alt+1 heading, Ctrl+Shift+8 points,\n Ctrl+Shift+7 numbered (Cmd on a Mac); bold and italic look so while you write.\n- **Autosave everywhere you write in Anivo**: the sermon, the journal, prayers and prophecies,\n the fast and the prayer session being planned, the Preachers and Ministries forms. What you\n type is kept, encrypted, a second after you stop (at most three seconds while typing on), and\n comes back in its form after the app closes. The Save and Done buttons stay as they are.\n- tex-ui 0.1.85 (keys, rich text), tex-games 0.1.12, tex-sound 0.1.2 (recording).",
- "file": "0.69.25/tex-suite-0.69.25-linux-x86_64.tar.gz",
- "size": 28992102,
- "sha256": "fef6baa92ae8e6680e199bd8fc24ff4a283ec8d7441dafc270de707b4fd5603a",
- "signature": "c489f86cc5131d162734a1e3fc78b1651a635c6d0df4c8c554305f3c2a5855b0b8126554f278a825fbf362824b8d88a5ae0dd5c8f8e824854cd98373eaa03303"
+  "app": "tex-suite",
+  "version": "0.69.25",
+  "date": "2026-11-08",
+  "title": "Record sermons; Preachers and Ministries found fast; Ctrl+B",
+  "notes": "- **Record a sermon** inside the app: Record on the sermon's form, a live clock and level,\n Pause, Resume, Stop and keep. It goes on while you look at other pages, is kept encrypted in\n your library as a talk (made smaller by Space Saver), and plays with TexMe's own player:\n Listen on the sermon. Up to four hours.\n- **\"+ New preacher / ministry / category\"** on the sermon form opens that list's own page,\n its form ready. Keep it, press Back to the sermon: the new one is already picked.\n- **Preachers**: search by name, title or ministry; group by letter, ministry or title.\n- **Ministries**: search by name, country or region; sort A–Z, by most sermons, or churches\n then ministries.\n- **Categories and Titles**: a pencil renames one, and every sermon or preacher carrying it\n follows.\n- **Rich text**: Ctrl+B bold, Ctrl+I italic, Ctrl+Alt+1 heading, Ctrl+Shift+8 points,\n Ctrl+Shift+7 numbered (Cmd on a Mac); bold and italic look so while you write.\n- **Autosave everywhere you write in Anivo**: the sermon, the journal, prayers and prophecies,\n the fast and the prayer session being planned, the Preachers and Ministries forms. What you\n type is kept, encrypted, a second after you stop (at most three seconds while typing on), and\n comes back in its form after the app closes. The Save and Done buttons stay as they are.\n- tex-ui 0.1.85 (keys, rich text), tex-games 0.1.12, tex-sound 0.1.2 (recording).",
+  "file": "0.69.25/tex-suite-0.69.25-linux-x86_64.tar.gz",
+  "size": 28992102,
+  "sha256": "fef6baa92ae8e6680e199bd8fc24ff4a283ec8d7441dafc270de707b4fd5603a",
+  "signature": "c489f86cc5131d162734a1e3fc78b1651a635c6d0df4c8c554305f3c2a5855b0b8126554f278a825fbf362824b8d88a5ae0dd5c8f8e824854cd98373eaa03303",
+  "deb": "0.69.25/tex-suite_0.69.25-1_amd64.deb",
+  "rpm": "0.69.25/tex-suite-0.69.25-1.x86_64.rpm"
 }
