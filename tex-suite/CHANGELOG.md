@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.69.26 (2026-11-08) - Examples & Testimonies
+- **Examples & Testimonies** (Sermons): short pieces to tell again, an example, a testimony, a
+ story, a quotation; each with a title, its words in rich text, a verse and who it came from.
+ Search them, or show one kind at a time. Kept encrypted with Anivo and carried by Sync; the
+ form autosaves as you type and keeps its Keep button.
+- tex-ui 0.1.86 (the menu entry), tex-engine 0.30.50 (words), tex-games 0.1.13, tex-sound 0.1.3.
+
 ## 0.69.25 (2026-11-08) - Record sermons; Preachers and Ministries found fast; Ctrl+B
 - **Record a sermon** inside the app: Record on the sermon's form, a live clock and level,
  Pause, Resume, Stop and keep. It goes on while you look at other pages, is kept encrypted in
