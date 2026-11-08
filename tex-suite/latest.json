@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.26",
-  "date": "2026-11-08",
-  "title": "Examples & Testimonies",
-  "notes": "- **Examples & Testimonies** (Sermons): short pieces to tell again, an example, a testimony, a\n story, a quotation; each with a title, its words in rich text, a verse and who it came from.\n Search them, or show one kind at a time. Kept encrypted with Anivo and carried by Sync; the\n form autosaves as you type and keeps its Keep button.\n- tex-ui 0.1.86 (the menu entry), tex-engine 0.30.50 (words), tex-games 0.1.13, tex-sound 0.1.3.",
-  "file": "0.69.26/tex-suite-0.69.26-linux-x86_64.tar.gz",
-  "size": 29017574,
-  "sha256": "576564deb67218e8c062ca671de0ef9095be3f460cab7be18ee3cda050672364",
-  "signature": "862f6855b943da632b0e1f4ac67db7cf80ebd707910465939f17c949c274a905d910db798e9c982458e1ce2f37aae549325afe30eb142e37605096d85682c906",
-  "deb": "0.69.26/tex-suite_0.69.26-1_amd64.deb",
-  "rpm": "0.69.26/tex-suite-0.69.26-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.27",
+ "date": "2026-11-08",
+ "title": "Home is home again; the Dashboard back on top",
+ "notes": "- **The Dashboard** is our logo again, at the top of the rail, with its own menu (Search,\n Insights).\n- **Home** has a real house and is about the home: Smart Home, My Finances, My Vehicles and My\n Supplies, moved here from the Vault's Household.",
+ "file": "0.69.27/tex-suite-0.69.27-linux-x86_64.tar.gz",
+ "size": 29016965,
+ "sha256": "3dd68a2bdf13c29c1ab54cdd418a611ba61dd9fa2b4db9d8a79f9cf07ac455dd",
+ "signature": "4bdb3049036f09b73ac679ecab772ff4d690b0232a36df8af3d7292a476bbe5005eb33dbc2a0f7ee2b3a392aa80d3c18832ceb0c51117950096a2af920978f08"
 }

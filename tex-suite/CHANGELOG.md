@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.69.27 (2026-11-08) - Home is home again; the Dashboard back on top
+- **The Dashboard** is our logo again, at the top of the rail, with its own menu (Search,
+ Insights).
+- **Home** has a real house and is about the home: Smart Home, My Finances, My Vehicles and My
+ Supplies, moved here from the Vault's Household.
+
 ## 0.69.26 (2026-11-08) - Examples & Testimonies
 - **Examples & Testimonies** (Sermons): short pieces to tell again, an example, a testimony, a
  story, a quotation; each with a title, its words in rich text, a verse and who it came from.
