@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.34",
-  "date": "2026-11-08",
-  "title": "The whole New Testament titled",
-  "notes": "- **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every\n passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870\n in the New Testament).\n- tex-engine 0.30.53 (the headings).",
-  "file": "0.69.34/tex-suite-0.69.34-linux-x86_64.tar.gz",
-  "size": 29525983,
-  "sha256": "a2379ef38e2ed08b6117817d78c04ef25afce1e6c76a63ff3c2f1c28036a6d69",
-  "signature": "9e233972e339547d7dcdd13e9e9a9ea85348066803b5101a26fb88a25c08352081c3ae65d2dc97be6c389330a869c3f5bf1e9da845ff0e13892ab090296ad501",
-  "deb": "0.69.34/tex-suite_0.69.34-1_amd64.deb",
-  "rpm": "0.69.34/tex-suite-0.69.34-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.35",
+ "date": "2026-11-08",
+ "title": "The books of Moses titled",
+ "notes": "- **Section headings for Exodus, Leviticus, Numbers and Deuteronomy** in Anivo's own words\n (247 more): with Genesis, the five books of Moses are titled, as the whole New Testament is.\n- tex-engine 0.30.54 (the headings).",
+ "file": "0.69.35/tex-suite-0.69.35-linux-x86_64.tar.gz",
+ "size": 29525316,
+ "sha256": "a6f522ee0cc63f5129e1e4ef4cc3c3cadfd989792a9b7e2bcb2174df46c3c5fa",
+ "signature": "4964737a0874d615d225d59dd0b4e23753873c293eb47c33a251b61331e746c4b802b978b7fb683912823328a9601661543fcd207291216ca6593c04823c7a06"
 }

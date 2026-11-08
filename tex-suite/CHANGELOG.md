@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.69.35 (2026-11-08) - The books of Moses titled
+- **Section headings for Exodus, Leviticus, Numbers and Deuteronomy** in Anivo's own words
+ (247 more): with Genesis, the five books of Moses are titled, as the whole New Testament is.
+- tex-engine 0.30.54 (the headings).
+
 ## 0.69.34 (2026-11-08) - The whole New Testament titled
 - **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every
  passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870
