@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.22",
- "date": "2026-11-08",
- "title": "TexMe; Prayer Locations; folders; new-update dots",
- "notes": "- **The app is now TexMe** (the personal edition of the Tex family: TexMe, TexGo for schools,\n TexArk for churches and ministries, TexOne for organizations): the name in the window, the\n menu, the logo and every word. Updates carry on as before.\n- **Stewardship**: Contributions (was Giving) and Love & Charity (was Charity).\n- **My Prayers** (was Prayers) and **Prayer Locations** under Prayer sessions: the places where\n you pray, picked when planning a session; a new place typed while planning joins the list;\n each place says how many sessions were held there.\n- **Prayer sessions** show the time planned and the time prayed (\"Planned 1m · Prayed 1:15\");\n Pray Insights has them too: how many, the time prayed, the average, how many reached their\n plan.\n- **Read later** sits at the top of the extra reading in Daily Reading.\n- **All Bible Versions** marks the version in use: the accent around it and \"In use\".\n- **Import a folder**: every file inside it (its folders too) goes to its own shelf, films to\n Movies, episodes to Series, songs to Music, books to Books; hidden folders are left alone and\n other files are skipped. Folders can also be dropped on the window.\n- **Green dots after an update**: on the rail, the menu section and the item that changed;\n each goes the first time it is opened and does not come back for that version.\n- tex-ui 0.1.82 (Prayer Locations in Anivo's menu), tex-games 0.1.9, tex-engine 0.30.46 (words).",
- "file": "0.69.22/tex-suite-0.69.22-linux-x86_64.tar.gz",
- "size": 28770603,
- "sha256": "22142125c3f4a9db1cb2b8675598ae2be997505712186b7fd649002eb55be549",
- "signature": "990c7339f8846c9c2261282b35a3c5398dc310a4db4229d29f61714cb57c53d95c2380df1ba697333c516394d2411b22ade0b86cf8cfa8a37831880c4487f905"
+  "app": "tex-suite",
+  "version": "0.69.22",
+  "date": "2026-11-08",
+  "title": "TexMe; Prayer Locations; folders; new-update dots",
+  "notes": "- **The app is now TexMe** (the personal edition of the Tex family: TexMe, TexGo for schools,\n TexArk for churches and ministries, TexOne for organizations): the name in the window, the\n menu, the logo and every word. Updates carry on as before.\n- **Stewardship**: Contributions (was Giving) and Love & Charity (was Charity).\n- **My Prayers** (was Prayers) and **Prayer Locations** under Prayer sessions: the places where\n you pray, picked when planning a session; a new place typed while planning joins the list;\n each place says how many sessions were held there.\n- **Prayer sessions** show the time planned and the time prayed (\"Planned 1m · Prayed 1:15\");\n Pray Insights has them too: how many, the time prayed, the average, how many reached their\n plan.\n- **Read later** sits at the top of the extra reading in Daily Reading.\n- **All Bible Versions** marks the version in use: the accent around it and \"In use\".\n- **Import a folder**: every file inside it (its folders too) goes to its own shelf, films to\n Movies, episodes to Series, songs to Music, books to Books; hidden folders are left alone and\n other files are skipped. Folders can also be dropped on the window.\n- **Green dots after an update**: on the rail, the menu section and the item that changed;\n each goes the first time it is opened and does not come back for that version.\n- tex-ui 0.1.82 (Prayer Locations in Anivo's menu), tex-games 0.1.9, tex-engine 0.30.46 (words).",
+  "file": "0.69.22/tex-suite-0.69.22-linux-x86_64.tar.gz",
+  "size": 28770603,
+  "sha256": "22142125c3f4a9db1cb2b8675598ae2be997505712186b7fd649002eb55be549",
+  "signature": "990c7339f8846c9c2261282b35a3c5398dc310a4db4229d29f61714cb57c53d95c2380df1ba697333c516394d2411b22ade0b86cf8cfa8a37831880c4487f905",
+  "deb": "0.69.22/tex-suite_0.69.22-1_amd64.deb",
+  "rpm": "0.69.22/tex-suite-0.69.22-1.x86_64.rpm"
 }
