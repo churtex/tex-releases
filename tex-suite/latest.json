@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.37",
- "date": "2026-11-09",
- "title": "The Psalms titled, and more",
- "notes": "- **Every Psalm has its title** in Anivo's own words, all 150.\n- **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).\n- tex-engine 0.30.56 (the headings).",
- "file": "0.69.37/tex-suite-0.69.37-linux-x86_64.tar.gz",
- "size": 29529985,
- "sha256": "de814a9b24b77f83486f423207fcf8641ce74eab717523865d887cabdff68cad",
- "signature": "ee9aab69d2c9d45b10da3fccb30e0d05596c57f5f0bc63bf2f35fd3687a86e58167ed46e3fe7628ebf9ddbbc7bb03206cb4bf8d2fe18bc9f422bd72e7178e801"
+  "app": "tex-suite",
+  "version": "0.69.37",
+  "date": "2026-11-09",
+  "title": "The Psalms titled, and more",
+  "notes": "- **Every Psalm has its title** in Anivo's own words, all 150.\n- **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).\n- tex-engine 0.30.56 (the headings).",
+  "file": "0.69.37/tex-suite-0.69.37-linux-x86_64.tar.gz",
+  "size": 29529985,
+  "sha256": "de814a9b24b77f83486f423207fcf8641ce74eab717523865d887cabdff68cad",
+  "signature": "ee9aab69d2c9d45b10da3fccb30e0d05596c57f5f0bc63bf2f35fd3687a86e58167ed46e3fe7628ebf9ddbbc7bb03206cb4bf8d2fe18bc9f422bd72e7178e801",
+  "deb": "0.69.37/tex-suite_0.69.37-1_amd64.deb",
+  "rpm": "0.69.37/tex-suite-0.69.37-1.x86_64.rpm"
 }
