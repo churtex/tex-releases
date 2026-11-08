@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.69.38 (2026-11-09) - Wisdom and the twelve prophets titled
+- **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the
+ twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).
+- tex-engine 0.30.57 (the headings).
+
 ## 0.69.37 (2026-11-09) - The Psalms titled, and more
 - **Every Psalm has its title** in Anivo's own words, all 150.
 - **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).

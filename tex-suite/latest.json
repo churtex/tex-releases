@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.37",
-  "date": "2026-11-09",
-  "title": "The Psalms titled, and more",
-  "notes": "- **Every Psalm has its title** in Anivo's own words, all 150.\n- **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).\n- tex-engine 0.30.56 (the headings).",
-  "file": "0.69.37/tex-suite-0.69.37-linux-x86_64.tar.gz",
-  "size": 29529985,
-  "sha256": "de814a9b24b77f83486f423207fcf8641ce74eab717523865d887cabdff68cad",
-  "signature": "ee9aab69d2c9d45b10da3fccb30e0d05596c57f5f0bc63bf2f35fd3687a86e58167ed46e3fe7628ebf9ddbbc7bb03206cb4bf8d2fe18bc9f422bd72e7178e801",
-  "deb": "0.69.37/tex-suite_0.69.37-1_amd64.deb",
-  "rpm": "0.69.37/tex-suite-0.69.37-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.38",
+ "date": "2026-11-09",
+ "title": "Wisdom and the twelve prophets titled",
+ "notes": "- **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the\n twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).\n- tex-engine 0.30.57 (the headings).",
+ "file": "0.69.38/tex-suite-0.69.38-linux-x86_64.tar.gz",
+ "size": 29537980,
+ "sha256": "419f9919e76f3e01b72a142536541c696236870e71a40bdfc7e7d71c7c85c7a8",
+ "signature": "7a11c970a9ace4f7fe77351e9850843330e130d02798e1886b64d2ccdd7c72f53cdfd806ad72c337d39777a5fe7f4e3398d1c4427ebf83e2ee90df938276d50a"
 }
