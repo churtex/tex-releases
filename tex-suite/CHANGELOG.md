@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.69.24 (2026-11-08) - TexSound; Crypto; Family Tree; your chat everywhere you are
+- **TexSound** (Tools), the microphone measured live. **Pitch**: the note sung or played, how
+ many cents sharp or flat, a needle that turns green when you are on it. **Loudness**: decibels
+ now and the loudest of the last two seconds, a meter from Whisper to Harmful, the last ten
+ seconds drawn, and Calibrate. A computer's microphone is not a measuring instrument: the
+ decibels are close (about ±5 dB), not exact. Nothing is recorded or kept.
+- **Crypto** (Vault → Security): a wallet's recovery words, kept encrypted behind the Vault's
+ PIN, shown as dots until you choose to see them (hidden again after a minute), never copied.
+ **Print a paper copy**: the words numbered, with what the paper is and where it is kept.
+- **Family Tree** (Vault → Personal): generation under generation, husband and wife side by
+ side, a line from each couple to their children. Each person's dates, place and story; add a
+ father, a mother, a husband or wife, a child from anyone. Closer and further. **Print** puts
+ the whole tree on one landscape page.
+- **Paper copies** open in your browser's print window from a private page, deleted again two
+ minutes later; nothing goes online.
+- **Your own chat** is now "(Mine)", travels to your own devices through Share & Sync, and has
+ **Clear chat** (asked twice): its notes go, with the files added in it (never ones already in
+ your library), on every device of yours.
+- tex-sound 0.1.0 (new), tex-engine 0.30.49 (words).
+
 ## 0.69.23 (2026-11-08) - Tainment Insights & Trends; games made exciting; About Anivo first
 - **Tainment Insights & Trends**: a new tab in Tainment: what was played this week against
  last, films and episodes left part-way (and the closest to its end), books being read and
