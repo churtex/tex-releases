@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.34",
- "date": "2026-11-08",
- "title": "The whole New Testament titled",
- "notes": "- **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every\n passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870\n in the New Testament).\n- tex-engine 0.30.53 (the headings).",
- "file": "0.69.34/tex-suite-0.69.34-linux-x86_64.tar.gz",
- "size": 29525983,
- "sha256": "a2379ef38e2ed08b6117817d78c04ef25afce1e6c76a63ff3c2f1c28036a6d69",
- "signature": "9e233972e339547d7dcdd13e9e9a9ea85348066803b5101a26fb88a25c08352081c3ae65d2dc97be6c389330a869c3f5bf1e9da845ff0e13892ab090296ad501"
+  "app": "tex-suite",
+  "version": "0.69.34",
+  "date": "2026-11-08",
+  "title": "The whole New Testament titled",
+  "notes": "- **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every\n passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870\n in the New Testament).\n- tex-engine 0.30.53 (the headings).",
+  "file": "0.69.34/tex-suite-0.69.34-linux-x86_64.tar.gz",
+  "size": 29525983,
+  "sha256": "a2379ef38e2ed08b6117817d78c04ef25afce1e6c76a63ff3c2f1c28036a6d69",
+  "signature": "9e233972e339547d7dcdd13e9e9a9ea85348066803b5101a26fb88a25c08352081c3ae65d2dc97be6c389330a869c3f5bf1e9da845ff0e13892ab090296ad501",
+  "deb": "0.69.34/tex-suite_0.69.34-1_amd64.deb",
+  "rpm": "0.69.34/tex-suite-0.69.34-1.x86_64.rpm"
 }
