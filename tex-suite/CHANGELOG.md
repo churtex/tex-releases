@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.69.31 (2026-11-08) - TexSound, the sound engineer's friend
+- **TexSound** (Tools) is one page with five tabs, one card under another so nothing leaves
+ the screen (the Loudness card sat off the side before).
+- **Overview**, to show the sound engineer: how loud in dBA with a plain verdict, the average,
+ the loudest, how long it is safe to listen, and *What to tell the sound engineer*: feedback at
+ a frequency, too loud by how much, muddy, harsh, hissy or dull, the singers flat or sharp, the
+ room's echo.
+- **Loudness**: A-weighted as sound-level meters measure, the last ten seconds drawn, and the
+ session: average (Leq), loudest, time above 85 and 95 dBA, safe listening time; Calibrate.
+- **Tone**: 28 third-octave bars coloured by bass, mud, middle, presence and air, plain advice,
+ and feedback found and marked.
+- **Pitch**: the tuner, and the singing over the last 30 seconds: how many notes in tune and
+ whether the group drifts flat or sharp.
+- **Room echo**: press Measure, clap once; the room's ring time (RT60) and what suits it.
+- A computer's microphone is close, not exact (about ±5 dB); Calibrate matches a real meter.
+- tex-sound 0.2.0.
+
 ## 0.69.30 (2026-11-08) - The Anivo Plan on paper; updates that carry on; 200 % volume
 - **Download the Anivo Plan** (About Anivo): the whole year's readings as a beautifully set
  out PDF, made inside TexMe: a cover, then a page for each month with every day, its New
