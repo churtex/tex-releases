@@ -1,5 +1,44 @@
 # Changelog
 
+## 0.69.21 (2026-11-08) - Three more Bibles; video calls; Tainment redone; Daily Reading prayer table
+- **Emotions and Insights**: every feeling shows its name (Thankful, Peaceful, Angry and Lonely
+ showed a code instead); one name per feeling everywhere, guarded by a test.
+- **Three more Bibles**: the World English Bible, the American Standard Version (1901) and
+ Louis Segond (1910, French), public domain, built in beside the KJV; each checked whole (66
+ books, 1,189 chapters). The version chosen in All Bible Versions is read everywhere: the
+ Bible, Daily Reading and copied verses.
+- **Bible menu**: Read Your Bible, Import a Bible, All Bible Versions, Bible Insights.
+- **Daily Reading** (was Read Today); its prayers are a table: Prayer, then Prayed and
+ Answered over round checks (Prayed in the theme's colour, Answered in green), the prayer
+ taking the width.
+- **Updates**: the download shows its speed ("Downloading 7% · 1.3 MB/s"); three earlier
+ versions are kept, their "Go back" buttons side by side.
+- **TexChat personal chat**: pinned under TexChat as your initials "(Local Chat)", notes and
+ files to yourself, kept only on this device, encrypted.
+- **Lock by itself**: after 5, 15, 30, 45, 60, 75 or 90 minutes, chosen in Security & privacy
+ (5 unless changed).
+- **Video calls in TexChat**: "Video call" beside "Voice call"; the other side's camera fills
+ the call, yours small in its corner; Camera off/on while talking. Pictures are 480 px JPEGs,
+ about 15 a second, sealed like the voice. The camera is read by TexSuite's own V4L2 reader
+ (Linux); Windows follows.
+- **Tainment Home**: "Pick up where you left off" as one composed block (two songs played
+ lately and a film started on the first row, two series being watched below, the books being
+ read tall on the right); then each kind in its own row: Music, Movies, Series, Books.
+- **Music cards like albums**: the cover as a sleeve with its vinyl record half out, all in a
+ square; on hover the record slides out a little and turns.
+- **Series as a stack**: series cards are 16:9 like films, with two cards behind (there is more
+ to watch), on Home and on the Series shelf.
+- **Watched bars and Restart**: films and episodes show how far they were watched; a film
+ started before has Restart between Play and Info.
+- **Calmer hover**: cards lift slowly with a soft shadow (no dark block under music).
+- **Episodes in the player**: each with its picture, how far it was watched, under season
+ headings; the Episodes button is three stacked cards with a play mark.
+- **Account button**: your mood globe, round, turning further toward the mouse.
+- **Light/dark button** in the top bar: a moon in light mode, a sun in dark; one press.
+- **Games** now as wide as the rest of Tainment.
+- Releases now publish the .deb and .rpm beside the .tar.gz (churtex.org offers all three).
+- tex-ui 0.1.81 (globe button, episode icon, prayer table, Bible menu), tex-games 0.1.8, tex-engine 0.30.45 (the Bibles, words).
+
 ## 0.69.20 (2026-11-07) - Files and voice calls in TexChat; subtitles from a file
 - **Files in TexChat**: "Send a file" in an open chat sends any file straight to the other
  device, sealed between the two; it arrives in their library, encrypted, and the chat shows it
