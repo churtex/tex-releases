@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.27",
-  "date": "2026-11-08",
-  "title": "Home is home again; the Dashboard back on top",
-  "notes": "- **The Dashboard** is our logo again, at the top of the rail, with its own menu (Search,\n Insights).\n- **Home** has a real house and is about the home: Smart Home, My Finances, My Vehicles and My\n Supplies, moved here from the Vault's Household.",
-  "file": "0.69.27/tex-suite-0.69.27-linux-x86_64.tar.gz",
-  "size": 29016965,
-  "sha256": "3dd68a2bdf13c29c1ab54cdd418a611ba61dd9fa2b4db9d8a79f9cf07ac455dd",
-  "signature": "4bdb3049036f09b73ac679ecab772ff4d690b0232a36df8af3d7292a476bbe5005eb33dbc2a0f7ee2b3a392aa80d3c18832ceb0c51117950096a2af920978f08",
-  "deb": "0.69.27/tex-suite_0.69.27-1_amd64.deb",
-  "rpm": "0.69.27/tex-suite-0.69.27-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.28",
+ "date": "2026-11-08",
+ "title": "Autosave everywhere you type",
+ "notes": "- **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person\n being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a\n second after you stop typing, and come back in their forms when the Vault opens again. Every\n Save, Keep and Done button stays.",
+ "file": "0.69.28/tex-suite-0.69.28-linux-x86_64.tar.gz",
+ "size": 29037281,
+ "sha256": "c0404ff3aefdbf10384f0307acc3edae960b6f400ed64102aca895f2fdc60f2f",
+ "signature": "871a0c970558396e5570b753bf8b32f04ae88835db96d4153af0b49545a064fc390572a14e515c755b075289ca1c97c9ab547f4f726439a8ac5235d7d5603c0d"
 }

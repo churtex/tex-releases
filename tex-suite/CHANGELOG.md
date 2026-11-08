@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.69.28 (2026-11-08) - Autosave everywhere you type
+- **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person
+ being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a
+ second after you stop typing, and come back in their forms when the Vault opens again. Every
+ Save, Keep and Done button stays.
+
 ## 0.69.27 (2026-11-08) - Home is home again; the Dashboard back on top
 - **The Dashboard** is our logo again, at the top of the rail, with its own menu (Search,
  Insights).
