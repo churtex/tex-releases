@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.69.36 (2026-11-09) - The histories titled: Joshua to Kings
+- **Section headings for Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings** in Anivo's own
+ words (235 more).
+- tex-engine 0.30.55 (the headings).
+
 ## 0.69.35 (2026-11-08) - The books of Moses titled
 - **Section headings for Exodus, Leviticus, Numbers and Deuteronomy** in Anivo's own words
  (247 more): with Genesis, the five books of Moses are titled, as the whole New Testament is.

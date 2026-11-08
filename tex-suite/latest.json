@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.35",
-  "date": "2026-11-08",
-  "title": "The books of Moses titled",
-  "notes": "- **Section headings for Exodus, Leviticus, Numbers and Deuteronomy** in Anivo's own words\n (247 more): with Genesis, the five books of Moses are titled, as the whole New Testament is.\n- tex-engine 0.30.54 (the headings).",
-  "file": "0.69.35/tex-suite-0.69.35-linux-x86_64.tar.gz",
-  "size": 29525316,
-  "sha256": "a6f522ee0cc63f5129e1e4ef4cc3c3cadfd989792a9b7e2bcb2174df46c3c5fa",
-  "signature": "4964737a0874d615d225d59dd0b4e23753873c293eb47c33a251b61331e746c4b802b978b7fb683912823328a9601661543fcd207291216ca6593c04823c7a06",
-  "deb": "0.69.35/tex-suite_0.69.35-1_amd64.deb",
-  "rpm": "0.69.35/tex-suite-0.69.35-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.36",
+ "date": "2026-11-09",
+ "title": "The histories titled: Joshua to Kings",
+ "notes": "- **Section headings for Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings** in Anivo's own\n words (235 more).\n- tex-engine 0.30.55 (the headings).",
+ "file": "0.69.36/tex-suite-0.69.36-linux-x86_64.tar.gz",
+ "size": 29528977,
+ "sha256": "40044f9316ecc523099db664953bc52c656cc34bc53010100ccc127c7ce8d861",
+ "signature": "98bd8df2a0cadecf513da335934aa0dba537bb6a733562d5e51fdfa6832f5ad221f364e8d4d44592d118fc48e4b36409df8f66c29ad84abc30eb5e4a8955800c"
 }
