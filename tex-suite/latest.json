@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.28",
-  "date": "2026-11-08",
-  "title": "Autosave everywhere you type",
-  "notes": "- **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person\n being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a\n second after you stop typing, and come back in their forms when the Vault opens again. Every\n Save, Keep and Done button stays.",
-  "file": "0.69.28/tex-suite-0.69.28-linux-x86_64.tar.gz",
-  "size": 29037281,
-  "sha256": "c0404ff3aefdbf10384f0307acc3edae960b6f400ed64102aca895f2fdc60f2f",
-  "signature": "871a0c970558396e5570b753bf8b32f04ae88835db96d4153af0b49545a064fc390572a14e515c755b075289ca1c97c9ab547f4f726439a8ac5235d7d5603c0d",
-  "deb": "0.69.28/tex-suite_0.69.28-1_amd64.deb",
-  "rpm": "0.69.28/tex-suite-0.69.28-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.29",
+ "date": "2026-11-08",
+ "title": "TexChat conversations; the player's keys and manners",
+ "notes": "- **TexChat conversations**: New Chat opens with every conversation kept: each person's round\n picture (their initials on their own colour), the last message and when, a green dot when they\n are on the network now, and how many of theirs are unread. Opening one marks it read.\n- **Delete conversation** (asked twice): its messages go; files it brought stay in your library.\n- **The player's keys**: K pause, J and L ten seconds back and on, M mute, ↑ and ↓ the volume,\n 0 to 9 jump a tenth of the way through each, N the next episode.\n- **Ends at**: the time the film will end, by your clock, beside the time left.\n- **Are you still watching?** after three episodes started by themselves with nobody touching\n anything: Continue watching, or Back.\n- The pointer hides while a film plays and nothing moves.\n- **The screen stays on while a film plays** (it went dim): the desktop is asked, as other\n players ask it; paused, the screen may sleep again. Dependencies: keepawake 0.6 (new, MIT).",
+ "file": "0.69.29/tex-suite-0.69.29-linux-x86_64.tar.gz",
+ "size": 29354949,
+ "sha256": "58428510ee79acabe5dde6d5fcf89240f7c96c020f66c94c4394d555e0627e32",
+ "signature": "7b678702d2b7a029c52693d8e8f0023b9c2e65a90d33135e736066b5ccb909779dbfdf9ec7b2760d9eb286394718756178d69cad7fd95ffdfd3d7b339a462d0b"
 }

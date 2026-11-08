@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.69.29 (2026-11-08) - TexChat conversations; the player's keys and manners
+- **TexChat conversations**: New Chat opens with every conversation kept: each person's round
+ picture (their initials on their own colour), the last message and when, a green dot when they
+ are on the network now, and how many of theirs are unread. Opening one marks it read.
+- **Delete conversation** (asked twice): its messages go; files it brought stay in your library.
+- **The player's keys**: K pause, J and L ten seconds back and on, M mute, ↑ and ↓ the volume,
+ 0 to 9 jump a tenth of the way through each, N the next episode.
+- **Ends at**: the time the film will end, by your clock, beside the time left.
+- **Are you still watching?** after three episodes started by themselves with nobody touching
+ anything: Continue watching, or Back.
+- The pointer hides while a film plays and nothing moves.
+- **The screen stays on while a film plays** (it went dim): the desktop is asked, as other
+ players ask it; paused, the screen may sleep again. Dependencies: keepawake 0.6 (new, MIT).
+
 ## 0.69.28 (2026-11-08) - Autosave everywhere you type
 - **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person
  being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a
