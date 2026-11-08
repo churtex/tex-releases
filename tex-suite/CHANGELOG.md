@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.69.34 (2026-11-08) - The whole New Testament titled
+- **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every
+ passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870
+ in the New Testament).
+- tex-engine 0.30.53 (the headings).
+
 ## 0.69.33 (2026-11-08) - Repeating events; Insights like Anivo's; nothing past the edge
 - **Repeating events** (Calendar): every day, every weekday (Mon–Fri), every week, every
  month, every year, with an end date if you want one. They show on each day they come again,
