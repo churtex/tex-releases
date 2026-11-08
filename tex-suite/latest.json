@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.39",
- "date": "2026-11-09",
- "title": "The whole Bible titled",
- "notes": "- **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,\n Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis\n to Revelation, each on its own verse.\n- tex-engine 0.30.58 (the headings).",
- "file": "0.69.39/tex-suite-0.69.39-linux-x86_64.tar.gz",
- "size": 29537571,
- "sha256": "f10c9dacc657774c714e882e52f87373a9085b4652caa605bd904dd4dfe42542",
- "signature": "ea129b7e1eb022a8ce94322da20a2924cb575da810bb5f578cf8c65d8eb38611297b8e9ada4395fe0203e739c07fc5a36f20f65545781197ab5b4b6803000804"
+  "app": "tex-suite",
+  "version": "0.69.39",
+  "date": "2026-11-09",
+  "title": "The whole Bible titled",
+  "notes": "- **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,\n Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis\n to Revelation, each on its own verse.\n- tex-engine 0.30.58 (the headings).",
+  "file": "0.69.39/tex-suite-0.69.39-linux-x86_64.tar.gz",
+  "size": 29537571,
+  "sha256": "f10c9dacc657774c714e882e52f87373a9085b4652caa605bd904dd4dfe42542",
+  "signature": "ea129b7e1eb022a8ce94322da20a2924cb575da810bb5f578cf8c65d8eb38611297b8e9ada4395fe0203e739c07fc5a36f20f65545781197ab5b4b6803000804",
+  "deb": "0.69.39/tex-suite_0.69.39-1_amd64.deb",
+  "rpm": "0.69.39/tex-suite-0.69.39-1.x86_64.rpm"
 }
