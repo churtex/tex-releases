@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.24",
- "date": "2026-11-08",
- "title": "TexSound; Crypto; Family Tree; your chat everywhere you are",
- "notes": "- **TexSound** (Tools), the microphone measured live. **Pitch**: the note sung or played, how\n many cents sharp or flat, a needle that turns green when you are on it. **Loudness**: decibels\n now and the loudest of the last two seconds, a meter from Whisper to Harmful, the last ten\n seconds drawn, and Calibrate. A computer's microphone is not a measuring instrument: the\n decibels are close (about ±5 dB), not exact. Nothing is recorded or kept.\n- **Crypto** (Vault → Security): a wallet's recovery words, kept encrypted behind the Vault's\n PIN, shown as dots until you choose to see them (hidden again after a minute), never copied.\n **Print a paper copy**: the words numbered, with what the paper is and where it is kept.\n- **Family Tree** (Vault → Personal): generation under generation, husband and wife side by\n side, a line from each couple to their children. Each person's dates, place and story; add a\n father, a mother, a husband or wife, a child from anyone. Closer and further. **Print** puts\n the whole tree on one landscape page.\n- **Paper copies** open in your browser's print window from a private page, deleted again two\n minutes later; nothing goes online.\n- **Your own chat** is now \"(Mine)\", travels to your own devices through Share & Sync, and has\n **Clear chat** (asked twice): its notes go, with the files added in it (never ones already in\n your library), on every device of yours.\n- tex-sound 0.1.0 (new), tex-engine 0.30.49 (words).",
- "file": "0.69.24/tex-suite-0.69.24-linux-x86_64.tar.gz",
- "size": 28917835,
- "sha256": "bb4f290f7031f063a52630f88ce1599336180741263a5d3db3a5d29ec3f8c4ff",
- "signature": "5c7b20224b594e23a6a9fa1ec24f177966f6b08f55152162e983ed5bc426ecc00febc841c7c3cd25ec24fd39fa5dfcf43f2df20ad5467917c7f9241fbb715f00"
+  "app": "tex-suite",
+  "version": "0.69.24",
+  "date": "2026-11-08",
+  "title": "TexSound; Crypto; Family Tree; your chat everywhere you are",
+  "notes": "- **TexSound** (Tools), the microphone measured live. **Pitch**: the note sung or played, how\n many cents sharp or flat, a needle that turns green when you are on it. **Loudness**: decibels\n now and the loudest of the last two seconds, a meter from Whisper to Harmful, the last ten\n seconds drawn, and Calibrate. A computer's microphone is not a measuring instrument: the\n decibels are close (about ±5 dB), not exact. Nothing is recorded or kept.\n- **Crypto** (Vault → Security): a wallet's recovery words, kept encrypted behind the Vault's\n PIN, shown as dots until you choose to see them (hidden again after a minute), never copied.\n **Print a paper copy**: the words numbered, with what the paper is and where it is kept.\n- **Family Tree** (Vault → Personal): generation under generation, husband and wife side by\n side, a line from each couple to their children. Each person's dates, place and story; add a\n father, a mother, a husband or wife, a child from anyone. Closer and further. **Print** puts\n the whole tree on one landscape page.\n- **Paper copies** open in your browser's print window from a private page, deleted again two\n minutes later; nothing goes online.\n- **Your own chat** is now \"(Mine)\", travels to your own devices through Share & Sync, and has\n **Clear chat** (asked twice): its notes go, with the files added in it (never ones already in\n your library), on every device of yours.\n- tex-sound 0.1.0 (new), tex-engine 0.30.49 (words).",
+  "file": "0.69.24/tex-suite-0.69.24-linux-x86_64.tar.gz",
+  "size": 28917835,
+  "sha256": "bb4f290f7031f063a52630f88ce1599336180741263a5d3db3a5d29ec3f8c4ff",
+  "signature": "5c7b20224b594e23a6a9fa1ec24f177966f6b08f55152162e983ed5bc426ecc00febc841c7c3cd25ec24fd39fa5dfcf43f2df20ad5467917c7f9241fbb715f00",
+  "deb": "0.69.24/tex-suite_0.69.24-1_amd64.deb",
+  "rpm": "0.69.24/tex-suite-0.69.24-1.x86_64.rpm"
 }
