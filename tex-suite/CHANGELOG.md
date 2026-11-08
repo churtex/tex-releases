@@ -1,5 +1,36 @@
 # Changelog
 
+## 0.69.23 (2026-11-08) - Tainment Insights & Trends; games made exciting; About Anivo first
+- **Tainment Insights & Trends**: a new tab in Tainment: what was played this week against
+ last, films and episodes left part-way (and the closest to its end), books being read and
+ finished, the space Space Saver won back; plays by day of the week and time of day; the most
+ played; and plain observations drawn only from what really happened. Each play is noted in
+ the encrypted Vault.
+- **Insights & Trends** is the new name of every Insights page in Anivo.
+- **Games**: each card shows a live scene of its game, its colour, a big name and your best;
+ Play on hover; the cards fill rows (no sideways scrolling); a game now plays on a stage as tall
+ as the window, with the score, the best and how to play beside it. **Best scores are kept**
+ in the Vault (they were lost on every restart).
+- **About Anivo** comes first in Anivo's menu, then Daily Reading, Bible, Pray and
+ Stewardship. It opens with two cards: today's reading (Read now) and Make a copy to keep
+ (Create Snap), in case the device is lost.
+- **Films**: every film or episode left part-way shows its watched bar, also those stopped
+ before the length was kept (read from the film itself, once, in the background).
+- **Series cards**: the two cards behind show along the top and the right; the whole card
+ the size of a film's. **Music cards** turn their record without a shadow over the words.
+- "Churtex Foundation" is now "Churtex" everywhere.
+- **The side rail**: Anivo, then Home, Tainment, Academy, Pedia and Tools (a new tools icon),
+ then Vault. Home is the Dashboard, at the centre of everything.
+- **The top bar**: the theme button offers Light, Dark and System; theme and language sit on
+ the left, your globe at the far right with a slight ring in your colour.
+- **Unlock** says Unlock TexMe, with a new line: "Your whole world. On your device. Only you
+ hold the key." Every help article now says TexMe.
+- **Profile**: Anivo's days in a row match Daily Reading; "member since" is gone.
+ **The Churtex Community** (was About Churtex) says who we are together and what we make.
+- **Daily Reading prayers**: the bin is as big as the round checks. **Info** on a film or book
+ opens taller and wider.
+- tex-ui 0.1.84 (globe ring, prayer bin; Anivo's menu order), tex-games 0.1.11 (cards, stage), tex-engine 0.30.48 (words).
+
 ## 0.69.22 (2026-11-08) - TexMe; Prayer Locations; folders; new-update dots
 - **The app is now TexMe** (the personal edition of the Tex family: TexMe, TexGo for schools,
  TexArk for churches and ministries, TexOne for organizations): the name in the window, the
