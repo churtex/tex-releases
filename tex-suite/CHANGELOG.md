@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.69.32 (2026-11-08) - Every globe looks your way; a tidier top bar
+- **The top bar**: Share & Sync, then the lock, then the appearance, then your globe at the far
+ right. The appearance is one button: each click goes to the next, Light (a sun), Dark (a
+ moon), System (as this device); no menu. The language button is hidden for now.
+- **Every living globe** (the profile's, the moods') now turns its face toward the mouse as far
+ as the account globe does; the still ones in lists stay still.
+- **TexPedia begins**: ten articles from ten subjects (Science, Health, Farming, History,
+ Geography, Faith & Bible lands, Technology, Animals, Space, Mathematics), from Simple English
+ Wikipedia. Search them, choose a subject, read in TexPedia's own design, with no internet. Each
+ shows its credit, licence (CC BY-SA 4.0), revision and a link to the original.
+- **No more locking in the middle of a film**: a film playing, a sermon being recorded or
+ TexSound listening now counts as using TexMe, so auto-lock waits (paused, it locks as before).
+- **Your founder's welcome** (Settings → About) rewritten: "You are free."
+- tex-ui 0.1.87, tex-games 0.1.14, tex-sound 0.2.1.
+
 ## 0.69.31 (2026-11-08) - TexSound, the sound engineer's friend
 - **TexSound** (Tools) is one page with five tabs, one card under another so nothing leaves
  the screen (the Loudness card sat off the side before).
