@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.29",
-  "date": "2026-11-08",
-  "title": "TexChat conversations; the player's keys and manners",
-  "notes": "- **TexChat conversations**: New Chat opens with every conversation kept: each person's round\n picture (their initials on their own colour), the last message and when, a green dot when they\n are on the network now, and how many of theirs are unread. Opening one marks it read.\n- **Delete conversation** (asked twice): its messages go; files it brought stay in your library.\n- **The player's keys**: K pause, J and L ten seconds back and on, M mute, ↑ and ↓ the volume,\n 0 to 9 jump a tenth of the way through each, N the next episode.\n- **Ends at**: the time the film will end, by your clock, beside the time left.\n- **Are you still watching?** after three episodes started by themselves with nobody touching\n anything: Continue watching, or Back.\n- The pointer hides while a film plays and nothing moves.\n- **The screen stays on while a film plays** (it went dim): the desktop is asked, as other\n players ask it; paused, the screen may sleep again. Dependencies: keepawake 0.6 (new, MIT).",
-  "file": "0.69.29/tex-suite-0.69.29-linux-x86_64.tar.gz",
-  "size": 29354949,
-  "sha256": "58428510ee79acabe5dde6d5fcf89240f7c96c020f66c94c4394d555e0627e32",
-  "signature": "7b678702d2b7a029c52693d8e8f0023b9c2e65a90d33135e736066b5ccb909779dbfdf9ec7b2760d9eb286394718756178d69cad7fd95ffdfd3d7b339a462d0b",
-  "deb": "0.69.29/tex-suite_0.69.29-1_amd64.deb",
-  "rpm": "0.69.29/tex-suite-0.69.29-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.30",
+ "date": "2026-11-08",
+ "title": "The Anivo Plan on paper; updates that carry on; 200 % volume",
+ "notes": "- **Download the Anivo Plan** (About Anivo): the whole year's readings as a beautifully set\n out PDF, made inside TexMe: a cover, then a page for each month with every day, its New\n Testament and Old Testament readings and their titles, and a box to tick. It replaces the\n Snap card there (the whole TexMe copy stays in Settings).\n- **Updates carry on**: the download is kept on disk as it comes; when the internet drops or the\n computer is turned off it continues from where it stopped, by itself, the next time\n (\"Continue download, 45% here\"). It is checked before anything is installed.\n- **Volume to 200 %**, by the bar or ↑ and ↓; above 100 % the loudest parts are rounded off, so\n nothing crackles. The number shows beside the bar.\n- **Anivo's top bar** is the same as everywhere: your globe, Light/Dark/System, language,\n the lock, Share & Sync.\n- **Section headings in the Gospels**: Matthew, Mark, Luke and John now have their passages\n titled in Anivo's own words, as Genesis has (454 new headings).\n- tex-engine 0.30.51 (the Gospels' headings).",
+ "file": "0.69.30/tex-suite-0.69.30-linux-x86_64.tar.gz",
+ "size": 29387569,
+ "sha256": "a6b253d74ecb72e77112357291d2fb48ea263aeafa343c7d368eaa602981e54f",
+ "signature": "70d3d7e8a6b66f9aa3472c3359a4a6d7e4958b27983f64a2a65610c333ebaa221d60f721f07e2821ff23a16521a0067dcf5d91970bd0a4834898d4568bce0704"
 }

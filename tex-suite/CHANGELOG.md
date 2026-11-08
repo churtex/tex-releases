@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.69.30 (2026-11-08) - The Anivo Plan on paper; updates that carry on; 200 % volume
+- **Download the Anivo Plan** (About Anivo): the whole year's readings as a beautifully set
+ out PDF, made inside TexMe: a cover, then a page for each month with every day, its New
+ Testament and Old Testament readings and their titles, and a box to tick. It replaces the
+ Snap card there (the whole TexMe copy stays in Settings).
+- **Updates carry on**: the download is kept on disk as it comes; when the internet drops or the
+ computer is turned off it continues from where it stopped, by itself, the next time
+ ("Continue download, 45% here"). It is checked before anything is installed.
+- **Volume to 200 %**, by the bar or ↑ and ↓; above 100 % the loudest parts are rounded off, so
+ nothing crackles. The number shows beside the bar.
+- **Anivo's top bar** is the same as everywhere: your globe, Light/Dark/System, language,
+ the lock, Share & Sync.
+- **Section headings in the Gospels**: Matthew, Mark, Luke and John now have their passages
+ titled in Anivo's own words, as Genesis has (454 new headings).
+- tex-engine 0.30.51 (the Gospels' headings).
+
 ## 0.69.29 (2026-11-08) - TexChat conversations; the player's keys and manners
 - **TexChat conversations**: New Chat opens with every conversation kept: each person's round
  picture (their initials on their own colour), the last message and when, a green dot when they
