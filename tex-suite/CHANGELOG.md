@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.69.22 (2026-11-08) - TexMe; Prayer Locations; folders; new-update dots
+- **The app is now TexMe** (the personal edition of the Tex family: TexMe, TexGo for schools,
+ TexArk for churches and ministries, TexOne for organizations): the name in the window, the
+ menu, the logo and every word. Updates carry on as before.
+- **Stewardship**: Contributions (was Giving) and Love & Charity (was Charity).
+- **My Prayers** (was Prayers) and **Prayer Locations** under Prayer sessions: the places where
+ you pray, picked when planning a session; a new place typed while planning joins the list;
+ each place says how many sessions were held there.
+- **Prayer sessions** show the time planned and the time prayed ("Planned 1m · Prayed 1:15");
+ Pray Insights has them too: how many, the time prayed, the average, how many reached their
+ plan.
+- **Read later** sits at the top of the extra reading in Daily Reading.
+- **All Bible Versions** marks the version in use: the accent around it and "In use".
+- **Import a folder**: every file inside it (its folders too) goes to its own shelf, films to
+ Movies, episodes to Series, songs to Music, books to Books; hidden folders are left alone and
+ other files are skipped. Folders can also be dropped on the window.
+- **Green dots after an update**: on the rail, the menu section and the item that changed;
+ each goes the first time it is opened and does not come back for that version.
+- tex-ui 0.1.82 (Prayer Locations in Anivo's menu), tex-games 0.1.9, tex-engine 0.30.46 (words).
+
 ## 0.69.21 (2026-11-08) - Three more Bibles; video calls; Tainment redone; Daily Reading prayer table
 - **Emotions and Insights**: every feeling shows its name (Thankful, Peaceful, Angry and Lonely
  showed a code instead); one name per feeling everywhere, guarded by a test.
