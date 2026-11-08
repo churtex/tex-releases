@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.69.33 (2026-11-08) - Repeating events; Insights like Anivo's; nothing past the edge
+- **Repeating events** (Calendar): every day, every weekday (Mon–Fri), every week, every
+ month, every year, with an end date if you want one. They show on each day they come again,
+ in the upcoming list, and remind before each one. Events kept before stay once.
+- **Tainment's Insights & Trends** rebuilt in the design of Anivo's Insights: one sheet, the
+ counts as chips, the moments, ruled blocks, the two charts side by side (one under the other
+ on a narrow window), the most played, and what we noticed.
+- **Nothing past the window's edge, for good**: a new check draws each page off screen at a
+ phone's, a laptop's and a wide screen's width and fails the release if anything sticks out.
+ TexSound and Tainment's Insights pass it; every new page will be held to it.
+- **TexPedia's credit** is plain text now: the source, revision and licence written out,
+ nothing to click (an off-grid app keeps you inside).
+- **Section headings for Acts and Romans** in Anivo's own words (137 more).
+- tex-ui 0.1.88 (the fit check), tex-engine 0.30.52 (repeating events, headings), tex-games
+ 0.1.15, tex-sound 0.2.2.
+
 ## 0.69.32 (2026-11-08) - Every globe looks your way; a tidier top bar
 - **The top bar**: Share & Sync, then the lock, then the appearance, then your globe at the far
  right. The appearance is one button: each click goes to the next, Light (a sun), Dark (a

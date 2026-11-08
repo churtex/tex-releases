@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.32",
-  "date": "2026-11-08",
-  "title": "Every globe looks your way; a tidier top bar",
-  "notes": "- **The top bar**: Share & Sync, then the lock, then the appearance, then your globe at the far\n right. The appearance is one button: each click goes to the next, Light (a sun), Dark (a\n moon), System (as this device); no menu. The language button is hidden for now.\n- **Every living globe** (the profile's, the moods') now turns its face toward the mouse as far\n as the account globe does; the still ones in lists stay still.\n- **TexPedia begins**: ten articles from ten subjects (Science, Health, Farming, History,\n Geography, Faith & Bible lands, Technology, Animals, Space, Mathematics), from Simple English\n Wikipedia. Search them, choose a subject, read in TexPedia's own design, with no internet. Each\n shows its credit, licence (CC BY-SA 4.0), revision and a link to the original.\n- **No more locking in the middle of a film**: a film playing, a sermon being recorded or\n TexSound listening now counts as using TexMe, so auto-lock waits (paused, it locks as before).\n- **Your founder's welcome** (Settings → About) rewritten: \"You are free.\"\n- tex-ui 0.1.87, tex-games 0.1.14, tex-sound 0.2.1.",
-  "file": "0.69.32/tex-suite-0.69.32-linux-x86_64.tar.gz",
-  "size": 29509346,
-  "sha256": "6ecb6d5c70d3b1dc90335b04b6460ac58625a4d9e173674d40a2e95050c67891",
-  "signature": "4ad8fa80bd5dce5f0c3564878e5b8a86fa2b10f3fc6af6641d05b34afa10265442283e98f39a008fd620f163470c5b4c6302a49a9ce7ee8ea18412ab8a7b960b",
-  "deb": "0.69.32/tex-suite_0.69.32-1_amd64.deb",
-  "rpm": "0.69.32/tex-suite-0.69.32-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.33",
+ "date": "2026-11-08",
+ "title": "Repeating events; Insights like Anivo's; nothing past the edge",
+ "notes": "- **Repeating events** (Calendar): every day, every weekday (Mon–Fri), every week, every\n month, every year, with an end date if you want one. They show on each day they come again,\n in the upcoming list, and remind before each one. Events kept before stay once.\n- **Tainment's Insights & Trends** rebuilt in the design of Anivo's Insights: one sheet, the\n counts as chips, the moments, ruled blocks, the two charts side by side (one under the other\n on a narrow window), the most played, and what we noticed.\n- **Nothing past the window's edge, for good**: a new check draws each page off screen at a\n phone's, a laptop's and a wide screen's width and fails the release if anything sticks out.\n TexSound and Tainment's Insights pass it; every new page will be held to it.\n- **TexPedia's credit** is plain text now: the source, revision and licence written out,\n nothing to click (an off-grid app keeps you inside).\n- **Section headings for Acts and Romans** in Anivo's own words (137 more).\n- tex-ui 0.1.88 (the fit check), tex-engine 0.30.52 (repeating events, headings), tex-games\n 0.1.15, tex-sound 0.2.2.",
+ "file": "0.69.33/tex-suite-0.69.33-linux-x86_64.tar.gz",
+ "size": 29523881,
+ "sha256": "e29f0233c27c92baf32d41d76e41e89d88e548ef2e3df85f07698edb21e9c5ed",
+ "signature": "af74fad6317ab27c66f134d7fc6383a0bff24fee472c5377c752ad65b80053d2bdb0425236b36e433bf6c3c8d50640c85ac5b18a3c5a49c93d5624126eefd90d"
 }
