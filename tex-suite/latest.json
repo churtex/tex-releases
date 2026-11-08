@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.28",
- "date": "2026-11-08",
- "title": "Autosave everywhere you type",
- "notes": "- **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person\n being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a\n second after you stop typing, and come back in their forms when the Vault opens again. Every\n Save, Keep and Done button stays.",
- "file": "0.69.28/tex-suite-0.69.28-linux-x86_64.tar.gz",
- "size": 29037281,
- "sha256": "c0404ff3aefdbf10384f0307acc3edae960b6f400ed64102aca895f2fdc60f2f",
- "signature": "871a0c970558396e5570b753bf8b32f04ae88835db96d4153af0b49545a064fc390572a14e515c755b075289ca1c97c9ab547f4f726439a8ac5235d7d5603c0d"
+  "app": "tex-suite",
+  "version": "0.69.28",
+  "date": "2026-11-08",
+  "title": "Autosave everywhere you type",
+  "notes": "- **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person\n being written in the Family Tree, and the chat message not yet sent are kept, encrypted, a\n second after you stop typing, and come back in their forms when the Vault opens again. Every\n Save, Keep and Done button stays.",
+  "file": "0.69.28/tex-suite-0.69.28-linux-x86_64.tar.gz",
+  "size": 29037281,
+  "sha256": "c0404ff3aefdbf10384f0307acc3edae960b6f400ed64102aca895f2fdc60f2f",
+  "signature": "871a0c970558396e5570b753bf8b32f04ae88835db96d4153af0b49545a064fc390572a14e515c755b075289ca1c97c9ab547f4f726439a8ac5235d7d5603c0d",
+  "deb": "0.69.28/tex-suite_0.69.28-1_amd64.deb",
+  "rpm": "0.69.28/tex-suite-0.69.28-1.x86_64.rpm"
 }
