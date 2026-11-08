@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.38",
- "date": "2026-11-09",
- "title": "Wisdom and the twelve prophets titled",
- "notes": "- **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the\n twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).\n- tex-engine 0.30.57 (the headings).",
- "file": "0.69.38/tex-suite-0.69.38-linux-x86_64.tar.gz",
- "size": 29537980,
- "sha256": "419f9919e76f3e01b72a142536541c696236870e71a40bdfc7e7d71c7c85c7a8",
- "signature": "7a11c970a9ace4f7fe77351e9850843330e130d02798e1886b64d2ccdd7c72f53cdfd806ad72c337d39777a5fe7f4e3398d1c4427ebf83e2ee90df938276d50a"
+  "app": "tex-suite",
+  "version": "0.69.38",
+  "date": "2026-11-09",
+  "title": "Wisdom and the twelve prophets titled",
+  "notes": "- **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the\n twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).\n- tex-engine 0.30.57 (the headings).",
+  "file": "0.69.38/tex-suite-0.69.38-linux-x86_64.tar.gz",
+  "size": 29537980,
+  "sha256": "419f9919e76f3e01b72a142536541c696236870e71a40bdfc7e7d71c7c85c7a8",
+  "signature": "7a11c970a9ace4f7fe77351e9850843330e130d02798e1886b64d2ccdd7c72f53cdfd806ad72c337d39777a5fe7f4e3398d1c4427ebf83e2ee90df938276d50a",
+  "deb": "0.69.38/tex-suite_0.69.38-1_amd64.deb",
+  "rpm": "0.69.38/tex-suite-0.69.38-1.x86_64.rpm"
 }
