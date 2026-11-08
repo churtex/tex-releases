@@ -1,5 +1,25 @@
 # Changelog
 
+## 0.69.25 (2026-11-08) - Record sermons; Preachers and Ministries found fast; Ctrl+B
+- **Record a sermon** inside the app: Record on the sermon's form, a live clock and level,
+ Pause, Resume, Stop and keep. It goes on while you look at other pages, is kept encrypted in
+ your library as a talk (made smaller by Space Saver), and plays with TexMe's own player:
+ Listen on the sermon. Up to four hours.
+- **"+ New preacher / ministry / category"** on the sermon form opens that list's own page,
+ its form ready. Keep it, press Back to the sermon: the new one is already picked.
+- **Preachers**: search by name, title or ministry; group by letter, ministry or title.
+- **Ministries**: search by name, country or region; sort A–Z, by most sermons, or churches
+ then ministries.
+- **Categories and Titles**: a pencil renames one, and every sermon or preacher carrying it
+ follows.
+- **Rich text**: Ctrl+B bold, Ctrl+I italic, Ctrl+Alt+1 heading, Ctrl+Shift+8 points,
+ Ctrl+Shift+7 numbered (Cmd on a Mac); bold and italic look so while you write.
+- **Autosave everywhere you write in Anivo**: the sermon, the journal, prayers and prophecies,
+ the fast and the prayer session being planned, the Preachers and Ministries forms. What you
+ type is kept, encrypted, a second after you stop (at most three seconds while typing on), and
+ comes back in its form after the app closes. The Save and Done buttons stay as they are.
+- tex-ui 0.1.85 (keys, rich text), tex-games 0.1.12, tex-sound 0.1.2 (recording).
+
 ## 0.69.24 (2026-11-08) - TexSound; Crypto; Family Tree; your chat everywhere you are
 - **TexSound** (Tools), the microphone measured live. **Pitch**: the note sung or played, how
  many cents sharp or flat, a needle that turns green when you are on it. **Loudness**: decibels
