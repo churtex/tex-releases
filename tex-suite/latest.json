@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.31",
- "date": "2026-11-08",
- "title": "TexSound, the sound engineer's friend",
- "notes": "- **TexSound** (Tools) is one page with five tabs, one card under another so nothing leaves\n the screen (the Loudness card sat off the side before).\n- **Overview**, to show the sound engineer: how loud in dBA with a plain verdict, the average,\n the loudest, how long it is safe to listen, and *What to tell the sound engineer*: feedback at\n a frequency, too loud by how much, muddy, harsh, hissy or dull, the singers flat or sharp, the\n room's echo.\n- **Loudness**: A-weighted as sound-level meters measure, the last ten seconds drawn, and the\n session: average (Leq), loudest, time above 85 and 95 dBA, safe listening time; Calibrate.\n- **Tone**: 28 third-octave bars coloured by bass, mud, middle, presence and air, plain advice,\n and feedback found and marked.\n- **Pitch**: the tuner, and the singing over the last 30 seconds: how many notes in tune and\n whether the group drifts flat or sharp.\n- **Room echo**: press Measure, clap once; the room's ring time (RT60) and what suits it.\n- A computer's microphone is close, not exact (about ±5 dB); Calibrate matches a real meter.\n- tex-sound 0.2.0.",
- "file": "0.69.31/tex-suite-0.69.31-linux-x86_64.tar.gz",
- "size": 29410346,
- "sha256": "27b9bc5e3babbea99ca1fa44870194ab369e89a636a58c968fd6a626305eb155",
- "signature": "d993aa0a6821dface062b6158c7cb1f9b1361161fea98a50048fcbf25d4d9fc4d32f31c4ce1200009f14bb277b85ba349766de54a2c0f55adedc4c96b262a30a"
+  "app": "tex-suite",
+  "version": "0.69.31",
+  "date": "2026-11-08",
+  "title": "TexSound, the sound engineer's friend",
+  "notes": "- **TexSound** (Tools) is one page with five tabs, one card under another so nothing leaves\n the screen (the Loudness card sat off the side before).\n- **Overview**, to show the sound engineer: how loud in dBA with a plain verdict, the average,\n the loudest, how long it is safe to listen, and *What to tell the sound engineer*: feedback at\n a frequency, too loud by how much, muddy, harsh, hissy or dull, the singers flat or sharp, the\n room's echo.\n- **Loudness**: A-weighted as sound-level meters measure, the last ten seconds drawn, and the\n session: average (Leq), loudest, time above 85 and 95 dBA, safe listening time; Calibrate.\n- **Tone**: 28 third-octave bars coloured by bass, mud, middle, presence and air, plain advice,\n and feedback found and marked.\n- **Pitch**: the tuner, and the singing over the last 30 seconds: how many notes in tune and\n whether the group drifts flat or sharp.\n- **Room echo**: press Measure, clap once; the room's ring time (RT60) and what suits it.\n- A computer's microphone is close, not exact (about ±5 dB); Calibrate matches a real meter.\n- tex-sound 0.2.0.",
+  "file": "0.69.31/tex-suite-0.69.31-linux-x86_64.tar.gz",
+  "size": 29410346,
+  "sha256": "27b9bc5e3babbea99ca1fa44870194ab369e89a636a58c968fd6a626305eb155",
+  "signature": "d993aa0a6821dface062b6158c7cb1f9b1361161fea98a50048fcbf25d4d9fc4d32f31c4ce1200009f14bb277b85ba349766de54a2c0f55adedc4c96b262a30a",
+  "deb": "0.69.31/tex-suite_0.69.31-1_amd64.deb",
+  "rpm": "0.69.31/tex-suite-0.69.31-1.x86_64.rpm"
 }
