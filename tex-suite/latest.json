@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.49",
+ "version": "0.69.50",
  "date": "2026-11-10",
- "title": "50 more games, 140 in all",
- "notes": "- **Puzzle:** Mosaic, Loop, Lamplighter, Picture Logic, Fifteen, Clusters, Glide, Blockfit, Honeycomb, Crowns, Bridges, Jigsaw, Rings.\n- **Mind:** Tally, Typist, Reckon, Unscramble, Three Cups, Two by Two, Odd One, Magic Square, Letters, Five Letters, Scales, Target, Sequence.\n- **Board:** Chess, Dominoes, Four Homes, Hexlink, Lines.\n- **Action:** Trail, Breaker, Ribbons, Glowworm, Blast Grid.\n- **Strategy:** Shepherd, Rails, Market Stall, Gold Rush, Lighthouse.\n- **Sports:** Cue, Volley, Boules, Swell.\n- **Physics:** Pinball, Ripple, Snowball.\n- **Space:** Sky Lance. **Rhythm and reflex:** Highrise.\n- Kart, Pairs and other games that drew some shapes out of place now draw them where they belong.",
- "file": "0.69.49/tex-suite-0.69.49-linux-x86_64.tar.gz",
- "size": 57075543,
- "sha256": "0f2608cc6255c271e415a0ba725d24b7256aa9c5000c102f5cdf1241f31c6272",
- "signature": "bd31046eda6d5fd203bc9b1d361c300a6f582694348055ae8ac07c681136c9e5cd66122478099675057adfd882716b8bc481cc6da0b6c99f72d8197afdda430c"
+ "title": "60 more games: all 200",
+ "notes": "- **Puzzle:** Binary, Greater, Skyline, Shade, Number Trail, Seedbed, Camp, Lily Pads, Colour In, Gears, Fence, Hex Turn, Shunting.\n- **Mind:** Cages, Clockwise, Shopkeeper, Signal Lamp, Books in Order, Palette, Twin Pictures, Join the Dots, Robot Steps, Cross Sums, Recall, Capitals, Counting Sheep.\n- **Board:** Pyramid, Fairway, Eights, Nine Boards, Fox and Geese, Capture, Hop Home.\n- **Action:** Hillside, Pollen, Clay Shot, Paper Round.\n- **Strategy:** Lift, Crossroads, Bucket Line, Trade Winds, Village, Tide.\n- **Sports:** Ring Push, Field Day, Ski Jump, Spot Kick.\n- **Physics:** Balance, Peg Drop.\n- **Rhythm and reflex:** Snap, Rowers, Fireworks, Tightrope, Griddle, Tug of War.\n- **Racing and flight:** Balloon Ride, Regatta, Runway.\n- **Space:** Stargazer, Rover.",
+ "file": "0.69.50/tex-suite-0.69.50-linux-x86_64.tar.gz",
+ "size": 57473824,
+ "sha256": "61137abb8498cfe9ae5c80dc654d5c42f91383877ce2051f4396ffb2febe6fb2",
+ "signature": "63bb8aa0c068179977c9e6b99f74c63bcadf0a4b7ae8ced53bd30009770b75400a5b0461b8af6100aac2d4e9d329c4fe7ac8b2de8359c9572ec79dfa8f103d09"
 }

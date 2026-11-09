@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.69.50 (2026-11-10) - 60 more games: all 200
+- **Puzzle:** Binary, Greater, Skyline, Shade, Number Trail, Seedbed, Camp, Lily Pads, Colour In, Gears, Fence, Hex Turn, Shunting.
+- **Mind:** Cages, Clockwise, Shopkeeper, Signal Lamp, Books in Order, Palette, Twin Pictures, Join the Dots, Robot Steps, Cross Sums, Recall, Capitals, Counting Sheep.
+- **Board:** Pyramid, Fairway, Eights, Nine Boards, Fox and Geese, Capture, Hop Home.
+- **Action:** Hillside, Pollen, Clay Shot, Paper Round.
+- **Strategy:** Lift, Crossroads, Bucket Line, Trade Winds, Village, Tide.
+- **Sports:** Ring Push, Field Day, Ski Jump, Spot Kick.
+- **Physics:** Balance, Peg Drop.
+- **Rhythm and reflex:** Snap, Rowers, Fireworks, Tightrope, Griddle, Tug of War.
+- **Racing and flight:** Balloon Ride, Regatta, Runway.
+- **Space:** Stargazer, Rover.
+
 ## 0.69.49 (2026-11-10) - 50 more games, 140 in all
 - **Puzzle:** Mosaic, Loop, Lamplighter, Picture Logic, Fifteen, Clusters, Glide, Blockfit, Honeycomb, Crowns, Bridges, Jigsaw, Rings.
 - **Mind:** Tally, Typist, Reckon, Unscramble, Three Cups, Two by Two, Odd One, Magic Square, Letters, Five Letters, Scales, Target, Sequence.
