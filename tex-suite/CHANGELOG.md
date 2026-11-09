@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.69.41 (2026-11-09) - Pedia for life off the grid, twenty new games
+- **Pedia, rebuilt for a life with no internet.** Five groups (Stay alive; Water, food &
+ shelter; Survival; Make, fix, earn; Know & grow), each with its sections. The first one is
+ here, built in: **Health & First Aid**, 1,126 articles in First Aid, Health & Disease, Mothers &
+ Children, Medicines, Hygiene & Sanitation and Mind & Heart. Each opens in easy words, then the
+ full article under "In depth". The other sections show "Coming soon" until their packs arrive.
+- **Every article reads like the Bible in Anivo:** the same sheet, margins, font, size and line
+ spacing, however wide the window. Pedia's own pages are wide, like Tainment's.
+- **Filtered for the church:** what goes against the Bible's teaching is left out, whole
+ articles or single paragraphs; every health article carries a short note to see a health
+ worker when you can. Credits stay as plain text, nothing to click.
+- **Twenty new games**, each in its style's own section, drawn sharp at any size and light
+ enough for a 4 GB computer: Neon Drift and Blade Dusk (Action), Gravity Well and Dock (Space),
+ Night Circuit and Thermal (Racing and flight), Prism, Aqueduct (Puzzle), Bastion and
+ Archipelago (Strategy), Canopy and Flipside (Physics), Pulse and Glimmer (Rhythm and reflex),
+ Curve and Longbow (Sports), Mancala and Draughts (Board), Cipher and Hidden Picture (Mind).
+ Esc pauses, R restarts; best scores are kept.
+- tex-games 0.1.18 (the new games and their engine).
+
 ## 0.69.40 (2026-11-09) - Every Bible its own credit
 - **Read your Bible: change the version with one tap.** KJV, WEB, ASV and Louis Segond sit as
  chips under the title; the one you read is lit, and "All versions" opens the full list.
