@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.69.40 (2026-11-09) - Every Bible its own credit
+- **Read your Bible: change the version with one tap.** KJV, WEB, ASV and Louis Segond sit as
+ chips under the title; the one you read is lit, and "All versions" opens the full list.
+- **Each version shows its own credit.** The ASV, the WEB and Louis Segond each say where their
+ text comes from and that it is public domain; the King James note shows only for the KJV.
+- **Tainment Insights** is now just "Insights", as wide as Tainment's other pages.
+- **Games:** the first eleven games sit together under "Old", every one on the same card (Kite
+ too), its corners cut round like the rest of TexMe, the high score on every card.
+- **Every game in full view:** the playing field now fits the space you can see, so nothing at
+ its bottom hides below the window (Turbo's car was out of sight). **Turbo** drives forward
+ and back too: ↑ ↓ or W S.
+- Under the hood: a Store edition of TexMe can be built with no self-updater inside (for the
+ Microsoft Store and Flathub, which bring updates themselves), and every release now passes
+ Churtex's own safety check (tex-antivirus) before it is published.
+- tex-engine 0.30.59 (Insights' name), tex-games 0.1.16 (one card for every game).
+
 ## 0.69.39 (2026-11-09) - The whole Bible titled
 - **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,
  Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis
