@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.69.43 (2026-11-09) - Chat that holds
+- **Chat connects even when both of you press Open Chat at the same moment.** Before, each computer could keep a different connection and the chat ended with "connection reset".
+- **A chat that dropped is noticed within a minute,** and opening it again starts a fresh one at once.
+- **Plain words when a connection is cut,** with what to do next.
+- **Send to another device:** a new button in an item's details takes you straight to Share with that item chosen.
+- **Share items** now shows for every device nearby, your own ones too.
+
 ## 0.69.42 (2026-11-09) - The whole Pedia, Pedia Chat, and games that fit your screen
 - **Pedia, all of it:** six groups and 32 sections, about 2,700 articles: Stay alive; Water, food & shelter; Survival; Make, fix, earn; **Rebuild from scratch** (the 50 machines, engineering, metals, chemistry, power, transport, radio, printing, cloth, medicines, time and navigation, science); Know & grow.
 - **Pictures on nearly every Health & First Aid article.** The other sections get theirs in the next update.
