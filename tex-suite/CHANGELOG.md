@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.69.48 (2026-11-10) - 20 more games, 90 in all
+- **Puzzle:** Pour, Flood, Five Alike, Way Out.
+- **Mind:** Knight Path, Jade Tiles, Wordfind.
+- **Board and cards:** Patience, Ladders.
+- **Strategy:** Fleet.
+- **Action:** Leap, Slice, Crossing.
+- **Racing and flight:** Cavern, Kart.
+- **Rhythm and reflex:** Timber, Quickdraw, Keys.
+- **Sports:** Keepy, Crease.
+
 ## 0.69.47 (2026-11-09) - 38 new games
 - **38 new games, 70 in all,** each drawn sharp at any size and light enough for a 4 GB computer:
   - **Puzzle:** Twofold, Beacons, Slide, Tangle, Bubbleburst, Flowlines.
