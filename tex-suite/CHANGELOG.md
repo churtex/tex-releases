@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.69.44 (2026-11-09) - Chats that continue, and calmer Sermons
+- **Chats continue.** Once you've compared the code with someone, you're remembered on both sides: the next chat connects without a code.
+- **A dropped chat reconnects by itself** while their conversation is open and they're on the same network.
+- **Write even when they're away.** Your message waits, marked "Waiting", and goes as soon as you're connected again.
+- **See the speed of every file** in a chat: a live bar with how much has gone, the speed and the time left. Share & Sync shows the time left too.
+- **Send a file works every time,** also after a file that stopped half way.
+- **Choose when the screen locks** while creating your library. New libraries lock after 30 minutes unless you choose otherwise.
+- **Stopping a sermon recording no longer freezes TexMe.** The recording is kept in the background while you carry on.
+- **Examples & Testimonies now live inside each sermon,** under the sermon itself. Ones you kept before can be added to a sermon with one click.
+- **Fasting: "I fasted today"** marks the day, apart from "End the fast". Days you fasted turn green.
+- **Edit a fast:** change its kind, dates, hours, title or note.
+- **Windows updates inside TexMe:** the update downloads, is checked, and installs, with no trip to a web page.
+
 ## 0.69.43 (2026-11-09) - Chat that holds
 - **Chat connects even when both of you press Open Chat at the same moment.** Before, each computer could keep a different connection and the chat ended with "connection reset".
 - **A chat that dropped is noticed within a minute,** and opening it again starts a fresh one at once.
