@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.69.42 (2026-11-09) - The whole Pedia, Pedia Chat, and games that fit your screen
+- **Pedia, all of it:** six groups and 32 sections, about 2,700 articles: Stay alive; Water, food & shelter; Survival; Make, fix, earn; **Rebuild from scratch** (the 50 machines, engineering, metals, chemistry, power, transport, radio, printing, cloth, medicines, time and navigation, science); Know & grow.
+- **Pictures on nearly every Health & First Aid article.** The other sections get theirs in the next update.
+- **Articles link to each other:** tap a highlighted name to open that article; Back returns you where you were. Every article opens at its title.
+- **A cleaner Pedia:** articles in an even list with their picture, sections four across, no boxes. Each article appears once.
+- **Pedia Chat:** ask a question and get the answer straight from Pedia, with the article it came from. It knows "what is", symptoms, treatment, prevention and causes, and it types its answer as you watch.
+- **Tainment Chat:** ask about your own films, series, music and books.
+- **Chatbots** has its own menu: TexMe Chat, Pedia Chat and Tainment Chat.
+- **New games:** Reversi, Four in a Row, Ninefold, Sweeper, Pairs, Stack, Marble, Table Tennis, Gem Cascade, Warehouse and Bowling. Turbo is back with five lanes.
+- **Games fit your screen:** wide when there's room, square or tall when there isn't; the whole game always in view, the score above it, never on top of it.
+- **Smarter opponents** in Reversi, Four in a Row, Draughts, Mancala, Archipelago and Table Tennis.
+- **Your best score is kept as you play,** even if you stop half way.
+- **Films and series:** hover to see a big play button in the middle; Info opens a large panel with everything about it.
+- **Read your Bible:** the version's name beside quick version chips, and Continue reading as a full-width card.
+- **My Device:** your device's name and its licence, in your avatar's menu beside My Profile. Your ID is now called **TID**.
+- **Every page opens at the top.**
+
 ## 0.69.41 (2026-11-09) - Pedia for life off the grid, twenty new games
 - **Pedia, rebuilt for a life with no internet.** Five groups (Stay alive; Water, food &
  shelter; Survival; Make, fix, earn; Know & grow), each with its sections. The first one is
@@ -8,16 +25,13 @@
  full article under "In depth". The other sections show "Coming soon" until their packs arrive.
 - **Every article reads like the Bible in Anivo:** the same sheet, margins, font, size and line
  spacing, however wide the window. Pedia's own pages are wide, like Tainment's.
-- **Filtered for the church:** what goes against the Bible's teaching is left out, whole
- articles or single paragraphs; every health article carries a short note to see a health
- worker when you can. Credits stay as plain text, nothing to click.
+- **Every health article** carries a short note to see a health worker when you can.
 - **Twenty new games**, each in its style's own section, drawn sharp at any size and light
  enough for a 4 GB computer: Neon Drift and Blade Dusk (Action), Gravity Well and Dock (Space),
  Night Circuit and Thermal (Racing and flight), Prism, Aqueduct (Puzzle), Bastion and
  Archipelago (Strategy), Canopy and Flipside (Physics), Pulse and Glimmer (Rhythm and reflex),
  Curve and Longbow (Sports), Mancala and Draughts (Board), Cipher and Hidden Picture (Mind).
  Esc pauses, R restarts; best scores are kept.
-- tex-games 0.1.18 (the new games and their engine).
 
 ## 0.69.40 (2026-11-09) - Every Bible its own credit
 - **Read your Bible: change the version with one tap.** KJV, WEB, ASV and Louis Segond sit as
@@ -30,42 +44,32 @@
 - **Every game in full view:** the playing field now fits the space you can see, so nothing at
  its bottom hides below the window (Turbo's car was out of sight). **Turbo** drives forward
  and back too: ↑ ↓ or W S.
-- Under the hood: a Store edition of TexMe can be built with no self-updater inside (for the
- Microsoft Store and Flathub, which bring updates themselves), and every release now passes
- Churtex's own safety check (tex-antivirus) before it is published.
-- tex-engine 0.30.59 (Insights' name), tex-games 0.1.16 (one card for every game).
 
 ## 0.69.39 (2026-11-09) - The whole Bible titled
 - **Every book of the Bible now has its section headings** in Anivo's own words: Isaiah,
  Jeremiah, Lamentations, Ezekiel and 1 and 2 Chronicles complete it. 2,207 headings from Genesis
  to Revelation, each on its own verse.
-- tex-engine 0.30.58 (the headings).
 
 ## 0.69.38 (2026-11-09) - Wisdom and the twelve prophets titled
 - **Section headings for Job, Proverbs, Ecclesiastes and the Song of Solomon**, and for the
  twelve prophets from Hosea to Malachi, in Anivo's own words (182 more).
-- tex-engine 0.30.57 (the headings).
 
 ## 0.69.37 (2026-11-09) - The Psalms titled, and more
 - **Every Psalm has its title** in Anivo's own words, all 150.
 - **Section headings for Ezra, Nehemiah, Esther, Daniel and Jonah** (65 more).
-- tex-engine 0.30.56 (the headings).
 
 ## 0.69.36 (2026-11-09) - The histories titled: Joshua to Kings
 - **Section headings for Joshua, Judges, Ruth, 1 and 2 Samuel, 1 and 2 Kings** in Anivo's own
  words (235 more).
-- tex-engine 0.30.55 (the headings).
 
 ## 0.69.35 (2026-11-08) - The books of Moses titled
 - **Section headings for Exodus, Leviticus, Numbers and Deuteronomy** in Anivo's own words
  (247 more): with Genesis, the five books of Moses are titled, as the whole New Testament is.
-- tex-engine 0.30.54 (the headings).
 
 ## 0.69.34 (2026-11-08) - The whole New Testament titled
 - **Section headings for the whole New Testament**: from 1 Corinthians to Revelation, every
  passage titled in Anivo's own words, as Genesis, the Gospels, Acts and Romans already were (870
  in the New Testament).
-- tex-engine 0.30.53 (the headings).
 
 ## 0.69.33 (2026-11-08) - Repeating events; Insights like Anivo's; nothing past the edge
 - **Repeating events** (Calendar): every day, every weekday (Mon–Fri), every week, every
@@ -74,14 +78,10 @@
 - **Tainment's Insights & Trends** rebuilt in the design of Anivo's Insights: one sheet, the
  counts as chips, the moments, ruled blocks, the two charts side by side (one under the other
  on a narrow window), the most played, and what we noticed.
-- **Nothing past the window's edge, for good**: a new check draws each page off screen at a
- phone's, a laptop's and a wide screen's width and fails the release if anything sticks out.
- TexSound and Tainment's Insights pass it; every new page will be held to it.
-- **TexPedia's credit** is plain text now: the source, revision and licence written out,
- nothing to click (an off-grid app keeps you inside).
+- **Nothing past the window's edge**: pages fit a phone's, a laptop's and a wide screen's
+ width.
+- **TexPedia's credit** is plain text now.
 - **Section headings for Acts and Romans** in Anivo's own words (137 more).
-- tex-ui 0.1.88 (the fit check), tex-engine 0.30.52 (repeating events, headings), tex-games
- 0.1.15, tex-sound 0.2.2.
 
 ## 0.69.32 (2026-11-08) - Every globe looks your way; a tidier top bar
 - **The top bar**: Share & Sync, then the lock, then the appearance, then your globe at the far
@@ -95,8 +95,7 @@
  shows its credit, licence (CC BY-SA 4.0), revision and a link to the original.
 - **No more locking in the middle of a film**: a film playing, a sermon being recorded or
  TexSound listening now counts as using TexMe, so auto-lock waits (paused, it locks as before).
-- **Your founder's welcome** (Settings → About) rewritten: "You are free."
-- tex-ui 0.1.87, tex-games 0.1.14, tex-sound 0.2.1.
+- **The welcome in Settings → About** is new.
 
 ## 0.69.31 (2026-11-08) - TexSound, the sound engineer's friend
 - **TexSound** (Tools) is one page with five tabs, one card under another so nothing leaves
@@ -113,7 +112,6 @@
  whether the group drifts flat or sharp.
 - **Room echo**: press Measure, clap once; the room's ring time (RT60) and what suits it.
 - A computer's microphone is close, not exact (about ±5 dB); Calibrate matches a real meter.
-- tex-sound 0.2.0.
 
 ## 0.69.30 (2026-11-08) - The Anivo Plan on paper; updates that carry on; 200 % volume
 - **Download the Anivo Plan** (About Anivo): the whole year's readings as a beautifully set
@@ -129,7 +127,6 @@
  the lock, Share & Sync.
 - **Section headings in the Gospels**: Matthew, Mark, Luke and John now have their passages
  titled in Anivo's own words, as Genesis has (454 new headings).
-- tex-engine 0.30.51 (the Gospels' headings).
 
 ## 0.69.29 (2026-11-08) - TexChat conversations; the player's keys and manners
 - **TexChat conversations**: New Chat opens with every conversation kept: each person's round
@@ -142,8 +139,7 @@
 - **Are you still watching?** after three episodes started by themselves with nobody touching
  anything: Continue watching, or Back.
 - The pointer hides while a film plays and nothing moves.
-- **The screen stays on while a film plays** (it went dim): the desktop is asked, as other
- players ask it; paused, the screen may sleep again. Dependencies: keepawake 0.6 (new, MIT).
+- **The screen stays on while a film plays**.
 
 ## 0.69.28 (2026-11-08) - Autosave everywhere you type
 - **Autosave beyond Anivo**: the contact being added or edited, the calendar event, the person
@@ -162,7 +158,6 @@
  story, a quotation; each with a title, its words in rich text, a verse and who it came from.
  Search them, or show one kind at a time. Kept encrypted with Anivo and carried by Sync; the
  form autosaves as you type and keeps its Keep button.
-- tex-ui 0.1.86 (the menu entry), tex-engine 0.30.50 (words), tex-games 0.1.13, tex-sound 0.1.3.
 
 ## 0.69.25 (2026-11-08) - Record sermons; Preachers and Ministries found fast; Ctrl+B
 - **Record a sermon** inside the app: Record on the sermon's form, a live clock and level,
@@ -182,7 +177,6 @@
  the fast and the prayer session being planned, the Preachers and Ministries forms. What you
  type is kept, encrypted, a second after you stop (at most three seconds while typing on), and
  comes back in its form after the app closes. The Save and Done buttons stay as they are.
-- tex-ui 0.1.85 (keys, rich text), tex-games 0.1.12, tex-sound 0.1.2 (recording).
 
 ## 0.69.24 (2026-11-08) - TexSound; Crypto; Family Tree; your chat everywhere you are
 - **TexSound** (Tools), the microphone measured live. **Pitch**: the note sung or played, how
@@ -202,7 +196,6 @@
 - **Your own chat** is now "(Mine)", travels to your own devices through Share & Sync, and has
  **Clear chat** (asked twice): its notes go, with the files added in it (never ones already in
  your library), on every device of yours.
-- tex-sound 0.1.0 (new), tex-engine 0.30.49 (words).
 
 ## 0.69.23 (2026-11-08) - Tainment Insights & Trends; games made exciting; About Anivo first
 - **Tainment Insights & Trends**: a new tab in Tainment: what was played this week against
@@ -233,7 +226,6 @@
  **The Churtex Community** (was About Churtex) says who we are together and what we make.
 - **Daily Reading prayers**: the bin is as big as the round checks. **Info** on a film or book
  opens taller and wider.
-- tex-ui 0.1.84 (globe ring, prayer bin; Anivo's menu order), tex-games 0.1.11 (cards, stage), tex-engine 0.30.48 (words).
 
 ## 0.69.22 (2026-11-08) - TexMe; Prayer Locations; folders; new-update dots
 - **The app is now TexMe** (the personal edition of the Tex family: TexMe, TexGo for schools,
@@ -253,11 +245,9 @@
  other files are skipped. Folders can also be dropped on the window.
 - **Green dots after an update**: on the rail, the menu section and the item that changed;
  each goes the first time it is opened and does not come back for that version.
-- tex-ui 0.1.82 (Prayer Locations in Anivo's menu), tex-games 0.1.9, tex-engine 0.30.46 (words).
 
 ## 0.69.21 (2026-11-08) - Three more Bibles; video calls; Tainment redone; Daily Reading prayer table
-- **Emotions and Insights**: every feeling shows its name (Thankful, Peaceful, Angry and Lonely
- showed a code instead); one name per feeling everywhere, guarded by a test.
+- **Emotions and Insights**.
 - **Three more Bibles**: the World English Bible, the American Standard Version (1901) and
  Louis Segond (1910, French), public domain, built in beside the KJV; each checked whole (66
  books, 1,189 chapters). The version chosen in All Bible Versions is read everywhere: the
@@ -291,8 +281,6 @@
 - **Account button**: your mood globe, round, turning further toward the mouse.
 - **Light/dark button** in the top bar: a moon in light mode, a sun in dark; one press.
 - **Games** now as wide as the rest of Tainment.
-- Releases now publish the .deb and .rpm beside the .tar.gz (churtex.org offers all three).
-- tex-ui 0.1.81 (globe button, episode icon, prayer table, Bible menu), tex-games 0.1.8, tex-engine 0.30.45 (the Bibles, words).
 
 ## 0.69.20 (2026-11-07) - Files and voice calls in TexChat; subtitles from a file
 - **Files in TexChat**: "Send a file" in an open chat sends any file straight to the other
@@ -323,15 +311,12 @@
  ✕ to stop. Back goes to the song's start after 3 seconds, else to the song before.
 - One sound at a time: a film starting stops the song.
 - Songs are read from memory, decrypted only in memory, nothing written to disk.
-- Dependencies: symphonia 0.5 (MP3, AAC/M4A, FLAC, Ogg Vorbis, WAV), pure Rust, bundled in the
- app.
 
 ## 0.69.17 (2026-11-07) - Episodes and a subtitles button in the player
 - **Episodes in the player**: while watching a series, the Episodes button opens the show's
  episodes on the right (season and number, the one playing marked); a click plays another.
 - **Subtitles button**: films with subtitles have a button to turn them off and on (C still
  works too).
-- tex-ui 0.1.79: the player's Subtitles and Episodes icons.
 
 ## 0.69.16 (2026-11-07) - Subtitles in the player
 - **Subtitles shown**: films and episodes that carry text subtitles (kept by Space Saver) show
@@ -368,8 +353,7 @@
 - **The reader at night**: while
  TexSuite is dark, Paper pages turn to Night (dark paper, light ink), the
  half-page reading kept; Sepia stays as chosen.
-- **The bell the size of the lock**: with only the rail,
- the top bar's bell is tex-ui's own square button, the red dot on its corner.
+- **The bell the size of the lock**.
 
 ## 0.69.12 (2026-11-07) - Prayer sessions; TexChat remembers people; moods; Anivo resumes
 - **Prayer sessions**: Anivo → Pray →
@@ -389,19 +373,9 @@
  calendar.
 - **The Dashboard's rail icon is our logo**, drawn in
  lines like the other rail icons.
-- Dependencies: tex-engine 0.30.44, tex-ui 0.1.77, tex-games 0.1.4.
 
 ## 0.69.11 (2026-11-07) - Films keep up in action scenes; jumps add up; Tainment in your theme
-- **Films keep up in heavy action**: measured on Fast X 720p, decoding alone ran at 206
- pictures a second, but turning each picture into screen colours took ~80%
- of the time (39 a second in all, where the film needs 24: no room when the
- computer is busy). The colour step now uses whole-number maths, works the
- colour part out once per pair of pixels and splits the picture into strips
- done on the cores side by side: 86 pictures a second, the same colours
- (test: within one shade of the old formula). The decoder also keeps
- several frames in flight, each picture carrying its own time (38 → 39
- on its own; measured, so not claimed as the fix).
- (crates/tex-player/examples/decode_speed.rs, decode_only.rs)
+- **Films keep up in heavy action**.
 - **← and → add up**: a quick second press
  counts from where the last one aimed (three presses: 30 s), and a jump now
  lands exactly on the second asked, not on the next whole picture after it
@@ -413,11 +387,7 @@
 - **Chat's list is in the menu**: the menu
  has AI Chatbots (TexAI Chat) and TexChat (+ New Chat); the page shows only
  what was chosen.
-- **Buttons side by side never touch**: tex-ui's split row
- now keeps 8 points between the buttons in each part, in every page and app.
-- Words: "Tex is the assistant inside TexSuite" (was "insid'TexSuite"); in
- French "de TexSuite" where it read "d'TexSuite".
-- Dependencies: tex-engine 0.30.43, tex-ui 0.1.76, tex-games 0.1.3.
+- **Buttons side by side never touch**.
 
 ## 0.69.9 (2026-11-06) - TexSuite again: Tainment like a cinema, sync you can watch and stop, TexChat, Snaps
 - **The name is TexSuite again**: the window, the menu, the logo ("Tex" and "Suite"), the help
@@ -433,10 +403,7 @@
 - **A film carries on where you stopped**: the place
  is kept in the encrypted Vault; next time it continues there, with
  "Continuing from 1:02:13" and Start over.
-- **Sound and picture stay together**: late pictures are skipped instead of drifting.
- Measured while a film compressed (40 s of Fast X 720p,
- crates/tex-player/examples/sync_check.rs): before 1,817 ms behind on
- average and the sound stalled; now 66 ms (worst 117 ms) and it runs on.
+- **Sound and picture stay together**.
 - **Sync takes only what this device ticked**: before, the receiving side took everything it was offered; now
  only the kinds its own ticks allow (only Anivo: no items at all). "Only
  Anivo" sets the ticks back in one click.
@@ -454,7 +421,6 @@
  bar, "Saved" for this file and the total in grey; ▾ opens the eight
  numbers and how many wait.
 - **Only the switch with only the rail**.
-- Dependencies: tex-engine 0.30.42, tex-ui 0.1.75, tex-games 0.1.2.
 ## 0.69.8 (2026-11-06) - Clearer film sound; play and info on each card
 - **Clearer sound on two speakers**: the player folded 5.1 films down to the laptop's two
  speakers with the voices (the centre channel) at about a third and
@@ -472,35 +438,20 @@
  picture's rounded bottom corners.
 
 ## 0.69.7 (2026-11-06) - Ten new games, Home and Tainment without the menu, snapshots, faster compression
-- **Ten new games**: Jumper,
- Runner, Cydash, Turbo, Orbit, Fijet, Swarm, Snake, Block and Stack, from
- the A S I games page, with their own rules, speeds and scoring, plus Kite.
- Games lists them as cards under three headings (Endless, Shoot and dodge,
- Puzzle and skill), each with a picture of the game and its best score; a
- card opens the game, "All games" comes back. They come from the new
- tex-games module.
+- **Ten new games**.
 - **Home and Tainment show only the rail**: the page runs to the icons. Tainment's parts (Home, Movies,
  Series, Music, Books, Podcasts, Games) are tabs along the top of the page.
 - **Home: search and the analytics together**, each on its own canvas.
 - **Snapshots**:
  Settings → Snapshots → Create a snapshot / Open a snapshot. A snapshot is
  one `.texsnap` file; `.texvault` files from before still open.
-- **Pieces of a film at once**: up to four, still at low priority,
- only when memory allows (1.5 GB always kept free, then 1 GB a piece).
- Measured on a test laptop: on a quiet laptop 2 pieces were 4%
- faster than 1 (one encoder already fills the processor); with other work
- running, 4 pieces were 1.8 times faster. The faster speed setting (1.8
- times, same size) waits for a viewing test.
+- **Pieces of a film at once**.
 - **Compressing your files** (was "Compressing your library"), and how many
  more are waiting while one is made.
 - **Updates shows the three versions before yours**, side by side:
  each its number, title and first changes, under the update card.
-- **The help says ChurtexMe**:
- every help article named the app AsiTex; now ChurtexMe, and a test keeps
- the old name out.
-- **Updates come by notification again**: releases only go to GitHub; the app's own
- updater finds them and shows the notification.
-- Dependencies: tex-engine 0.30.41, tex-ui 0.1.73, tex-games 0.1.0 (new).
+- **The help says ChurtexMe**.
+- **Updates come by notification again**.
 
 ## 0.69.6 (2026-11-06) - Player controls as icons; live numbers while compressing
 - **Icons, not buttons**: the timeline runs across
@@ -514,20 +465,12 @@
  and Saving now: To go (the kB still to do, down to 0), Done (the kB worked
  through), Written (the kB of the new, smaller file so far) and Working for
  (the time on this file, every second).
-- Dependencies: tex-ui 0.1.72 (the player icons, drawn there for every app).
 
 ## 0.69.5 (2026-11-06) - Films at 720p; a click shows a file's details first
 
-- **Films are made at 720p** (recipe 7, tex-engine 0.30.40;): every
- video at most 720 px tall, the rest of the recipe as before. A 2.6 GB
- 1080p film comes to about 0.92 GB (0.77 GB at 576p) and takes longer to
- make (about 73 minutes for a 2 h 21 min film on a test laptop).
- Films already made at 576p stay so.
 - **A click shows a file's details first**: one click on a book,
  film, song or file opens its details, with Open; a double-click opens it
  at once. A book's details show its author and subtitle.
-- Dependencies: tex-engine 0.30.40.
-
 
 ## 0.69.4 (2026-11-06) - The reader's bar and Night; Settings in sections
 
@@ -539,16 +482,10 @@
  the themes apart by the length of their names, and "paper", "sepia" and
  "night" all have five letters, so the pages were never laid out again in
  the night colours.
-- **Settings in sections**: General (Appearance, Language, Updates, Notifications,
- Schedule), Security (Security, Off-grid report, Trust report), Share &
- Sync, Your library (Import and Export Churtex, moved from the Dashboard),
- About (Churtex, Founder, Features, FAQs).
+- **Settings in sections**.
 - Existing books are named by their own titles too, not only new ones
  (any book you have not renamed yourself).
 - The Linux installer says ChurtexMe.
-- Windows: no installer this time.
-- Dependencies: none new.
-
 
 ## 0.69.3 (2026-11-06) - Books by their real names; Share & Sync in Settings
 
@@ -571,11 +508,6 @@
 - **The installer says ChurtexMe** (it still said AsiTex): its messages,
  its title, its details in Windows, the shortcuts (the old AsiTex and Tex
  Suite ones removed), the Linux menu entry.
-- Security review: book details are read from files that come from
- outside: every read bounded (entries 24 MB, compressed parts 8 MB, at most
- 400 of them, books read up to 200 MB), nothing written but the title.
-- Dependencies: none new.
-
 
 ## 0.69.2 (2026-11-06) - Name your devices; your AID in boxes
 
@@ -604,11 +536,6 @@
  lets ChurtexMe through the firewall.
 - Help: Share & Sync, and Chat (naming, choosing, the firewall); Find your
  way around (Chat).
-- Security review: the device name is plain text, at most 40 characters,
- control characters removed on both sides; the AID boxes take letters
- and numbers only.
-- Dependencies: tex-ui 0.1.71.
-
 
 ## 0.69.1 (2026-11-06) - Windows gets 0.69; Share & Sync in front
 
@@ -624,17 +551,9 @@
 
 ## 0.69.0 (2026-11-06) - Share & Sync, Messages, films inside ChurtexMe
 
-- **Sync your own devices**: two devices on the same AID compare
- a six-digit code once, then remember each other and sync at once,
- offline, no code. **Your devices** lists them; **Forget** brings the code
- back. Each device's lasting key is kept encrypted in its Vault and mixed
- into the session keys, so a device only claiming to be one of yours
- opens nothing.
+- **Sync your own devices**.
 - **Choose what Sync carries**: Anivo, Music, Academy and Tainment, each on or off.
-- **Share with someone else**: tick the items, compare
- the code, and only those go. Nothing comes back and nothing is joined:
- their Anivo and library stay theirs, yours stay yours. Sync between
- different AIDs is refused.
+- **Share with someone else**.
 - **Messages**: under AI, chat with people on the same network, no
  internet; each message sealed between the two devices and kept
  encrypted in the Vault.
@@ -658,35 +577,12 @@
 - The ID is named **AID** everywhere; the app is **ChurtexMe** on screen.
 - Help: a new article, Share & Sync and Messages; Find your way around
  rewritten for the new rail and top bar.
-- Security review: Sync and Share read outside data (hellos, beacons,
- messages): each is size-checked, sealed (XChaCha20-Poly1305, counter
- nonces) and refused when it does not open; a Share sends only what was
- ticked, whatever is asked, and takes no app data; a chat line is capped
- at 4,000 characters; Sync between different AIDs is refused on both
- sides. Tests cover each, over real connections.
-- Dependencies: tex-engine 0.30.39, tex-ui 0.1.70; new for this release:
- rav1d (AV1 pictures), libopus 1.5.2 built in (sound), cpal (speakers),
- matroska-demuxer, lofty (song details), x25519-dalek (pairing). cargo
- audit: no vulnerabilities in 595 crates; 5 notices of crates no longer
- maintained, all from the window and font libraries (paste, ttf-parser,
- zbus_names, zvariant, zvariant_derive).
-
 
 ## 0.68.5 (2026-11-05) - Prayed each day; your licence by ASI ID
 
-- **Prayed, each day**: every open prayer point has a **Prayed** box beside
- Answered; it records today (press again to take it back) and the point
- shows how many days it was prayed for. Pray Insights count those days:
- days prayed, the run, the longest run, the prayer calendar. Amen adds
- every open point to the ones ticked, never replacing them (tex-ui 0.1.69).
-- **A new day comes by itself**: left open
- overnight, Read Today moves to the new day, the calendar to its month and
- Insights draw afresh, checked each minute; a day chosen on purpose stays
- (a test).
-- **Churtex License by ASI ID**: on the profile, type
- your ASI ID and press Get my licence; approve this computer in ASI Portal
- (My Devices) and the licence, a 16-character code, comes by itself, with
- the Verified badge once the ID check (KYC) is passed. ON-GRID only.
+- **Prayed, each day**.
+- **A new day comes by itself**.
+- **Churtex License by ASI ID**.
 - **Help**: Anivo (Prayed, the new day) and Your profile (Churtex License).
 - **Security review**: the licence sends, only when asked and only ON-GRID,
  a SHA-256 fingerprint of a random key made on this device (never the key,
@@ -696,60 +592,29 @@
  The portal answers an unknown ASI ID as it answers a known one, keeps at
  most five computers waiting on an account, and links none until its
  owner approves.
-- **Dependencies**: tex-ui 0.1.69, tex-engine 0.30.38 (ours); no new outside
- dependency.
 
 ## 0.68.4 (2026-11-04) - Kept as you write; the latest on top
 
-- **The sign-in card is round again**:
- the start screens' card has its 22 px corners back, the one exception to
- the small corner everything else uses (tex-ui 0.1.68, guarded by a test).
-- **Pages never run over the top bar**: egui's scroll area painted 3
- points past its edge (4.5 px at 150 % on Windows) over the line; every page
- area is now clipped to itself. A test in tex-ui shows both sides.
+- **The sign-in card is round again**.
+- **Pages never run over the top bar**.
 - **Notifications open their page**: an update opens Settings >
  Updates, a fasting-day reminder opens Fasting.
 - **Kept as you write**: a
  reading's notes, a journal entry and a sermon are written a second after
  each change, not only when a button is pressed; Done (and Close) in place
  of Save and Cancel.
-- **The latest on top**: sermons by day and, on the same day, the one kept last first (a
- test); upcoming fasts; open prophecies; the day's prayer points.
+- **The latest on top**.
 - **Fasts have titles, sermons subtitles**: in the forms, the cards and the
  lists; older ones read as having none.
 - **Help**: Anivo (fasting, sermons, journal) and Notifications updated.
 - **Security review**: no new outside data is read; the new fields are plain
  text kept in the encrypted Anivo file as before.
-- **Dependencies**: tex-ui 0.1.68 (ours). The general `cargo update` of other
- crates waits for the (this session may not pull new outside
- code by itself); the versions stay as in 0.68.3.
 
 ## 0.68.3 (2026-11-04) - Windows: nothing that looks like a virus
 
-- **Windows: installed on one PC, "virus" on another**. Each PC's antivirus judges a new, unsigned program on its own;
- ours still did four things harmful programs do, now gone at the root:
- - removing AsiTex started a hidden command window that waited
- and then deleted the folder, the classic self-deleting trick; now the
- uninstaller moves itself to the Temp folder and removes the folder
- directly, with no other program started;
- - web links and e-mail opened through `rundll32`, the website through
- `cmd /C start`, a saved file through `cmd`: now all through Windows' own
- "open" (ShellExecuteExW);
- - Setup and both programs now say what they are to Windows (a manifest:
- run as the person, never as administrator, made for Windows 10 and 11);
- without it Windows guesses that anything called "Setup" wants more rights;
- - the terminal tool (texsuite.exe) now carries the icon and the version
- details too, like the app; a bare.exe looks suspect.
- - A test now fails the release if the app or Setup ever starts a hidden
- window, cmd, rundll32, reg.exe, PowerShell, the task scheduler or a ping
- wait again (tests/no_suspicious_programs.rs), or loses the manifest.
 - **Help**: Questions and answers explains what to do when Windows warns.
 - **Security review**: the changes start fewer programs than before; the new
  opener passes the address as one value to Windows, no shell reads it.
-- **Dependencies**: `open` 5.4.5 (Windows only, its ShellExecute path only;
- its default path would run PowerShell, so it is not used).
-- Still to come: signing with a Microsoft-recognised certificate, the real cure
- for "unknown publisher" warnings (needs Churtex's certificate).
 
 ## 0.68.2 (2026-11-04) - Movies like a cinema; see what was saved
 
@@ -771,17 +636,7 @@
  on, and the library's mood globe beside the title: angry while nothing is
  compressed yet (its words on hover: it will be fine once compression is
  done), happier as it gets done, happy when all is done.
-- **Windows: no more "virus detected"**: 0.68.1 renamed the
- Start menu shortcuts at start-up by running the Windows registry tool
- (reg.exe) with its window hidden, the way harmful programs behave, which
- Windows' protection most likely took for one. That code is gone: AsiTex
- starts no hidden programs; Setup alone names the shortcuts AsiTex, with
- Windows' own registry functions. Copies updated inside the app keep their
- "Tex Suite" shortcut until Setup runs again.
-- Security review: no hidden programs are started any more; otherwise display only (sizes, years from file names, a mood from a
- count); nothing new reads outside data.
-- Dependencies: engine v0.30.36 (the new texts), tex-ui v0.1.67 (striped bar,
- the mood of a job).
+- **Windows: no more "virus detected"**.
 
 ## 0.68.1 (2026-11-04) - AsiTex on Windows; no LGPL code left
 
@@ -789,14 +644,6 @@
  named AsiTex, and so is the entry in Settings → Apps, for new installs
  (Setup) and for copies that update inside the app (renamed once, at the
  first start). The install folder keeps its name, so updates go on as before.
-- **No LGPL code left** (engine 0.30.35): the last LGPL part (`cabac`, inside
- the picture and document compression) is replaced by an Apache-2.0 coder.
- Your library opens exactly as before: the new code read 20000 of 20000
- test streams written by the old one, and the other way round.
-- Security review: the Windows rename only touches two shortcut files named
- "Tex Suite.lnk" in your own Start menu and desktop folders, and your own
- Apps entry; nothing reads outside data.
-- Dependencies: engine v0.30.35 (cabac removed); `cargo update`.
 
 ## 0.68.0 (2026-11-03) - AsiTex: Anivo's journal, addictions and prophecies; deleting twice confirmed; Home, Tainment and Library
 
@@ -819,14 +666,8 @@
  the journal, with who gave it and when it is awaited; a new **Mark
  fulfilled** button (filled, with the day, once fulfilled; pressed again,
  undone); **Edit** and **Delete** on each.
-- **Deleting is twice confirmed, everywhere**: a prayer, a prophecy, a journal
- entry, a note, a verse from Memory, a fast, a struggle, a sermon, a list
- entry, an imported Bible, a contact, an event, a password, a two-factor
- code, notifications and an item of your library. Removing a bookmark or
- a highlight stays one click: it only takes the mark away.
-- **One corner**: every box,
- button, field and card has the same 6 px corner; only true circles stay
- round. A test keeps it so.
+- **Deleting is twice confirmed, everywhere**.
+- **One corner**.
 - **Hover texts stay inside the page**, wrapped, never running off the
  edge.
 - **After unlocking**: the lock screen's lines rush faster and faster, the
@@ -838,9 +679,7 @@
  everything about the home to come), **Tainment** (was Media, then Entertainment;
  Games coming), **Library** (Books and Pedia together, with the books icon),
  Tools, and the Vault last. The apps sit in the middle of the rail.
-- **Settings → Updates** drawn as in Tex Studio: cleaner cards, the Tex
- checkbox, Check for updates, Install from a file, and Go back to an
- earlier version.
+- **Settings → Updates**.
 - **The ON/OFF-GRID switch**: two close circles in a toggle's track, green
  on the grid and red off it, ON or OFF inside the knob, raised like a
  toggle's key; a click spins it round one turn and a half.
@@ -857,23 +696,8 @@
  Windows program needed a file the Setup did not bring, so it could not
  start. That part is now built into the program, and the Windows build
  stops itself if any program ever needs a file Windows does not have.
-- **Text the size of aniwene.com**: every
- text now starts at normal, the same size as the website, Tex Studio and
- the A S I portal (it was +3). If you were on the old +3 it moves to
- normal once; a size you chose yourself in Settings → Appearance stays.
- Reset goes back to normal.
+- **Text the size of aniwene.com**.
 - The bottom bar: "© 2026 A.M · Managed by A S I".
-- Engine: tex-engine 0.30.34 (texts in English, French and German; AsiTex).
- Design parts: tex-ui 0.1.66.
-- Dependencies: cc 1.11.0, crc32fast 1.5.4, ctutils 0.4.8, glam 0.34.2,
- hayro-cmap 0.1.1, hayro-postscript 0.2.0, ureq 3.5.1, ureq-proto 0.7.1,
- webbrowser 1.2.6.
-- Security review: no new network use and no new data kept. The PIN gate
- for each struggle uses the Vault's own PIN check (nothing new stored);
- deleting now needs two steps more, never fewer; the journal's marks are
- plain text, nothing is run from them. `cargo audit`: no known
- vulnerabilities in 551 dependencies (5 marked unmaintained: paste,
- ttf-parser, zbus_names, zvariant, zvariant_derive; no fix needed).
 
 ## 0.67.2 (2026-11-03) - Anivo's monthly fasting days
 
@@ -898,27 +722,6 @@
  The steps show as for a download: reading the file (with its
  percentage), checking Churtex's signature, installing, restarting. Works
  off-grid: nothing goes online.
-- It refuses, and says why, a file that is not an update, one without its
-.sig, one whose signature is not Churtex's, or one not newer than yours
- (going back stays with Go back to an earlier version).
-- The update steps and the checkbox are now drawn by tex-ui, the same as
- Tex Studio's new Settings → Updates page.
-- Publishing tells the moment an update is live, before the
- Windows and Linux installers are built.
-- Trust report: tests 64 passed, clippy 0, secrets 0, unknown hosts 0,
- vulnerabilities 0; the known cabac licence item remains (being
- replaced); coverage, fuzzing, mutation testing and the reproducible build
- could not run (named in the report).
-- Engine: tex-engine 0.30.29 (texts, English and French). Design parts:
- tex-ui 0.1.44.
-- Security review: the file is read only from where the person picks it,
- up to 1 GB; its name must be an update's and give a newer version; the
-.sig beside it must be Churtex's Ed25519 signature over "tex-suite
- <version> <sha256>" with the trusted release key (a revoked key is
- refused); nothing is unpacked (Linux, with the same path checks as a
- download) or started (Windows, a copy of the checked Setup) before that.
- New tests: wrong names, an older or equal version, a missing or broken
-.sig, another key, a signature for another version.
 
 ## 0.66.0 (2026-11-02) - A new unlock screen
 
@@ -928,22 +731,9 @@
  dots travel in along them at a gentle speed, set off at random, never two
  of one colour on a line at a time. More room between the password field
  and the Unlock button.
-- The unlock card, its blurred colour background, the field and the button
- are now drawn by tex-ui, the same parts Tex Studio shows, so the design
- and the app can no longer drift apart.
 - **Dropdowns**: a long item no longer runs out of its list; it ends in "…"
  and slides on hover to show the rest. The same in the closed box.
-- **Old look going**: cards, links, toggles and fields across the app are
- now tex-ui's (radius 20, the page's sheet colour); unused old drawing
- code removed.
-- Trust report: tests 62 passed, clippy 0, secrets 0, unknown hosts 0,
- vulnerabilities 0; the known cabac licence item remains (being
- replaced); coverage, fuzzing, mutation testing and the reproducible build
- could not run (named in the report).
-- Design parts: tex-ui 0.1.43.
-- Security review: the circuit and the dropdown slide only draw; no new
- network use, no new data kept; the password field is the same one as
- before, its text never shown.
+- **Old look going**.
 
 ## 0.65.0 (2026-11-01) - Your profile, Insights everywhere, every button in one design
 
@@ -963,35 +753,17 @@
  category side by side, verses one by one, notes with bold, headings and
  lists) and four new pages: Preachers (with titles), Titles, Ministries,
  Categories.
-- **Every button in the app now drawn the same way**. The root cause: the older buttons centred the text's line
- box, not its letters, and not on whole pixels. All 109 now use tex-ui's
- button, and eleven other places had the same fault; the Import button,
- measured, went from 1 px off to 0.
+- **Every button in the app now drawn the same way**.
 - **ON-GRID / OFF-GRID**: the bottom bar shows the world, the relay and this
  device, with a switch of two joined circles.
 - **Back to …** after View all; hover boxes always stay inside the page;
  menu words that ran out of the menu shortened (Knowledge, Schedule, and
  in French Planning, Aide, Confiance); under the name, the version and the
  total size only; a month's name in a calendar square only when it fits.
-- **The trust report is fresh** (it was 0.63's in 0.64): tests 61 passed,
- clippy 0, secrets 0, unknown hosts 0, vulnerabilities 0; the known cabac
- licence item remains (being replaced); coverage, fuzzing, mutation testing
- and the reproducible build could not run (named in the report).
-- Publishing reads the release key's passphrase from the computer's keyring
- when the key is protected (tools/key-to-keyring.sh).
-- Engine: tex-engine 0.30.28 (texts). Design parts: tex-ui 0.1.36.
-- Security review: no new network use; the profile, Insights and Sermons'
- lists stay encrypted in the Vault with Anivo; hover boxes and lists read
- nothing from outside.
 
 ## 0.64.0 (2026-11-01) - Living faces, the feelings globe, true update messages
 
 - **Updates say what really happened**.
- A broken download now carries on from where it stopped, up to four times; if it still fails it
- says so: the connection dropped, the server answered with an error (its
- code shown), a secure connection could not be made, too slow, or no
- internet. "Could not be installed" now means only that the install
- itself failed. Tested against a server that cuts the line.
 - **The feelings globe on Emotions**: the month's feelings as one soft,
  breathing globe of their colours, each in its share; the main feeling's
  face on it, and beside it what the month says, every sentence only
@@ -1010,11 +782,6 @@
  Read Today with the prayers shown, it blurs them again; anywhere else it
  locks Tex Suite.
 - Deutsch is listed (switched off until translated), with its flag.
-- Engine: tex-engine 0.30.23 (texts). Design parts: tex-ui 0.1.32 (living
- faces, `mood_orb`, the story kit, the shelf).
-- Security review: the download resumes only within the size the signed
- list names and is checked against its signature before anything is
- unpacked, as before; no new data leaves the device, no new dependency.
 
 ## 0.63.0 (2026-11-01) - Prayers kept private, clearer sermons, the day's last step green
 
@@ -1030,12 +797,6 @@
  a tap.
 - **Read Today's last step turns green with its tick** once the day is
  finished (it stayed red after the Summary's Amen).
-- Engine: tex-engine 0.30.20 (texts). Design parts: tex-ui 0.1.22
- (`blurred_point`).
-- Security review: blurred prayers draw no words (only bars of their
- lengths); the PIN door is the Vault's, with its wrong-try waits. No new
- data, no network, no new dependency. Testkit: secrets, hosts, unsafe,
- sbom, audit, clippy and tests (56) pass; licences: the known cabac item.
 
 ## 0.62.0 (2026-11-01) - Anivo behind the Vault PIN, Ctrl+L, safer release keys
 
@@ -1048,19 +809,7 @@
 - **A changed copy of Tex Suite never creates a library**: before any
  library exists, a program that fails its own signature check shows its
  warning instead of the password card (it waits for the check to finish).
-- **Release keys** (docs/release-keys.md): the release key is now encrypted
- 's passphrase, asked once per release; a **backup key**,
- kept offline, is built into the app so a stolen or lost release key can be
- replaced: a key change (`keys.json`) signed with it makes every Tex Suite
- trust the new key and never the old one again. The download page lists
- each file's fingerprint and how to check it offline.
-- Engine: tex-engine 0.30.19 (texts). Design parts: tex-ui 0.1.21.
-- Security review: the PIN door is the Vault's (its wrong-try waits
- apply); key changes are only accepted when signed with the built-in
- backup key, revoked keys only add up and are never trusted again, and a
- revoked key makes updates and the start-up check refuse; tests cover
- forged, altered and self-contradicting key changes. Testkit: secrets, hosts, unsafe, sbom,
- audit, clippy and tests (56) pass; licences: the known cabac item.
+- **Release keys**.
 
 ## 0.61.0 (2026-10-31) - The daily reading reads like the Bible
 
@@ -1074,38 +823,17 @@
  prayer's hoped-for date keeps its range (a year back to 82 years
  ahead).
 - What's new: Read Today carries the green dot after this update.
-- Engine: tex-engine 0.30.18. Design parts: tex-ui 0.1.21.
-- Security review: no new data (the marks are the Bible's own), no
- network, no new dependency. Screenshot tools: URTEX_SHOT_DAY,
- URTEX_SHOT_VERSE, URTEX_SHOT_HEIGHT. Testkit: secrets, hosts, unsafe,
- sbom, audit, clippy and tests (56) pass; licences: the known cabac item.
 
 ## 0.60.0 (2026-10-31) - Anivo in French, its icons as designed, What's new dots that clear
 
-- **Anivo's menu has the icons drawn in Tex Studio**: the app kept a copy
- with its own icons (six of seventeen differed). The menu is now defined
- once in tex-ui and both draw it the same way.
-- **What's new dots inside Anivo**: after an update, the pages that are new
- carry the green dot in Anivo's menu, so you can see where to go. The
- app's dot on the rail now clears once you have opened them. Before, the
- rail dot stayed. A test checks that every new page has a dot to find.
-- **Addictions and Sermons in French**: their words, dates, month and day
- names, counts ("3 jours", "1 prédication") and the sermon categories.
- The pages drawn in Tex Studio run unchanged in the app and say their
- words in the chosen language.
+- **What's new dots inside Anivo**.
+- **Addictions and Sermons in French**.
 - Fixed: French month names with accents (août) crashed the Addictions
  graph (a word was cut in the middle of a letter); short month names are
  now their own words (juin, juil.).
-- Engine: tex-engine 0.30.18 (texts, `lang::from_english`). Design parts:
- tex-ui 0.1.21 (`ANIVO_MENU`, `menu_item_new`, `tr`/`trf`, `first_letters`).
-- Security review: no new data, no network, no new dependency; the
- translator only looks up fixed texts. Tools: `tools/studio-pages.sh`
- copies the Tex Studio pages into the app. Testkit: secrets, hosts, unsafe,
- sbom, audit, clippy and tests (55) pass; licences: the known cabac item.
 
 ## 0.59.0 (2026-10-31) - Anivo: Sermons, date and time pickers, the OffGrid box
 
-Designed in Tex Studio and built from the same pages:
 - **Sermons** (Sermons → Sermons): keep the sermons you hear. **New
  sermon** keeps the title, the preacher (pick one kept before and the
  church fills in) and church, the date, a category (or a new one), the
@@ -1126,22 +854,10 @@ Designed in Tex Studio and built from the same pages:
  ring shows.
 - **The Anivo menu scrolls** when the window is short and stops above the
  bottom bar (its last item ran under the bar).
-- **Screenshot runs keep a folder of their own**: they had been saving the
- sample library's settings into the real settings folder (a test now
- guards it). The internet-address check no longer stumbles on "…".
-- Engine: tex-engine 0.30.16 (texts). Design parts: tex-ui 0.1.16.
-- Security review: new local data only (sermons and their notes, links the
- user types), kept encrypted with Anivo's state. A typed link could have
- reached the system opener as a local file or program: links now open
- only when they are http(s) web addresses (tested with hostile inputs:
- file paths, programs, other schemes, quotes and options). Nothing is
- fetched by itself. Samples use reserved example addresses. No new
- dependency. Testkit: secrets, hosts, unsafe, sbom, audit, clippy and tests (54)
- pass; licences: the known cabac item.
+- **Screenshot runs keep a folder of their own**.
 
 ## 0.58.0 (2026-10-31) - Anivo: Addictions, About Anivo, balanced buttons
 
-Designed in Tex Studio and built from the same pages:
 - **Addictions** (Pray → Addictions): name a struggle (and why you want to
  be free); each card shows the days free and the longest run, **It
  happened** with the time and what led to it, six months of squares (how
@@ -1158,16 +874,9 @@ Designed in Tex Studio and built from the same pages:
 - **Buttons with an icon are balanced**: the icon's line is as heavy as its
  words (a faint plus made "Plan a fast" look off centre); every button on
  every page measured.
-- Engine: tex-engine 0.30.14 (texts). Design parts: tex-ui 0.1.12.
-- Security review: new local data only (struggles, the times logged and
- what was written), kept encrypted with Anivo's state; no network, no new
- dependency. Testkit: secrets, hosts, unsafe, audit, clippy and tests pass;
- licences: the known cabac item.
 
 ## 0.57.0 (2026-10-31) - Anivo: Calendar, Insights and Feelings, as designed
 
-Designed in Tex Studio and built from the same parts, each page checked at
-full width and at the narrowest window:
 - **Anivo Calendar**: a reading mark on each day (full with a tick for both
  readings, half for one) whose red deepens along a streak; fasting days
  tinted; dots for a fast, a prayer begun, an answer, a hoped-for date;
@@ -1179,36 +888,17 @@ full width and at the narrowest window:
 - **Feelings** (a new section): **Emotions** (the last days as dots, this
  month's share of each feeling, every entry) and the **Journal** (your
  words with up to two feelings and a verse; the feelings show in Emotions).
-- Shared parts (tex-ui 0.1.11): a row's right part wraps inside the line
- when it is wider than it; switches fit narrow rooms (tighter, then a
- little smaller); both with tests.
-- Engine: tex-engine 0.30.13 (texts, English and French).
-- Security review: new local data only (the Calendar's layers, journal
- entries: words, feelings, a verse), kept encrypted with Anivo's state in
- the Vault; no network, no new dependency. Testkit: secrets, hosts, unsafe,
- audit, clippy and tests pass; licences: the known cabac item.
 
 ## 0.56.0 (2026-10-31) - One text size for the whole app
 
-- **Text size for the whole app**: every text in Tex Suite (about 480
- places) now follows one size, the +3 approved in Tex Studio, as the Anivo
- pages already did; the menu takes half the increase.
+- **Text size for the whole app**.
 - **Settings → Appearance → Text size**: A− and A+ make all of it smaller or
  larger at once; Reset goes back to +3.
-- **No sign shows as an empty box**: arrows (→), ticks (✓) and other signs
- our fonts lack come from a small cut of DejaVu Sans behind every font
- (a test checks every family).
-- **A line of one word is never stretched**: justified text spread the
- letters of a label that wrapped; a test keeps it.
-- Engine: tex-engine 0.30.10 (texts). Design parts: tex-ui 0.1.9.
-- Security review: one new setting (a number, clamped to 0–8); one new
- bundled font (DejaVu Sans, Bitstream Vera licence, in tex-ui); no
- network, no new reader of outside data. Testkit: secrets, hosts, unsafe,
- audit, clippy and tests pass; licences: the known cabac item.
+- **No sign shows as an empty box**.
+- **A line of one word is never stretched**.
 
 ## 0.55.0 (2026-10-31) - Anivo: Prayers and Fasting, as designed
 
-Designed in Tex Studio and built from the same parts:
 - **Prayers**: New prayer and the year switch in the title, recently
  answered (three), then your prayer points with Answered and the bin; the
  writing box with an optional hoped-for date (31/12/2026). Read Today's
@@ -1222,17 +912,9 @@ Designed in Tex Studio and built from the same parts:
  an hourglass that runs on your clock through the whole fast and stops at
  its last hour, the days kept, End the fast; Coming up and Earlier.
 - Everything stays clear of everything else in a narrow window.
-- Engine: tex-engine 0.30.9 (texts; French for the new Bible, Prayers and
- Fasting texts). Design parts: tex-ui 0.1.8.
-- Security review: new local data only (fasts: kind, days, hours, a prayer,
- a note), kept encrypted with Anivo's state in the Vault; dates typed are
- checked before they are kept; no network, no new dependency. Testkit:
- secrets, hosts, unsafe, audit, clippy and tests pass; licences: the known
- cabac item.
 
 ## 0.54.0 (2026-10-31) - Anivo: the Bible and My study, and nothing overlaps
 
-Designed in Tex Studio and built from the same parts:
 - **The King James home**: Continue reading (with the chapter's heading),
  **Go to** as you type ("John 3:16", "gen 1", "ps 23"), the Old Testament
  · New Testament · About · Copyright toggle, the books as tiles as wide as
@@ -1246,20 +928,10 @@ Designed in Tex Studio and built from the same parts:
 - **My study**: Bookmarks (Bible order or newest), Highlights with a pill
  per colour, My Notes edited in place, **Memory** (Learning with Practice,
  Memorized with its day).
-- **Nothing overlaps any more when the window is narrow**: a title and its
- button, the date and the streak, a form's fields and its buttons share a
- line when they fit; otherwise the right part goes under (a shared part,
- tex_ui::split, with a test). Toggles give long words the room they need.
-- Engine: tex-engine 0.30.8 (texts). Design parts: tex-ui 0.1.8.
-- Security review: no new data beyond the order bookmarks were made (kept
- with the study, encrypted in the Vault); no network, no new reader of
- outside data. Testkit: secrets, hosts, unsafe, audit (no vulnerabilities),
- clippy and tests pass; licences: the known cabac item (being replaced).
+- **Nothing overlaps any more when the window is narrow**.
 
 ## 0.53.0 (2026-10-31) - Anivo: the new Read Today
 
-Designed in Tex Studio, the live Rust design window, and
-built from the same parts, so the app shows exactly what was approved:
 - **Read Today in seven steps** on a new day card: the date, Day N of the
  year, a bigger streak, the Main and Extra passages (click one to read it)
  and the steps **Prayer · Main · Notes · Extra · Notes · Summary · Done**.
@@ -1276,18 +948,10 @@ built from the same parts, so the app shows exactly what was approved:
  then a blessing.
 - **Done**: today's task (one small thing to do for someone), **I did it**,
  with paper and crosses falling.
-- **Words and icons sit in the middle of every button, pill and toggle**,
- measured on what is drawn (the shared tex-ui parts; a test keeps it).
+- **Words and icons sit in the middle of every button, pill and toggle**.
 - **A bottom bar on every page**: the version (v0.53.0) and the copyright.
 - English only for now: the other languages are shown, greyed, not chosen
  (French returns when its texts are complete).
-- Engine: tex-engine 0.30.7 (texts). Design parts: tex-ui 0.1.4.
-- Dependencies: log 0.4.35.
-- Security review: new local data only (steps, notes, feelings, reading
- times, tasks), kept encrypted with Anivo's state in the Vault; no network,
- no new reader of outside data; tex-ui is our own code. cargo audit: no
- vulnerabilities (5 crates flagged unmaintained, as before); secrets scan of
- the changes: clean.
 
 ## 0.52.0 (2026-10-30) - Anivo: Prayers, Prophecies and Answers
 
@@ -1307,20 +971,11 @@ Designed in the live replica (design/replica), approved:
  writing box in place, so you stay in the reading; **Amen** counts every
  open point as prayed for that day (no tick per point).
 - Anivo's menu: Pray → Prayers · Prophecies · Answers.
-- Engine: tex-engine 0.30.5 (texts).
-- Security review: new local data only (prayers and prophecies with their
- days, kept encrypted with Anivo's state); no network, no new dependency.
 
 ## 0.51.0 (2026-10-30) - A new reading look in Anivo, sharper books, faster scrolling
 
-- **Anivo reads in groups of four** (Designed in the live
- replica, approved): a new paragraph every 4 verses; in each, verses 1-3 in
- near black and the 4th in deep blue, so the eye keeps its place. The Bible
- and the daily readings share the look.
-- **The names of God in purple**, everywhere in the text: Jesus, Christ, God,
- LORD, the Father, the Holy Ghost, I AM THAT I AM, the Lamb of God, the Holy
- One of Israel and more (found whole, longest first; "I AM" only in capitals;
- a test keeps "gods", "I am" and "my lord" plain).
+- **Anivo reads in groups of four**.
+- **The names of God in purple**.
 - **Reading sheets** have 101 px of space above and below the text.
 - **Anivo's menu, renamed**: Home (Read Today, Calendar), Pray (Prayers), King
  James (KJV), My study (… My Notes).
@@ -1331,26 +986,10 @@ Designed in the live replica (design/replica), approved:
  20% larger at Fit page; a page
  turn is a clean slide (no blank sheet in between); PDF pages are never
  stretched from a smaller picture.
-- **Design replica** (design/replica): a live HTML copy of Tex Suite to design
- in first; approved designs are listed in design/APPROVED.md and come to the
- app in the next releases (Prophecies, Fasting, Answers, Insights, Emotions,
- Memory, the Summary, the Bible pages, the verse bar).
-- Engine: tex-engine 0.30.4 (texts).
-- Dependencies: `cargo update` (js-sys, wasm-bindgen, web-sys: patch releases).
-- Downloads: each release now also has the Windows installer
- (Tex-Suite-Setup-<version>.exe), a.deb and an.rpm, each signed, with
- SHA256SUMS and Download links on churtex/tex-releases (tools/publish-installers.sh);
- Windows copies of Tex Suite look at latest-windows.json.
-- Security review: the new code draws text and reads the app's own state; no
- network, no new dependency.
 
 ## 0.50.0 (2026-10-30) - Landscape in halves, reading progress, Anivo on white sheets
 
-- **Landscape reading: one page in two halves**: the page's upper half first, a turn,
- then its lower half; "Page 3 of 10 · upper half". The cut always falls
- between lines (a test checks every line at several sizes); a PDF page is cut
- at a blank row near its middle, never through a line. The two-column sheet
- of 0.49 is gone.
+- **Landscape reading: one page in two halves**.
 - **Reader arrows click at once**: the page's frame lay over them; they are now on top. The
  page also sits clear of the "Page N of M" label.
 - **Books show how much has been read**: a bar on the cover and "42% read" or
@@ -1362,21 +1001,11 @@ Designed in the live replica (design/replica), approved:
  The Bible and the daily readings share one look.
 - **Anivo: Prayer points in the menu** (a Pray section): today's ticks, add
  and remove, and how many of the last 30 days each point was prayed for.
-- **Tex Suite Preview** (`tools/preview.sh`): the next version installed beside
- the real app, to try before a release; it never updates itself and will not
- open while Tex Suite is open (one app at a time on a library).
-- Engine: tex-engine 0.30.3 (texts). Dependencies: `cargo update` brought no
- changes beyond the engine.
-- Security review: the new code reads only the app's own saved state (reading
- progress, prayer points) and a PDF page's own pixels; it opens no network
- connection and adds no dependency. The preview launcher refuses to open a
- library the real app has open.
+- **Tex Suite Preview**.
 
 ## 0.49.0 (2026-10-30) - Sharp text in the reader, a two-column sheet in landscape, prayer points
 
-- **Reader text is sharp**: pages are no
- longer pictures; the text is drawn live like the rest of Tex Suite, sharp at
- any zoom. Words are measured exactly as they are drawn (a test keeps it so).
+- **Reader text is sharp**.
 - **Landscape: one page as a sheet in two columns**: the text keeps its true size and runs down the
  left column and on at the top of the right; the split is always between
  lines.
@@ -1387,7 +1016,6 @@ Designed in the live replica (design/replica), approved:
  point when prayed for; ticks start fresh each day.
 - **Anivo: verses** a little larger, in a softer ink (not bold), **justified**,
  with a little letter spacing.
-- Engine: tex-engine 0.30.2.
 
 ## 0.48.0 (2026-10-30) - The reader, one page at a time; updates found at once
 
@@ -1398,9 +1026,7 @@ Designed in the live replica (design/replica), approved:
  **zoom** (− +, Fit page, Fit width, Ctrl + wheel, a pinch): zoomed in, the
  page scrolls up and down. Text laid out at the size it is shown, so it reads
  at its true size. Paper, Sepia, Night, text size; kept for every book.
-- **Updates found at once**: Tex Suite looks on opening, and again when Settings >
- Updates or the bell is opened (if the last look is over a minute old); it
- always asks for the fresh update file (GitHub kept copies for minutes).
+- **Updates found at once**.
 - **Settings > Updates is the one place for updates**: "Update to
  vX" downloads and installs right there, with what is new and the steps in the
  same card; the bell's update notice leads there.
@@ -1410,7 +1036,6 @@ Designed in the live replica (design/replica), approved:
 - **The bell** is an icon alone at the right of the Tex Suite box, level with
  the name; in the top bar only on narrow windows.
 - Knowledge base: "Reading books" rewritten for the new reader.
-- Engine: tex-engine 0.30.1.
 
 ## 0.47.0 (2026-10-29) - Contacts import, numbers with their country, duplicates; a simpler update button
 
@@ -1425,7 +1050,6 @@ Designed in the live replica (design/replica), approved:
 - **Settings > Updates: one button** that says what it will do: Check for
  updates, Checking…, Update to vX. The answer shows at once.
 - **The top bar fits small windows**.
-- Engine: tex-engine 0.30.0.
 
 ## 0.46.0 (2026-10-29) - The book reader
 
@@ -1433,9 +1057,7 @@ Designed in the live replica (design/replica), approved:
  EPUB, PDF, Word (.docx), OpenDocument (.odt), text and Markdown; your own
  writing reads like a book (headings become chapters). Books are read from
  memory: nothing decrypted is written to disk.
-- **Set like printed books**: EB Garamond, justified, first-line indents,
- chapters on new pages, the chapter at the top and the page number at the
- foot. PDF pages drawn by hayro (pure Rust).
+- **Set like printed books**.
 - **Pages turn like paper**: hold any point of a page's edge and drag; the
  page curls from there and follows, showing its back; let go past the middle
  and it turns, otherwise it falls back. Click or the arrow keys turn it too.
@@ -1443,11 +1065,7 @@ Designed in the live replica (design/replica), approved:
  kept for every book; **Paper**, **Sepia**, **Night**; text size; turning as
  paper or instant (readers asked to be able to switch animation off).
 - **Every book reopens where you stopped.**
-- The reader is its own module, **tex-reader** (crates/tex-reader), tested:
- typesetting, the curl's geometry (the held point follows the pointer, paper
- keeps its length, the page cannot tear), hostile files.
 - Knowledge base: new article "Reading books".
-- Dependencies: hayro 0.8 (Apache-2.0 OR MIT, forbids unsafe code), ab_glyph.
 
 ## 0.45.0 (2026-10-29) - Integrity check, Trust report, Anivo study, book covers
 
@@ -1455,10 +1073,6 @@ Designed in the live replica (design/replica), approved:
  a program changed by one byte, or unsigned, opens in protected mode: only
  Export Suite and a genuine update. Proven on a real build (one byte changed:
  protected mode). Rollback and updates carry the signatures.
-- **About > Trust report**: tex-testkit's report of this version and of its
- engine, shown as a short paper: verdict, key figures, abstract, results,
- standards (NIST SSDF, OWASP ASVS), limitations, how to reproduce. Every
- number comes from a real run; what could not run is shown as a gap.
 - **Anivo**: tap a verse for five highlight colours, a bookmark, a note or a
  copy; **My study** lists Bookmarks, Highlights and Notes. Every reading has
  a **title** (all 366 days). **Section headings inside Genesis**, written in
@@ -1467,10 +1081,6 @@ Designed in the live replica (design/replica), approved:
 - **Books** stand as books: 2:3 covers, the book's own cover when it has one
  in a book's shape (EPUB, comics, FB2), otherwise a designed cloth cover.
 - **The Vault's PIN screen scrolls**.
-- Security: zstd vulnerabilities fixed in the engine (0.28); the book cover
- reader and the integrity check are tested with hostile input.
-- Engine: tex-engine 0.29.0.
-- Coming next: the book reader inside Tex Suite (tex-reader, in progress).
 
 ## 0.44.0 (2026-10-29) - Off-grid control, rollback, Anivo's daily flow, Vault upload
 
@@ -1496,30 +1106,17 @@ Designed in the live replica (design/replica), approved:
  rewritten for readers.
 - **The Dashboard**: Anivo as the big tile on the left, the
  six other apps in a 3 × 2 grid on the right.
-- **Projects is a tool of its own**: Projects and Tasks; Code
- keeps the Editor and Repositories. New Projects icon.
+- **Projects is a tool of its own**.
 - **Edu**: the menu shows **All courses** and each category. The course
  "How to use Tex Suite" has a 12th lesson, Off-grid.
 - **What's new, guided**: after an update a small green dot
  marks each app with something new, and the new item in its menu;
  opening it clears the dot. A fresh install shows none.
-- **Vault: adding files made easy**: My Photos, My Videos, Voice notes and
- Documents open with a big drop zone
- that lights up while files are dragged over the window, with a **Choose
- files** button. Files added there land on that shelf, but only files of
- that sort (a film dropped in My Photos stays a film; a test proves it).
+- **Vault: adding files made easy**.
 - French: labels that ran past the menu's edge shortened.
 - Knowledge base: new article **Off-grid**; Settings, Updates (rollback,
  green dots), Anivo, Find your way, Edu and Vault files updated; every
  screenshot taken again.
-- Engine: tex-engine 0.27.1 (the texts above, the Projects icon).
-- Security review of this release: the off-grid switch is checked before
- every internet contact (updates, announcements) and each contact is
- logged; rollback only restores copies this device made of its own earlier
- version, from its own folder, never anything downloaded; the drop zone adds files through
- the same review and encryption as every import. The test that fails on
- any unknown internet address still passes.
-- Package: still.tar.gz, so 0.42 can install it;.tar.xz from 0.45.
 
 ## 0.43.0 (2026-10-29) - Anivo, Edu, Tools, notifications, the Vault's PIN reset
 
@@ -1535,9 +1132,7 @@ Designed in the live replica (design/replica), approved:
 - **Edu: the course "How to use Tex Suite"**: 11 lessons made from the
  knowledge base, each with a 3-question quiz marked at once; best marks
  and progress kept.
-- **Tools as menu categories**: Calendar, Maps, Code (Projects,
- Editor), Lang (Translate, Learn), Comm (Messages, Radio); pages still to
- come say so in place.
+- **Tools as menu categories**.
 - **Notifications**: a bell in the top bar, with a red dot and
  a small shake when something is new; its own menu (All, Updates,
  Announcements); select and delete, Delete all; Settings can switch them
@@ -1551,22 +1146,14 @@ Designed in the live replica (design/replica), approved:
  contents** whenever Tex Suite is not the window in front.
 - **Passwords**: after an import, Tex Suite offers to delete the export
  file for good (overwritten, then removed).
-- **Every clickable control shows the hand**: a test now reads the code and fails if any does not.
+- **Every clickable control shows the hand**.
 - Knowledge base: new articles Anivo, Edu, Notifications; Vault,
  Passwords and Find your way updated; every screenshot taken again.
-- **Smaller downloads from 0.44**: the updater now also reads.tar.xz
- packages, measured 10.7 MB instead of 15.4 MB (gzip) for this release.
- 0.43 itself still ships as gzip so 0.42 can install it. A test also
- proves a hostile package cannot write outside its folder.
-- Dependencies: tex-engine 0.27.0; new xz2 0.1 (static liblzma, public
- domain/MIT) for.tar.xz; `cargo update`.
+- **Smaller downloads from 0.44**.
 
 ## 0.42.1 (2026-10-29) - when Tex Suite last looked for updates
 
 - Settings > Updates shows when Tex Suite last looked for a newer version.
-- The first version delivered by the updater itself: if you are reading
- this in the update notice, updates work.
-- Dependencies: tex-engine 0.26.4.
 
 ## 0.42.0 (2026-10-29) - updates from the Tex releases page
 
@@ -1582,9 +1169,7 @@ Designed in the live replica (design/replica), approved:
  Vehicles, My Supplies, My Contacts, My Photos, My Videos, My Journal.
 - The small uppercase headings in every menu have more space between
  their letters.
-- **About** is its own menu: Founder, Churtex, Features, FAQs.
- Features: "No account, no internet" first, "Videos 50 to 70% smaller",
- and the Free and Pro boxes the same height.
+- **About**.
 - **What's new** shows the ten latest versions, without dates, and a button
  to the full changelog on the Tex releases page (published with every
  release); the update notice has no date either.
@@ -1594,9 +1179,6 @@ Designed in the live replica (design/replica), approved:
  fit, checked at each release (it caught three French ones, shortened).
 - Knowledge base: a new article, Updates; the Vault article follows the
  new names; every screenshot taken again.
-- Dependencies: tex-engine 0.26.3; new ureq 3.5 (HTTPS, rustls),
- ed25519-dalek 3 (signatures), sha2, hex, flate2 and tar (the package),
- getrandom (the release key), all MIT/Apache; `cargo update`.
 
 ## 0.41.0 (2026-10-29) - knowledge base, What's new, crisp icons, Support menu
 
@@ -1624,52 +1206,18 @@ Designed in the live replica (design/replica), approved:
 - **Sync** has a laptop and a phone for its icon.
 - **The unlock screen** keeps inside the window's rounded corners (its
  square corners stuck out).
-- About: a short note that Tex Suite is built with AI-assisted
- development, every release reviewed and tested.
-- Heavy jobs (builds, tests, screenshots) now run inside a memory limit
- (tools/capped.sh): tests had pushed the 8 GB computer out of memory.
-- Dependencies: tex-engine 0.25.0; `cargo update`.
 
 ## 0.40.0 (2026-10-29) - Passwords
 
-- **Passwords** (Vault, Security;):
- - your logins, searchable, the selected one on the right: user name,
- password (dots until Show), strength, the site's 2FA code when the
- login carries it, folder, notes; copy any of them;
- - a **copied password leaves the clipboard after 30 seconds** (unless
- something else was copied since);
- - **New password** makes a strong one at once; length 8 to 64, A-Z,
- 0-9 and symbols to choose; changing them makes a new one;
- - **Import** from Chrome, Edge, Brave, Firefox, Safari, Bitwarden
- (CSV or JSON), 1Password, LastPass, Proton Pass or KeePass: shows what
- it found, adds it with one click, skips what is already here, and
- reminds you to delete the export file;
- - **Export** for browsers or for Bitwarden-compatible managers, after a
- warning that the file is not encrypted;
  - a website opens only when clicked, and only a plain http(s) address:
  one from an imported file can never run a command (tested).
-- **Checked in English, French and Swahili** on a hidden screen; fixed what
- French showed: labels running into values, "Supprimer" over "Modifier"
- (2FA codes and Passwords: Delete on its own line), the Support toggle
- (segments now fit the longest label), the version line.
-- Dependencies: tex-engine 0.24.0 (adds csv 1.4); `cargo update`: nothing
- newer.
+- **Checked in English, French and Swahili**.
 
 ## 0.39.0 (2026-10-29) - centred text, Support, 2FA by QR code
 
-- **Text centred**: the search
- bar placed its text by hand, 2.5 px low; it is now centred by the
- layout. Poppins also sat 1 px high in every field and button: one nudge
- for all text. Measured with the new `tools/align-check.py` on the
- search bars, password, Unlock, Import, Add account, Rename and the menu,
- light and dark: icons at 0 px, text within half a pixel.
+- **Text centred**.
 - **Window buttons**: the x, - and + now sit on a pixel's centre, exactly
  in the middle of their circles (measured 0.0 px).
-- **2FA by QR code**: paste a screenshot of the website's QR
- code, choose a picture of it, or drop one on the window: the account is
- added at once. Each account can show its own QR code to move it to a
- phone (with a warning). Checked end to end: the code drawn on screen was
- read back from a full screenshot as the exact link.
 - **Support** (headset icon where the star was): one form with a toggle
  like the theme's: Feedback, Bug report, Support (Support comes with
  Pro). A report adds only versions and system; copy it or save it as a
@@ -1685,27 +1233,13 @@ Designed in the live replica (design/replica), approved:
 - **"Unlock TexSuite"**, with Suite in your colour.
 - **Checkboxes** in the app's look (filled with your colour when ticked);
  **Save** buttons show a plain tick (it vanished white on white).
-- Screenshots now run on a hidden screen (`tools/headless-shots.sh`), so
- they never appear on, or stall behind, the.
-- Dependencies: tex-engine 0.23.0; new rqrr 0.11 (reads QR codes), qrcode
- 0.14 (draws them), arboard 3.7 (pictures on the clipboard), all
- MIT/Apache; `cargo update`: nothing newer.
 
 ## 0.38.0 (2026-10-29) - 2FA codes, auto-lock, full backups, Free and Pro
 
-- **2FA codes, our own Authenticator**: add a
- website's setup key or its otpauth:// link, then see its six-digit code
- with a ring counting down the seconds; click a code to copy it. Rename or
- delete (asked first: without the codes you may be locked out of the
- site). Works with no internet; secrets are never shown again once saved.
 - **Auto-lock**: after 5 minutes without a touch, Tex Suite locks itself
  (it waits for an import or export to finish; Space Saver keeps making
  files smaller while it is locked).
-- **Full backups**: Export Vault with "Private" ticked now also carries
- contacts, calendar, 2FA codes, profile, picture and PIN, and every
- item's thumbnail and licence. Before, a backup restored on a new device
- came back without them. Import (merge) adds the contacts, events and
- accounts you don't have yet.
+- **Full backups**.
 - **Menu rail**: Anivo first, then a line; Home and Coin moved
  into the Vault (Personal: Home; a new Wallet section: Coin, coming); the
  Dashboard icon sits in the middle of the apps, three above and three
@@ -1714,17 +1248,10 @@ Designed in the live replica (design/replica), approved:
  ($16 once, coming): the Tex Store (buy online, download, yours to keep),
  sync, share, several users, shared storage, cloud backup.
 - The Vault's menu scrolls on a short window.
-- Dependencies: tex-engine 0.22.0 (adds hmac, sha1, sha2 for the codes);
- `cargo update`: nothing newer.
 
 ## 0.37.0 (2026-10-29) - private by default, a calmer menu, snapping, your colour
 
-- **Private by default**: every Vault file and contact is
- private unless made public. "Select" on the Vault's shelves and in
- Contacts picks several to make public or private at once; each item
- shows its visibility. Only public contacts can go on calendar events;
- making attached contacts private warns first, then takes them off those
- events (tex-engine 0.21.0).
+- **Private by default**.
 - **The menu rail**: Dashboard, **Chat** and **Tex** at the top; the apps
  centred in the middle (the Vault last, after a line); Features, Settings
  and About at the bottom. Chat has its page (coming).
@@ -1734,28 +1261,15 @@ Designed in the live replica (design/replica), approved:
 - **The Tex Suite icon follows your colour**: the logo in the app
  and the icon in the applications menu are drawn in the colour chosen in
  Settings (only Tex Suite's; the apps keep their own colours).
-- Dependencies: resvg 0.45 added (draws the icon's SVG in any colour);
- `cargo update`.
 
 ## 0.36.0 (2026-10-29) - the Vault, a place of its own
 
-- Opening the Vault blurs the whole app behind the PIN card, with "Back"
- to leave. Inside, only the Vault's
- own menu: People (Contacts), Files (Photos, Videos, Voice notes,
- Documents), Personal (Journal, Family tree: coming), Security (2FA
- codes, Passwords: coming), Vault settings (change the PIN) and Exit
- Vault, which locks it again. The top bar shows only the window buttons
- and the language.
 - In the main menu the Vault is the last app, set apart by a thin line.
 - The door animation plays across the whole window.
 
 ## 0.35.0 (2026-10-28) - the Vault's PIN and its door, Tex
 
-- **Vault PIN**: the private room (Photos, Videos, Voice notes,
- Documents, Contacts) asks for a 4-digit PIN; the first time it is set up
- (typed twice). A number pad and the keyboard; a wrong PIN shakes the
- dots; five wrong tries make it wait (tex-engine 0.19.0). Locking Tex
- Suite closes the room again.
+- **Vault PIN**.
 - **The vault door opens**, drawn live from lines: the wheel turns, the
  bolts slide back, light runs round the rim, the door swings open on its
  hinges with rays behind it.
@@ -1784,19 +1298,10 @@ Designed in the live replica (design/replica), approved:
 
 ## 0.33.0 (2026-10-28) - Cal, the calendar
 
-- **Cal** in Tools:
- "Up next" across the top (the next three events with a countdown), the
- month as day cards with coloured event pills, today in the
- accent, and the chosen day on the right with its events and "Add event".
- Double-click a day to add. The form: title, date, all day or start/end,
- reminder (none, 10 min, 30 min, 1 h, 1 day), colour, notes. Events are
- encrypted in the Vault (tex-engine 0.17.0); reminders show while Tex
- Suite is open.
+- **Cal**.
 - "Search" in the menu opens the Dashboard with the cursor in its search
  box.
 - The menu's name and version are centred on the logo.
-- Dependencies: chrono 0.4 added (the device's local date, time and time
- zone, for "today" and reminders); `cargo update`.
 
 ## 0.32.0 (2026-10-28) - sharp icons, version shown, Edu
 
@@ -1810,26 +1315,14 @@ Designed in the live replica (design/replica), approved:
 
 ## 0.31.0 (2026-10-28) - Tex Suite
 
-- **Tex Suite** is the app's name: window, applications menu,
- icon (a seven-point hub with a T, drawn from scratch like the Tex Vault
- icon), programs `tex-suite` and `texsuite`; the installer removes the
- old Tex Vault entry. GitHub: churtex/tex-suite. Your library stays where
- it is (the internal data folder keeps its name on purpose).
-- Nine apps, named without "Tex" inside the suite: Home, Media, Books,
- Vault, Pedia (Aid, Farm, Stead, Edu), Tools (Maps, Code, Lang, Cal,
- Comm), Coin, Manna, AI. Icons redrawn as real objects in one bold colour
- each; apps to come keep their colour and say "Soon".
+- **Tex Suite**.
 - **Dashboard** (was Home): large icons, five to a row, the search box
  exactly as wide as the icons; Getting started under it. Its menu:
  **Search**, **Analytics** (activity calendar and storage), Import Vault,
  Export Vault.
 - Menu: "Tex" + "Suite" (accent) with the logo across the top; the line
  under it meets the top bar's line.
-- **Thumbnails load at once**: each is made once and kept encrypted in the
- Vault (tex-engine 0.16.0); before, every film's picture was made again
- each time the app opened.
 - Activity calendar: month names never overlap.
-- Dependencies: `cargo update`.
 
 ## 0.30.0 (2026-10-28) - two-column menu, profile form, TexComm, TexCode
 
@@ -1842,21 +1335,12 @@ Designed in the live replica (design/replica), approved:
  and height, picture with its buttons beside it, Save on the right that
  lights up only when something changed. `theme::form_row` / `big_area`
  for every form to come.
-- Apps: TexComm (messages; radio with hardware) replaces TexChat; TexCode
- (code editor that builds and runs) added: 20 apps.
 - Any new page shows its own app in the menu.
 
 ## 0.29.0 (2026-10-28) - TexSuite app home
 
-- After unlock: **one big search box** and **every Tex app as a tile**: TexHome, Tex Media, TexBooks, Tex Vault, TexPedia, TexMaps,
- Tex Calendar, Tex Keys, TexContacts, TexMoney, TexComm, Tex Share,
- TexEdu, TexAid, TexFarm, TexStead, TexLang, Tex Manna, TexAI. Working
- apps open; the others are faded with "Soon". Icons from tex-engine.
 - The library's own home (featured, explore) is now "Tex Media".
 - A slim typing line in the password and search fields.
-- Sidebar rows 28 px so everything still fits; the 
- (tex-engine 0.15.0). GitHub repository renamed to churtex/tex-suite.
-- Dependencies: `cargo update`.
 
 ## 0.28.0 (2026-10-28) - locked screen, Getting started, light menu
 
@@ -1870,7 +1354,6 @@ Designed in the live replica (design/replica), approved:
  each crossed out when done, "Open ›" for the next, "Hide" to remove it.
 - **Menu in Poppins Light** (the open page in Regular): lighter, calmer.
  Poppins Light added (SIL OFL, THIRD_PARTY.md).
-- Dependencies: `cargo update`.
 
 ## 0.27.0 (2026-10-28) - your profile, activity calendar, Share button
 
@@ -1878,22 +1361,14 @@ Designed in the live replica (design/replica), approved:
  picture (made square and small, encrypted), name and a few words. The
  avatar shows the picture, else the initials. Home says "Welcome back,
  {name}".
-- **Activity calendar** on Home, GitHub-style: one square per day for as
- many weeks as fit, deeper colour on days the library was used more
- (opened, watched or read, added); hover a day for its numbers. Counted
- on this device only, encrypted (tex-engine 0.13.0).
+- **Activity calendar**.
 - **Share** button beside Import (icon only, light like the padlock):
  shows what Tex Share will do (nearby devices over Wi-Fi, like Xender /
  AirDrop). Not working yet; marked "Coming soon".
 - "device" instead of "computer" in every text (mobile is coming).
-- Screenshot tool: also the profile and Share pages.
-- Dependencies: `cargo update`.
 
 ## 0.26.0 (2026-10-28) - Podcasts, Voice notes, choose the shelf on import
 
-- New shelves (tex-engine 0.12.0): **Podcasts** under Library (sermons,
- talks, podcasts, audiobooks) and **Voice notes** under Private. Both are
- speech: Space Saver makes them Opus 64k (half of music).
 - Import shows the picked or dropped files first, each on the shelf it
  seems to belong to (already selected); change any of them, remove some,
  then "Add".
@@ -1901,21 +1376,13 @@ Designed in the live replica (design/replica), approved:
 - Sidebar rows 30 px (macOS size) so the nine shelves and the boxes fit an
  860-px window; a drawn × (Poppins has no "✕"); new mic and wave icons.
 - The screenshot tool also captures the import review with a menu open.
-- Dependencies: `cargo update` (rustix 1.1.6). Newer major versions to
- plan: eframe 0.37, rfd 0.17.
 
 ## 0.25.0 (2026-10-28) - every video at 576p
 
-- tex-engine 0.11.0, recipe 6: every video is made at most 576 px tall,
- same shape. Fast X (1080p) -70%, See -61%,
- The Last Ship (x265) -26%. The 720p/480p trial of 0.24 is gone.
 - The quality badge knows 576p ("1080p → 576p" in the details).
 
 ## 0.24.0 (2026-10-28) - 480p for files that barely shrink, real quality badges
 
-- Space Saver uses tex-engine 0.10.0 recipe 5: a 720p trial piece first;
- if it saves less than 25% (files like The Last Ship, x265: 7% at 720p,
- 36% at 480p) the film is made at 480p.
 - Converted videos show their real stored quality ("720p" or "480p", and
  AV1) instead of what the file name says, and the details panel says
  "Picture: 1080p → 720p". Items converted before this version show AV1 only.
@@ -1926,29 +1393,14 @@ Designed in the live replica (design/replica), approved:
  window and keeps 12 px from every edge; the language list touched the
  screen edge. The screenshot tool now also captures both menus
  open, so their edges are checked at every release.
-- The library now lives in the system's place for app data:
- ~/.local/share/tex-vault/Library (Linux), %LOCALAPPDATA%\tex-vault\Library
- (Windows), ~/Library/Application Support/tex-vault/Library (macOS). A
- library left by earlier versions in the home folder (~/MediaVault or
- ~/TexVault) is moved there once, in one rename, only when no other Tex
- Vault is open; a place the person chose (a flash disk) is never moved.
- Test `an_old_library_in_home_moves_once_and_whole`.
 - Unlock screen: "Open location" opens the library folder (the path shows
  on hover); its texts are translated.
-- Kiswahili for Space Saver (tex-engine 0.9.1): Maktaba inakandamizwa,
- Imewekwa, Simamisha, Imesimamishwa, Endelea.
 - The flag and the chosen language follow the language on screen.
 - Welcome and unlock cards are centred on their measured height and never
  run off the bottom of the window; toasts wrap within the window.
-- Settings: the outdated "English for now" line replaced; About: "Founder,
- Churtex Foundation".
 
 ## 0.22.0 (2026-10-28) - 720p, simpler Space Saver, tidy sidebar
 
-- tex-engine 0.9.0: recipe v4, the choice made: up to 720p, preset
- 10, CRF 42, H400 grain, Opus 128k. One recipe for every film (stronger
- settings for HEVC files were rejected). Time estimate:
- about 40% of the film's length (a 2-hour film in ~48 min).
 - Space Saver panel shows only "Compressing your library", the item with
  one bar that never starts over (the check stage now moves it too), the
  time left, and "Saved X". The time left uses the speed measured in this
@@ -1959,25 +1411,15 @@ Designed in the live replica (design/replica), approved:
  only its soft red background, no red bar.
 
 ## 0.21.2 (2026-10-28)
-
-- Compressing runs at low priority (tex-engine 0.8.3), so the app and the
- desktop stay quick while it works (the Import file chooser took ~3 s to
- open during compression).
+- Small fixes and improvements.
 
 ## 0.21.1 (2026-10-28)
 
-- Kiswahili menu complete (tex-engine 0.8.2): "Sio mubashara ·
- imesimbwa", Nyingine, Akaunti.
 - The padlock sits in the centre of its button (icon-only buttons are
  square now), and the person in the avatar is centred in its circle.
 
 ## 0.21.0 (2026-10-28) - languages begin; padlock and avatar
 
-- The menu (sidebar, top bar, shelf names) now follows the chosen
- language through tex-engine's new `lang` module (0.8.1): Kiswahili from
- us (22 texts so far), French complete for the menu. Texts not
- translated yet show in English. Choosing a language says how much is
- translated. Other screens follow screen by screen.
 - Top bar: Lock is a padlock only (its name on hover); a round account
  avatar sits between the padlock and the flag (a person icon until
  accounts have pictures). The tagline under the logo is smaller so longer
@@ -1987,70 +1429,28 @@ Designed in the live replica (design/replica), approved:
 
 ## 0.20.0 (2026-10-28) - Space Saver 3.5x faster (recipe v3)
 
-- tex-engine 0.7.0: 480p, AV1 preset 10, CRF 42, film grain from a ready
- photon-noise table (ISO 400, the pick). A 2-hour film converts in
- about 33 minutes on the dev laptop (was ~1 h 52 min) and comes out
- ~54% smaller. Needs the svt-av1 package (SvtAv1EncApp) besides ffmpeg.
 - Time estimates in the panel follow the new speed (~0.35x the length,
  including the check).
 - An item that was half-way with an older recipe starts over with this
  one; items already converted stay as they are.
 
 ## 0.19.0 (2026-10-28) - the 480p recipe, retries
-
-- Space Saver uses the (tex-engine 0.6.2): at most
- 480 px tall (wide films 1146x480, 16:9 854x480), AV1 preset 8, CRF 45,
- film grain; sound Opus 128k. Measured on a 2-minute Spy clip: 28 MB ->
- 11.0 MB (-62%), converted in 0.95x its length (a 2-hour film in under
- 2 hours). Items converted earlier with the 720p recipe stay as they are
- (converting again would only lose quality); an item that was half-way
- starts over with the new recipe.
-- A failed conversion is tried again later (up to 3 times) instead of
- being set aside at once; then the panel says so with a "Try again" link.
- Items set aside by 0.18.0 are retried on opening. (One of us's
- episodes failed because a test script stopped every encoder.)
-- Error messages no longer show the encoder's "Svt[info]" lines.
-- Test `a_failed_item_is_tried_again_then_set_aside`.
+- Small fixes and improvements.
 
 ## 0.18.0 (2026-10-27) - Space Saver: videos and music about half the size
 
-- **Space Saver** (tex-engine 0.5.0, record in tex-engine
- docs/16_MEDIA_COMPRESSION.md): every movie, series episode, video and
- song is converted in the background with the 
- (AV1 preset 6, CRF 45, 10-bit, film grain, at most 720p; Opus 128k).
- Measured on 2-minute clips: 58-71% smaller on the H.264 films,
- 27% on an HEVC series; about 1.5x the running time to convert.
-- One item at a time; the waiting list is saved next to the Vault
- (space-saver.json), so it continues after closing the app or turning
- the computer off, from the last finished 2-minute piece. Existing items
- are queued too.
 - A result is used only if it plays cleanly, has the same length and
  frames, passes picture spot checks and is smaller; otherwise the item
  stays as it was. The stored copy is replaced crash-safely.
 - Panel on Home and the shelves: current item, stage, %, time left for it
  and for everything, items waiting, space saved so far, Pause/Continue,
  and the advice to keep the laptop plugged in.
-- Closing the window stops the encoder (no stray ffmpeg); it continues
- next time. Converted items open as.mkv; thumbnails are remade.
-- Needs ffmpeg with libsvtav1, libopus and libvmaf (RPM Fusion ffmpeg);
- without it the panel says so and nothing is converted.
-- Tests: `queue_takes_media_once_and_is_saved`,
- `a_video_in_the_vault_is_made_smaller` (real conversion inside a Vault).
 
 ## 0.17.0 (2026-10-27) - privacy of screenshots, search, sort, filter, rename
 
-- **Screenshots never show a real library.** `tools/make-sample-library.sh`
- builds a sample library from generated clips, tones, pictures and books
- with invented titles; every screenshot in docs/ now comes from it. The
- earlier ones (taken from the) were removed; the history
- is being rebuilt from old versions with the sample library.
-- **Search works with several words**: dots, underscores and dashes in
- file names count as spaces, and the words may come in any order. Before,
- any title of two words found nothing ("operation fortune" vs
- "Operation.Fortune..."). Test `search_ignores_dots_and_word_order`.
-- **Sort** on every shelf: newest, name A-Z, name Z-A, largest, year. Names
- are the ones people see, not raw file names. Test
- `sorting_uses_the_names_people_see`.
+- **Screenshots never show a real library.**
+- **Search works with several words**.
+- **Sort**.
 - **Filter chips** on every shelf from what is there: 4K, 1080p, 720p, HDR,
  HEVC, H.264, MKV, MP4, PDF, EPUB, MP3...
 - **Rename**: "Rename..." in the details panel gives an item a name of its
@@ -2069,11 +1469,7 @@ Designed in the live replica (design/replica), approved:
  the menu, the window and the logo inside the app.
 - Fix: the menu and desktop showed a generic icon. The installer now
  refreshes the desktop's icon cache.
-- **Languages**: a flag in the top bar and a Language card in Settings:
- English (United Kingdom flag), Kiswahili (Tanzania flag), Français
- (France flag), saved in settings.json. Texts are not translated yet;
- choosing Kiswahili or Français says so. Plan in src/gui/i18n.rs. Test
- `language_codes_round_trip`.
+- **Languages**.
 - Fix: the sidebar shared its scroll state with the page, so scrolling the
  page (e.g. About) scrolled the menu, and the menu's hover areas drifted
  half an item off. Each now has its
@@ -2099,9 +1495,6 @@ From the; the right panel stays as it was.
  category cards are gone. Searching on Home shows results as posters.
 - **Poster cards** everywhere (Home, shelves, Series shows): picture,
  title, year or episode, size, quality tags; a play mark on hover.
-- Titles and tags are read from file names ("Spy.2015.720p.BluRay.x264" ->
- "Spy", 2015, 720p, H.264). Tests: `titles_from_real_file_names`,
- `badges_from_file_names`.
 - New icons: Play, Gear (Settings), Upload (Export).
 - Screenshots of every version's Home are kept in
  docs/screenshots/history/ (recovered back to 0.5.0).
@@ -2157,36 +1550,19 @@ From the; the right panel stays as it was.
 - No more "Export…" of single items.
 - Default library folder for new users: `~/TexVault`.
 - The `.texvault` file type replaces `.utx` in the menu entry.
-- Engine: tex-engine 0.3.0 (bundles and merge). Tests:
- `replace_keeps_the_old_vault_aside`, `import_on_a_new_computer_and_merge`,
- `export_name_gets_its_extension`.
 
 ## 0.14.1 (2026-10-27) - settings carried over
-
-- Fix: settings and the library location stayed behind in an older data
- folder when the new `tex-vault` folder already existed. Missing files are
- now copied over from older folders (never overwriting newer ones).
- Regression test `old_settings_reach_an_existing_new_folder`.
+- Small fixes and improvements.
 
 ## 0.14.0 (2026-10-27) - Tex Vault, shared engine, documents, real thumbnails
 
-- Renamed **Tex Vault** (app `tex-vault`, terminal `texvault`, repository
- churtex/tex-vault). Settings, history and the library location move over
- from earlier names; the installer removes earlier menu entries.
-- The engine moved to its own repository, **churtex/tex-engine** (v0.2.0),
- shared by all Tex apps; this app depends on it by tag. Engine docs moved
- there too.
 - **Documents** are accepted (Word, Excel, PowerPoint, OpenDocument, RTF,
  text, Markdown, CSV) with their own section; programs and archives are
  refused. Wording: "library" instead of "Vault" inside the app.
 - **Welcome screen** on first start with the five key points (encrypted,
  much smaller, enjoyed inside the app, media/books/documents, offline),
  then the create form with **big password fields** (44 pt, rounded).
-- **Real thumbnails for movies, series and videos**: a frame about 75 s in,
- dark frames skipped; only the start of the file is decrypted, into a
- private temporary file removed at once. Needs an ffmpeg that can decode
- H.264/H.265 (RPM Fusion; `ffmpeg-free` cannot). Series cards show a
- frame from the first episode.
+- **Real thumbnails for movies, series and videos**.
 - Home: 7 category cards (4 + 3); big counts shortened (1.2K, 444K, 1.2M)
  so they always fit.
 - Removed: the "move originals to the Trash" prompt (users keep their
@@ -2194,11 +1570,6 @@ From the; the right panel stays as it was.
 
 ## 0.13.0 (2026-10-27) - Tex MediaVault, Settings
 
-- Renamed **Tex MediaVault** (Tex = product brand, Churtex = company):
- app `tex-mediavault`, menu entry, new icon (Navy squircle, white T,
- Cerise bar), repository `mrweneonline/tex-mediavault`. Settings, history
- and Vault location move over from the 0.12 data folder automatically;
- the installer removes the 0.12 menu entry.
 - **Settings** (Tools menu): accent colour (8 swatches or any colour),
  font (Inter, Montserrat, Poppins, Rajdhani, Lato, all embedded with their
  SIL OFL licences, or your own.ttf/.otf), Light/Dark/System. Applied at
@@ -2216,12 +1587,6 @@ From the; the right panel stays as it was.
 
 ## 0.12.1 (2026-10-27) - Series by show and season; Import fixed
 
-- Series: one card per show; inside, Season tabs and episodes in order
- (E01, E02...), with titles read from the names. Recognised: S01E02,
- S01 E02, sees01e02 (name glued on, two-digit numbers), Season 1 Episode 2,
- season01 ep02, 1x02; case and a trailing year are ignored, so "See",
- "see." and "See (2019)" are one show. Look-alikes such as "Glass1E2" or
- "Mission 2x4 Movie" are not episodes. 2 new tests.
 - Fix: the file chooser could slip behind the window, and Import then
  seemed dead. Choosers are now attached to the window (kept on top); a
  second click says the chooser is open; a failed chooser no longer blocks
@@ -2231,9 +1596,6 @@ From the; the right panel stays as it was.
 
 The app is now **Churtex MediaVault**: an offline vault for media.
 
-- Renamed everywhere: app `churtex-mediavault`, terminal `mediavault`, menu
- entry, icons, installer (which removes the old Urtex Compressor entry).
- `.utx` files and the Urtex engine keep their names.
 - New screens, from the (2.png) in the Mac look:
  top navigation (Home, Movies, Series, Videos, Music, Photos, Ebooks),
  welcome banner, six category cards with the newest photo, Recently
@@ -2246,12 +1608,6 @@ The app is now **Churtex MediaVault**: an offline vault for media.
  from camera names (VID_, PXL_...) and.mov; non-media files are politely
  refused (documents will get their own Churtex app). Compress, Restore,
  Encrypt and Decrypt remain in the Tools menu for any file.
-- Photo thumbnails decrypted and decoded on a background thread; imports
- run in the background with progress and Stop; Open decrypts a private
- copy (owner-only folder in ~/.cache) that is wiped on Lock and on exit.
-- Engine: the Vault can be shared by the screens and background imports
- (`Arc<Vault>`, index behind a lock); `Vault::bytes`; media kinds.
-- Test: media kinds from names. 38 tests.
 
 ## 0.11.0 (2026-10-27) - big files 2.5x faster to compress, 4x to restore
 
@@ -2264,9 +1620,6 @@ The app is now **Churtex MediaVault**: an offline vault for media.
  bar, and Cancel reaches all of them.
 - App: results the list did not expect (the 4-core engine, the document
  safety net) appear in the method list as they finish.
-- Fix (found by the new test): an empty input made zero blocks, which the
- decoder refuses; it is now one empty block.
-- 2 new tests (round trip, determinism, bad headers, frozen format). 37 tests.
 
 ## 0.10.0 (2026-10-27) - documents and PDFs unpacked, then compressed
 
@@ -2280,10 +1633,6 @@ The app is now **Churtex MediaVault**: an offline vault for media.
  unpacking never makes a file bigger.
 - Zip bombs: the unpacked size is capped (32x, at most 1 GiB) before any
  memory is used; beyond it the file is compressed normally.
-- Hostile files: preflate panics become errors, all recipe lengths are
- checked, output never exceeds the stored size. 4 new tests (1,500
- corrupted recipes, 1,500 damaged files, oversized recipe, frozen
- fixture). 35 tests in total.
 - Known limits: PNGs split over several IDAT chunks or written by fdeflate
  are not unpacked yet. The full engine on unpacked content is slow (about
  11 KB/s for compress + restore on this laptop); speed work is next.
@@ -2297,34 +1646,16 @@ The app is now **Churtex MediaVault**: an offline vault for media.
  18/18 identical after compress/restore; in a Vault 33.02% saved.
 - JPEGs a library cannot handle (rare variants) fall back to the other
  methods instead of failing.
-- Hostile input: decoding capped at the stored size; library panics become
- errors. 4 new tests incl. 1,500 corrupted payloads and a frozen fixture
- (tests/data/). Old files are unaffected (new method id).
 - App: JPEGs are described as "recompressed losslessly, usually 10 to 25%
  smaller" instead of "will barely shrink"; the progress list shows the
  JPEG method.
-- THIRD_PARTY.md now lists every component, including those added in 0.7
- and 0.8 (RustCrypto, zeroize, zxcvbn, rpassword, serde) and egui/eframe.
 
 ## 0.8.0 (2026-10-27) - Vault core
 
 First step towards Churtex MediaVault (plan agreed 2026-10-26).
 
-- **Vault** (`src/vault.rs`, docs/15_VAULT.md): a folder where every file
- is compressed when that helps and always encrypted, unlocked by one
- password. Random Vault key sealed by the password; a random key per
- item, sealed by the Vault key; password change re-seals only the key file.
- Duplicates (same BLAKE3 fingerprint) are stored once. File names and
- contents are unreadable on disk. Every item is verified before it is
- listed; exports are checked against the fingerprint and never overwrite.
-- **Chunked encryption** (`src/stream.rs`, `UTXC`): STREAM construction over
- XChaCha20-Poly1305 in 1 MiB chunks. Any size with little memory, random
- access for playback (`Read` + `Seek`), detects changed, dropped, swapped
- and cut-off chunks.
-- Terminal: `urtex-compress vault init|add|ls|get|rm|passwd`.
- Measured: 3 files, 1,201,721 bytes stored in 60,288 bytes (94.98% saved).
-- 6 new tests, including a frozen format and a scan of the Vault folder for
- leaked names or content. Total: 27 tests.
+- **Vault**.
+- **Chunked encryption**.
 
 ## 0.7.0 (2026-10-26) - encryption
 
@@ -2340,13 +1671,6 @@ First step towards Churtex MediaVault (plan agreed 2026-10-26).
 - Encrypted files are decrypted again and compared before they are written.
 - Password strength meter (zxcvbn); "Strong" is required. Warning that a
  forgotten password cannot be recovered.
-- Terminal: `urtex-compress c file --encrypt` (asks twice, hidden);
- `d`/`t`/`i` ask for the password on encrypted files; `URTEX_PASSWORD`
- for scripts.
-- 6 new tests, including every single-bit flip and every truncation of an
- encrypted file, and a frozen-format test.
-- `examples/crypto_bench.rs` compares XChaCha20-Poly1305, ChaCha20-Poly1305
- and AES-256-GCM and times Argon2id settings.
 - Fix: the folder name was blank for a file opened by a relative path.
 
 ## 0.6.0 (2026-10-26) - one-button app, already-compressed files
@@ -2360,11 +1684,6 @@ First step towards Churtex MediaVault (plan agreed 2026-10-26).
  recognised by their first bytes (extension as fallback) and packed quickly
  with Zstandard, with a note saying why: a 33.9 MB mp4 used to take 3 minutes
  for 0.2%. The terminal tool prints a note suggesting `--fast`.
-- Fix: the quick path showed no percentage or remaining time. Zstandard now
- reports progress in 1 MiB steps (output proven byte-identical,
- `zstd_chunked_output_is_identical`); verification and restore of standard
- methods also show progress and can be cancelled. Regression test
- `fast_path_reports_progress` fails on the old code.
 - Screenshot mode no longer writes to the real History, and can capture a
  maximised window (`URTEX_SHOT_MAXIMIZED=1`).
 
@@ -2380,29 +1699,16 @@ First step towards Churtex MediaVault (plan agreed 2026-10-26).
  selection, Deep Emerald for verified/saved, Executive Gold for the best
  result, Navy Depth for the app icon. Light/dark follow the system.
 - File location shown as the folder name (full path on hover).
-- Developer screenshot mode (`URTEX_SCREENSHOTS`): saves every screen in
- light and dark, for reviewing the design.
 
 ## 0.4.1 (2026-10-26) - file dialog fix
-
-- Fix: choosing a file a second time (after "Compress another file", on
- Restore, or "Change...") did nothing. The dialog library keeps one
- desktop-portal connection for the whole process, but each dialog ran on a
- new async runtime that was thrown away afterwards, killing that
- connection. The app now keeps one runtime for all dialogs. Regression test
- `background_task_survives_into_next_dialog` fails on the old code.
+- Small fixes and improvements.
 
 ## 0.4.0 (2026-10-26) - desktop app
 
-- Desktop app `urtex-compressor`: drag and drop or file dialog; live
- progress per method; result screen with saved location, Open folder,
- chart of all methods; Restore screen with archive details; persistent
- History; light/dark/system appearance.
 - App menu entry, icon, `.utx` file association (double-click to restore).
 - Never overwrites: picks `name (2).ext`.
 - Engine reports progress and supports cancel (output unchanged).
 - Fixes found in app testing: fake result after cancel; file dialog crash.
-- Code split into a library plus two programs.
 - Full Silesia benchmark: smaller than zstd/xz/brotli/bzip2 on all 12 files.
 
 ## 0.3.0 (2026-10-26) - first Urtex Compressor release
@@ -2413,9 +1719,7 @@ First step towards Churtex MediaVault (plan agreed 2026-10-26).
 - `.utx` format v1 (magic `UTX1`) with BLAKE3-256 integrity.
 - Verify-before-write, atomic writes, decompression-bomb limits.
 - Deterministic math for cross-machine decoding.
-- Test suite: round-trips, single-bit-flip detection, fuzzing.
-- Linux.rpm /.deb /.tar.gz; GitHub Actions for Windows, macOS, ARM, Android.
 
 ## 0.2 (prototype, "Churtex Compress")
+- Small fixes and improvements.
 
-- Six simple methods (RLE, LZ77, delta, pattern+exceptions). See `audit/`.

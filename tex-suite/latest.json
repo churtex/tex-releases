@@ -1,13 +1,11 @@
 {
-  "app": "tex-suite",
-  "version": "0.69.41",
-  "date": "2026-11-09",
-  "title": "Pedia for life off the grid, twenty new games",
-  "notes": "- **Pedia, rebuilt for a life with no internet.** Five groups (Stay alive; Water, food &\n shelter; Survival; Make, fix, earn; Know & grow), each with its sections. The first one is\n here, built in: **Health & First Aid**, 1,126 articles in First Aid, Health & Disease, Mothers &\n Children, Medicines, Hygiene & Sanitation and Mind & Heart. Each opens in easy words, then the\n full article under \"In depth\". The other sections show \"Coming soon\" until their packs arrive.\n- **Every article reads like the Bible in Anivo:** the same sheet, margins, font, size and line\n spacing, however wide the window. Pedia's own pages are wide, like Tainment's.\n- **Filtered for the church:** what goes against the Bible's teaching is left out, whole\n articles or single paragraphs; every health article carries a short note to see a health\n worker when you can. Credits stay as plain text, nothing to click.\n- **Twenty new games**, each in its style's own section, drawn sharp at any size and light\n enough for a 4 GB computer: Neon Drift and Blade Dusk (Action), Gravity Well and Dock (Space),\n Night Circuit and Thermal (Racing and flight), Prism, Aqueduct (Puzzle), Bastion and\n Archipelago (Strategy), Canopy and Flipside (Physics), Pulse and Glimmer (Rhythm and reflex),\n Curve and Longbow (Sports), Mancala and Draughts (Board), Cipher and Hidden Picture (Mind).\n Esc pauses, R restarts; best scores are kept.\n- tex-games 0.1.18 (the new games and their engine).",
-  "file": "0.69.41/tex-suite-0.69.41-linux-x86_64.tar.gz",
-  "size": 44509121,
-  "sha256": "3264ce693d725b420ab4779551d9cf85631ebd069dea56c58f64554833d88bd1",
-  "signature": "5c8580bc6b0cca1a5188347fdf46fdb16b820f2630a05624f96db3625d861ba39bee467378d1510a62f739d4f0d8676f7e201e90a3282d851b3966b7d21ed403",
-  "deb": "0.69.41/tex-suite_0.69.41-1_amd64.deb",
-  "rpm": "0.69.41/tex-suite-0.69.41-1.x86_64.rpm"
+ "app": "tex-suite",
+ "version": "0.69.42",
+ "date": "2026-11-09",
+ "title": "The whole Pedia, Pedia Chat, and games that fit your screen",
+ "notes": "- **Pedia, all of it:** six groups and 32 sections, about 2,700 articles: Stay alive; Water, food & shelter; Survival; Make, fix, earn; **Rebuild from scratch** (the 50 machines, engineering, metals, chemistry, power, transport, radio, printing, cloth, medicines, time and navigation, science); Know & grow.\n- **Pictures on nearly every Health & First Aid article.** The other sections get theirs in the next update.\n- **Articles link to each other:** tap a highlighted name to open that article; Back returns you where you were. Every article opens at its title.\n- **A cleaner Pedia:** articles in an even list with their picture, sections four across, no boxes. Each article appears once.\n- **Pedia Chat:** ask a question and get the answer straight from Pedia, with the article it came from. It knows \"what is\", symptoms, treatment, prevention and causes, and it types its answer as you watch.\n- **Tainment Chat:** ask about your own films, series, music and books.\n- **Chatbots** has its own menu: TexMe Chat, Pedia Chat and Tainment Chat.\n- **New games:** Reversi, Four in a Row, Ninefold, Sweeper, Pairs, Stack, Marble, Table Tennis, Gem Cascade, Warehouse and Bowling. Turbo is back with five lanes.\n- **Games fit your screen:** wide when there's room, square or tall when there isn't; the whole game always in view, the score above it, never on top of it.\n- **Smarter opponents** in Reversi, Four in a Row, Draughts, Mancala, Archipelago and Table Tennis.\n- **Your best score is kept as you play,** even if you stop half way.\n- **Films and series:** hover to see a big play button in the middle; Info opens a large panel with everything about it.\n- **Read your Bible:** the version's name beside quick version chips, and Continue reading as a full-width card.\n- **My Device:** your device's name and its licence, in your avatar's menu beside My Profile. Your ID is now called **TID**.\n- **Every page opens at the top.**",
+ "file": "0.69.42/tex-suite-0.69.42-linux-x86_64.tar.gz",
+ "size": 93926154,
+ "sha256": "a3632fd00ed4fc55f29b7d516400a58d7af4ea63fd9673a302854f4ff81b1b45",
+ "signature": "6747d5f097c954434364468892b0f0c1e30e6e68bd2d4ec2c395118645ed42d39689dc8f943fe1b76e6cd5e1e515ab0fd96b54078efd73a75566864ca5c59501"
 }
