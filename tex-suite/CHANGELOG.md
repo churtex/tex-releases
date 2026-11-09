@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.69.45 (2026-11-09) - A new look for TexChat
+- **TexChat, redesigned.** Messages sit on a quiet pattern of crosses, grouped by day ("Today", "Yesterday"), each in its bubble with its time.
+- **See how each message went:** a small clock while it waits to go, a tick once it is sent.
+- **One bar to write:** a paperclip to send a file, the message, and a send button that lights up when there is something to send.
+- **Your own chat** has the same new look.
+- **A smaller download for Linux:** the same TexMe, with nothing extra packed beside it.
+
 ## 0.69.44 (2026-11-09) - Chats that continue, and calmer Sermons
 - **Chats continue.** Once you've compared the code with someone, you're remembered on both sides: the next chat connects without a code.
 - **A dropped chat reconnects by itself** while their conversation is open and they're on the same network.
