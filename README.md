@@ -16,24 +16,24 @@ without the internet: Media, Books, Pedia, Tools, Edu, Anivo and the Vault
 - Systems: Windows and Linux (Android coming)
 
 <!-- downloads -->
-### Download Tex Suite 0.69.48
+### Download Tex Suite 0.69.49
 
 | System | File | Fingerprint (SHA-256) |
 |---|---|---|
-| Windows 10 / 11 | [Tex-Suite-Setup-0.69.48.exe](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.48/Tex-Suite-Setup-0.69.48.exe) | `a1d37863cea79a0057793483e46e2d826ea20cbf66ddda65ec01cc35506501e2` |
-| Ubuntu, Linux Mint, Debian | [tex-suite_0.69.48-1_amd64.deb](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.48/tex-suite_0.69.48-1_amd64.deb) | `3555c57a4b2c08637a93bebc40c7309b021f1e3132f3b6dd5525ea0450bdfeba` |
-| Fedora, AlmaLinux, openSUSE | [tex-suite-0.69.48-1.x86_64.rpm](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.48/tex-suite-0.69.48-1.x86_64.rpm) | `0cd50e2a759909e14e6947b1bf2da1dbc2cf5fe9a471efe3ace7b0d69bc9d19c` |
-| Any Linux | [tex-suite-0.69.48-linux-x86_64.tar.gz](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.48/tex-suite-0.69.48-linux-x86_64.tar.gz) | `c7b62bf396186d1ba3f9d45f7299155f569697308424790e08df5fbc9c011e42` |
+| Windows 10 / 11 | [Tex-Suite-Setup-0.69.49.exe](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.49/Tex-Suite-Setup-0.69.49.exe) | `4405818a4ef41d39f8be6beab674a5b2defa885dd95a68dff3234f2936544180` |
+| Ubuntu, Linux Mint, Debian | [tex-suite_0.69.49-1_amd64.deb](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.49/tex-suite_0.69.49-1_amd64.deb) | `f2f003fa8896b8c4674441f7827fbfa32f5f5e1ca6cfd7637213b4f01d8b239e` |
+| Fedora, AlmaLinux, openSUSE | [tex-suite-0.69.49-1.x86_64.rpm](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.49/tex-suite-0.69.49-1.x86_64.rpm) | `0609e1215255b67687e6aa239f63b05c980cc5bc957ab4c3a28637bbec2fa327` |
+| Any Linux | [tex-suite-0.69.49-linux-x86_64.tar.gz](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.49/tex-suite-0.69.49-linux-x86_64.tar.gz) | `0f2608cc6255c271e415a0ba725d24b7256aa9c5000c102f5cdf1241f31c6272` |
 
 **Check your file before you open it**, whether you downloaded it or got it
 from someone on a flash disk; no internet is needed once you have this page:
 
-- Windows: `certutil -hashfile Tex-Suite-Setup-0.69.48.exe SHA256`
-- Linux: `sha256sum tex-suite_0.69.48-1_amd64.deb` (or the file you have)
+- Windows: `certutil -hashfile Tex-Suite-Setup-0.69.49.exe SHA256`
+- Linux: `sha256sum tex-suite_0.69.49-1_amd64.deb` (or the file you have)
 
 The answer must be exactly the fingerprint above. If it differs, the file
 was changed: delete it. Each file also has a `.sig` signature beside it and a
-line in [SHA256SUMS](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.48/SHA256SUMS), signed with Churtex's release key
+line in [SHA256SUMS](https://github.com/churtex/tex-releases/raw/main/tex-suite/0.69.49/SHA256SUMS), signed with Churtex's release key
 (its public key: `91bb465c0e903b6b5638682723e511ab7e83171aea40e2a358b424556c5b9e13`).
 Once installed, Tex Suite checks its own signature at every start, and a
 changed copy refuses to create a library. Windows may show "Windows

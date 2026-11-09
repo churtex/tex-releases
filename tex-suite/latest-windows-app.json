@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.48",
+ "version": "0.69.49",
  "date": "2026-11-10",
- "title": "20 more games, 90 in all",
- "notes": "- **Puzzle:** Pour, Flood, Five Alike, Way Out.\n- **Mind:** Knight Path, Jade Tiles, Wordfind.\n- **Board and cards:** Patience, Ladders.\n- **Strategy:** Fleet.\n- **Action:** Leap, Slice, Crossing.\n- **Racing and flight:** Cavern, Kart.\n- **Rhythm and reflex:** Timber, Quickdraw, Keys.\n- **Sports:** Keepy, Crease.",
- "file": "0.69.48/tex-suite-0.69.48-windows-x86_64.tar.xz",
- "size": 95405248,
- "sha256": "f3551332e41cae0c8297be7717242c54b608a53ab2b34871387f47fd42d5943f",
- "signature": "d4e52d8219a7a382b9db84e28ed9551e674a2099b08c8e9733ce664a0c23a89512dfd569b7556ace69bf77eb8eef263ccaa6f9199e85b22df1f80f6aacd4ea0c"
+ "title": "50 more games, 140 in all",
+ "notes": "- **Puzzle:** Mosaic, Loop, Lamplighter, Picture Logic, Fifteen, Clusters, Glide, Blockfit, Honeycomb, Crowns, Bridges, Jigsaw, Rings.\n- **Mind:** Tally, Typist, Reckon, Unscramble, Three Cups, Two by Two, Odd One, Magic Square, Letters, Five Letters, Scales, Target, Sequence.\n- **Board:** Chess, Dominoes, Four Homes, Hexlink, Lines.\n- **Action:** Trail, Breaker, Ribbons, Glowworm, Blast Grid.\n- **Strategy:** Shepherd, Rails, Market Stall, Gold Rush, Lighthouse.\n- **Sports:** Cue, Volley, Boules, Swell.\n- **Physics:** Pinball, Ripple, Snowball.\n- **Space:** Sky Lance. **Rhythm and reflex:** Highrise.\n- Kart, Pairs and other games that drew some shapes out of place now draw them where they belong.",
+ "file": "0.69.49/tex-suite-0.69.49-windows-x86_64.tar.xz",
+ "size": 95585848,
+ "sha256": "a2f933b7cda85884ba676862ab87186cc9eed9fd80c089f2d0d026348c17855e",
+ "signature": "b9bd54b903e6ea9a10c9bb0d635ccff9cedbd5a569439993de67a343853591f3b1e41f66fd447cffd9a50b3793f8b1aa73c7e773ff01f9a838ef83eb8ac0230a"
 }
