@@ -1,0 +1,11 @@
+{
+ "app": "tex-suite",
+ "version": "0.69.46",
+ "date": "2026-11-09",
+ "title": "Every film plays",
+ "notes": "- **Every film plays the moment you add it,** on Windows and Linux: MP4, MKV, AVI and more, before Space Saver makes it smaller. Your films stay encrypted while they play.\n- **Windows updates itself, quietly:** TexMe downloads the update, checks it, puts it in place and opens again. No installer window, nothing to click.\n- **Windows: movie thumbnails** now appear by themselves.\n- **Pitch** draws your singing as a line instead of dots.",
+ "file": "0.69.46/tex-suite-0.69.46-windows-x86_64.tar.xz",
+ "size": 95125148,
+ "sha256": "45c595c1d2aec69cb732087400ed44d39ea5a5c48366162739c50c0e7e56a0f1",
+ "signature": "49b1d31cf6d6efe5dbfe84371508d997d811fad0d603b91ff7b12974dcda8f536618f50f0e8b5a91c9b52524069087d0fab18e0e4a1a4c9b5e611eaf85a7560c"
+}

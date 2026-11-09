@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.45",
+ "version": "0.69.46",
  "date": "2026-11-09",
- "title": "A new look for TexChat",
- "notes": "- **TexChat, redesigned.** Messages sit on a quiet pattern of crosses, grouped by day (\"Today\", \"Yesterday\"), each in its bubble with its time.\n- **See how each message went:** a small clock while it waits to go, a tick once it is sent.\n- **One bar to write:** a paperclip to send a file, the message, and a send button that lights up when there is something to send.\n- **Your own chat** has the same new look.\n- **A smaller download for Linux:** the same TexMe, with nothing extra packed beside it.",
- "file": "0.69.45/Tex-Suite-Setup-0.69.45.exe",
- "size": 54352384,
- "sha256": "e72f9fd43e77fcbafe72f69ef472c887af72256680a2721a59d8a2fdba9cebab",
- "signature": "c6b468bb9832f1a01e86c83f4ba61d11192de9f7bdba640dbc1e23576e3e9aace88bafe898be30aa8f3a9106bfa55231f1caea617431b96e0200f8a5713cc901"
+ "title": "Every film plays",
+ "notes": "- **Every film plays the moment you add it,** on Windows and Linux: MP4, MKV, AVI and more, before Space Saver makes it smaller. Your films stay encrypted while they play.\n- **Windows updates itself, quietly:** TexMe downloads the update, checks it, puts it in place and opens again. No installer window, nothing to click.\n- **Windows: movie thumbnails** now appear by themselves.\n- **Pitch** draws your singing as a line instead of dots.",
+ "file": "0.69.46/Tex-Suite-Setup-0.69.46.exe",
+ "size": 95632384,
+ "sha256": "403ef6d434bbcfad5c174e70e0e9f48107183838b01f7a6bbe06f6c33b1b19c9",
+ "signature": "41bfe6a1b63d3c366486374222eb29dac564440bedd163e413fca73cdce99e5964c86bbb494e2e9c0e0f066f9d7af6f4010402f83c8f6d81dc1c445c3d067c0b"
 }
