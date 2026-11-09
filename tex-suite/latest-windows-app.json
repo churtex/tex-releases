@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.47",
- "date": "2026-11-09",
- "title": "38 new games",
- "notes": "- **38 new games, 70 in all,** each drawn sharp at any size and light enough for a 4 GB computer:\n  - **Puzzle:** Twofold, Beacons, Slide, Tangle, Bubbleburst, Flowlines.\n  - **Mind:** Echo, Pegboard, Three Pillars, Labyrinth, Constellation.\n  - **Board:** Boxes, Nine Stones.\n  - **Action:** Vine, Skyguard, Beam, Ironclad.\n  - **Space:** Rock Field, Touchdown, Ascent.\n  - **Sports:** Putt, Hoop, Darts, Reel, Puck, Keeper, Stones.\n  - **Physics:** Lantern Wall, Span.\n  - **Racing and flight:** Swallow, Sled, Skate.\n  - **Rhythm and reflex:** Molehill, Catch, Orbit.\n  - **Strategy:** City Shield, Cannonade, Harvest.",
- "file": "0.69.47/tex-suite-0.69.47-windows-x86_64.tar.xz",
- "size": 95353872,
- "sha256": "f6e90533249d2a24161eb7f2e1682872114f64911e9f3f7acfc51102829452e9",
- "signature": "81bf5d2ab5cd3bd4fca1df88444b26b9a7b8cf46b082c298b267404de6290b3927360ef72555bdae8765dcb160b1f1966b6f0ac21e30efc74c0e361977213402"
+ "version": "0.69.48",
+ "date": "2026-11-10",
+ "title": "20 more games, 90 in all",
+ "notes": "- **Puzzle:** Pour, Flood, Five Alike, Way Out.\n- **Mind:** Knight Path, Jade Tiles, Wordfind.\n- **Board and cards:** Patience, Ladders.\n- **Strategy:** Fleet.\n- **Action:** Leap, Slice, Crossing.\n- **Racing and flight:** Cavern, Kart.\n- **Rhythm and reflex:** Timber, Quickdraw, Keys.\n- **Sports:** Keepy, Crease.",
+ "file": "0.69.48/tex-suite-0.69.48-windows-x86_64.tar.xz",
+ "size": 95405248,
+ "sha256": "f3551332e41cae0c8297be7717242c54b608a53ab2b34871387f47fd42d5943f",
+ "signature": "d4e52d8219a7a382b9db84e28ed9551e674a2099b08c8e9733ce664a0c23a89512dfd569b7556ace69bf77eb8eef263ccaa6f9199e85b22df1f80f6aacd4ea0c"
 }
