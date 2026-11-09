@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.46",
+ "version": "0.69.47",
  "date": "2026-11-09",
- "title": "Every film plays",
- "notes": "- **Every film plays the moment you add it,** on Windows and Linux: MP4, MKV, AVI and more, before Space Saver makes it smaller. Your films stay encrypted while they play.\n- **Windows updates itself, quietly:** TexMe downloads the update, checks it, puts it in place and opens again. No installer window, nothing to click.\n- **Windows: movie thumbnails** now appear by themselves.\n- **Pitch** draws your singing as a line instead of dots.",
- "file": "0.69.46/Tex-Suite-Setup-0.69.46.exe",
- "size": 95632384,
- "sha256": "403ef6d434bbcfad5c174e70e0e9f48107183838b01f7a6bbe06f6c33b1b19c9",
- "signature": "41bfe6a1b63d3c366486374222eb29dac564440bedd163e413fca73cdce99e5964c86bbb494e2e9c0e0f066f9d7af6f4010402f83c8f6d81dc1c445c3d067c0b"
+ "title": "38 new games",
+ "notes": "- **38 new games, 70 in all,** each drawn sharp at any size and light enough for a 4 GB computer:\n  - **Puzzle:** Twofold, Beacons, Slide, Tangle, Bubbleburst, Flowlines.\n  - **Mind:** Echo, Pegboard, Three Pillars, Labyrinth, Constellation.\n  - **Board:** Boxes, Nine Stones.\n  - **Action:** Vine, Skyguard, Beam, Ironclad.\n  - **Space:** Rock Field, Touchdown, Ascent.\n  - **Sports:** Putt, Hoop, Darts, Reel, Puck, Keeper, Stones.\n  - **Physics:** Lantern Wall, Span.\n  - **Racing and flight:** Swallow, Sled, Skate.\n  - **Rhythm and reflex:** Molehill, Catch, Orbit.\n  - **Strategy:** City Shield, Cannonade, Harvest.",
+ "file": "0.69.47/Tex-Suite-Setup-0.69.47.exe",
+ "size": 95861248,
+ "sha256": "f2074b0802b7cab0cb4cc2d26cffbc99975848937d4efc5a43f57dc1f1790241",
+ "signature": "391febbf45b22c758434003ef8ca2947cce091e61dc85693a4be47e8442269d4c1256d49315d343285c9bc50017369c0442c589fb5495359618aebdfc877e702"
 }
