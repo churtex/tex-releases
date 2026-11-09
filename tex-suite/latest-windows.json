@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.42",
+ "version": "0.69.43",
  "date": "2026-11-09",
- "title": "The whole Pedia, Pedia Chat, and games that fit your screen",
- "notes": "- **Pedia, all of it:** six groups and 32 sections, about 2,700 articles: Stay alive; Water, food & shelter; Survival; Make, fix, earn; **Rebuild from scratch** (the 50 machines, engineering, metals, chemistry, power, transport, radio, printing, cloth, medicines, time and navigation, science); Know & grow.\n- **Pictures on nearly every Health & First Aid article.** The other sections get theirs in the next update.\n- **Articles link to each other:** tap a highlighted name to open that article; Back returns you where you were. Every article opens at its title.\n- **A cleaner Pedia:** articles in an even list with their picture, sections four across, no boxes. Each article appears once.\n- **Pedia Chat:** ask a question and get the answer straight from Pedia, with the article it came from. It knows \"what is\", symptoms, treatment, prevention and causes, and it types its answer as you watch.\n- **Tainment Chat:** ask about your own films, series, music and books.\n- **Chatbots** has its own menu: TexMe Chat, Pedia Chat and Tainment Chat.\n- **New games:** Reversi, Four in a Row, Ninefold, Sweeper, Pairs, Stack, Marble, Table Tennis, Gem Cascade, Warehouse and Bowling. Turbo is back with five lanes.\n- **Games fit your screen:** wide when there's room, square or tall when there isn't; the whole game always in view, the score above it, never on top of it.\n- **Smarter opponents** in Reversi, Four in a Row, Draughts, Mancala, Archipelago and Table Tennis.\n- **Your best score is kept as you play,** even if you stop half way.\n- **Films and series:** hover to see a big play button in the middle; Info opens a large panel with everything about it.\n- **Read your Bible:** the version's name beside quick version chips, and Continue reading as a full-width card.\n- **My Device:** your device's name and its licence, in your avatar's menu beside My Profile. Your ID is now called **TID**.\n- **Every page opens at the top.**",
- "file": "0.69.42/Tex-Suite-Setup-0.69.42.exe",
- "size": 54300160,
- "sha256": "d0d53feb91b9a861d7f15b992fb48a18551b5db35648fcefcbe984f7461755f0",
- "signature": "ef09f4921f2d8f43921210512d7d4a73eeb5bc8f134a5d3efdda1f7cfc3611c8b3fa31e5116e78990cdf0653e1d22057167fc9ba74619f053b1e703301398f0b"
+ "title": "Chat that holds",
+ "notes": "- **Chat connects even when both of you press Open Chat at the same moment.** Before, each computer could keep a different connection and the chat ended with \"connection reset\".\n- **A chat that dropped is noticed within a minute,** and opening it again starts a fresh one at once.\n- **Plain words when a connection is cut,** with what to do next.\n- **Send to another device:** a new button in an item's details takes you straight to Share with that item chosen.\n- **Share items** now shows for every device nearby, your own ones too.",
+ "file": "0.69.43/Tex-Suite-Setup-0.69.43.exe",
+ "size": 54318592,
+ "sha256": "e89393bd4ce6817e4bc6333606653ee97f413c93c57b75ddcdcc2025ca22bf10",
+ "signature": "4761007c20e78d150d38ce3f0facffb3eb76013a7f8617915c6cf31c8aaa5142ba27fcc8de5d859f78e554aacbf36a4dfd293b8af5a32bf33e72e904e6aa4005"
 }
