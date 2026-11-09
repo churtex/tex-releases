@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.69.47 (2026-11-09) - 38 new games
+- **38 new games, 70 in all,** each drawn sharp at any size and light enough for a 4 GB computer:
+  - **Puzzle:** Twofold, Beacons, Slide, Tangle, Bubbleburst, Flowlines.
+  - **Mind:** Echo, Pegboard, Three Pillars, Labyrinth, Constellation.
+  - **Board:** Boxes, Nine Stones.
+  - **Action:** Vine, Skyguard, Beam, Ironclad.
+  - **Space:** Rock Field, Touchdown, Ascent.
+  - **Sports:** Putt, Hoop, Darts, Reel, Puck, Keeper, Stones.
+  - **Physics:** Lantern Wall, Span.
+  - **Racing and flight:** Swallow, Sled, Skate.
+  - **Rhythm and reflex:** Molehill, Catch, Orbit.
+  - **Strategy:** City Shield, Cannonade, Harvest.
+
 ## 0.69.46 (2026-11-09) - Every film plays
 - **Every film plays the moment you add it,** on Windows and Linux: MP4, MKV, AVI and more, before Space Saver makes it smaller. Your films stay encrypted while they play.
 - **Windows updates itself, quietly:** TexMe downloads the update, checks it, puts it in place and opens again. No installer window, nothing to click.
