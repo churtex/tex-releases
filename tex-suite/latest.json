@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.69.40",
- "date": "2026-11-09",
- "title": "Every Bible its own credit",
- "notes": "- **Read your Bible: change the version with one tap.** KJV, WEB, ASV and Louis Segond sit as\n chips under the title; the one you read is lit, and \"All versions\" opens the full list.\n- **Each version shows its own credit.** The ASV, the WEB and Louis Segond each say where their\n text comes from and that it is public domain; the King James note shows only for the KJV.\n- **Tainment Insights** is now just \"Insights\", as wide as Tainment's other pages.\n- **Games:** the first eleven games sit together under \"Old\", every one on the same card (Kite\n too), its corners cut round like the rest of TexMe, the high score on every card.\n- **Every game in full view:** the playing field now fits the space you can see, so nothing at\n its bottom hides below the window (Turbo's car was out of sight). **Turbo** drives forward\n and back too: ↑ ↓ or W S.\n- Under the hood: a Store edition of TexMe can be built with no self-updater inside (for the\n Microsoft Store and Flathub, which bring updates themselves), and every release now passes\n Churtex's own safety check (tex-antivirus) before it is published.\n- tex-engine 0.30.59 (Insights' name), tex-games 0.1.16 (one card for every game).",
- "file": "0.69.40/tex-suite-0.69.40-linux-x86_64.tar.gz",
- "size": 29540937,
- "sha256": "54e6e075c6dc3f09e8091993b02ea618a904200455d735dce260f7d639b1ba2b",
- "signature": "9fcfd98d2bed5a6173bb9150f5909b5fbefc031bcf446e20494ee0e6b3c67439b4dfdbaeed93df8927e7fc76613284ecd2d5746b0f513fa6cb48fe495d58e20f"
+  "app": "tex-suite",
+  "version": "0.69.40",
+  "date": "2026-11-09",
+  "title": "Every Bible its own credit",
+  "notes": "- **Read your Bible: change the version with one tap.** KJV, WEB, ASV and Louis Segond sit as\n chips under the title; the one you read is lit, and \"All versions\" opens the full list.\n- **Each version shows its own credit.** The ASV, the WEB and Louis Segond each say where their\n text comes from and that it is public domain; the King James note shows only for the KJV.\n- **Tainment Insights** is now just \"Insights\", as wide as Tainment's other pages.\n- **Games:** the first eleven games sit together under \"Old\", every one on the same card (Kite\n too), its corners cut round like the rest of TexMe, the high score on every card.\n- **Every game in full view:** the playing field now fits the space you can see, so nothing at\n its bottom hides below the window (Turbo's car was out of sight). **Turbo** drives forward\n and back too: ↑ ↓ or W S.\n- Under the hood: a Store edition of TexMe can be built with no self-updater inside (for the\n Microsoft Store and Flathub, which bring updates themselves), and every release now passes\n Churtex's own safety check (tex-antivirus) before it is published.\n- tex-engine 0.30.59 (Insights' name), tex-games 0.1.16 (one card for every game).",
+  "file": "0.69.40/tex-suite-0.69.40-linux-x86_64.tar.gz",
+  "size": 29540937,
+  "sha256": "54e6e075c6dc3f09e8091993b02ea618a904200455d735dce260f7d639b1ba2b",
+  "signature": "9fcfd98d2bed5a6173bb9150f5909b5fbefc031bcf446e20494ee0e6b3c67439b4dfdbaeed93df8927e7fc76613284ecd2d5746b0f513fa6cb48fe495d58e20f",
+  "deb": "0.69.40/tex-suite_0.69.40-1_amd64.deb",
+  "rpm": "0.69.40/tex-suite-0.69.40-1.x86_64.rpm"
 }
