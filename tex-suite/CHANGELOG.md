@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.69.46 (2026-11-09) - Every film plays
+- **Every film plays the moment you add it,** on Windows and Linux: MP4, MKV, AVI and more, before Space Saver makes it smaller. Your films stay encrypted while they play.
+- **Windows updates itself, quietly:** TexMe downloads the update, checks it, puts it in place and opens again. No installer window, nothing to click.
+- **Windows: movie thumbnails** now appear by themselves.
+- **Pitch** draws your singing as a line instead of dots.
+
 ## 0.69.45 (2026-11-09) - A new look for TexChat
 - **TexChat, redesigned.** Messages sit on a quiet pattern of crosses, grouped by day ("Today", "Yesterday"), each in its bubble with its time.
 - **See how each message went:** a small clock while it waits to go, a tick once it is sent.
