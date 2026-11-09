@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.44",
+ "version": "0.69.45",
  "date": "2026-11-09",
- "title": "Chats that continue, and calmer Sermons",
- "notes": "- **Chats continue.** Once you've compared the code with someone, you're remembered on both sides: the next chat connects without a code.\n- **A dropped chat reconnects by itself** while their conversation is open and they're on the same network.\n- **Write even when they're away.** Your message waits, marked \"Waiting\", and goes as soon as you're connected again.\n- **See the speed of every file** in a chat: a live bar with how much has gone, the speed and the time left. Share & Sync shows the time left too.\n- **Send a file works every time,** also after a file that stopped half way.\n- **Choose when the screen locks** while creating your library. New libraries lock after 30 minutes unless you choose otherwise.\n- **Stopping a sermon recording no longer freezes TexMe.** The recording is kept in the background while you carry on.\n- **Examples & Testimonies now live inside each sermon,** under the sermon itself. Ones you kept before can be added to a sermon with one click.\n- **Fasting: \"I fasted today\"** marks the day, apart from \"End the fast\". Days you fasted turn green.\n- **Edit a fast:** change its kind, dates, hours, title or note.\n- **Windows updates inside TexMe:** the update downloads, is checked, and installs, with no trip to a web page.",
- "file": "0.69.44/Tex-Suite-Setup-0.69.44.exe",
- "size": 54348288,
- "sha256": "e732c2e690c04f7de2d1eb6b0fa1220715aa861b3e02fead27b9ecaf7630b25b",
- "signature": "5abf7152a1133225f69cb857b7feea59fd9af83de9a02d0873384ee62dae310ea40731a1f962058a0196f5ebd2888dd4756d2bca276f4b43387212e87d823a03"
+ "title": "A new look for TexChat",
+ "notes": "- **TexChat, redesigned.** Messages sit on a quiet pattern of crosses, grouped by day (\"Today\", \"Yesterday\"), each in its bubble with its time.\n- **See how each message went:** a small clock while it waits to go, a tick once it is sent.\n- **One bar to write:** a paperclip to send a file, the message, and a send button that lights up when there is something to send.\n- **Your own chat** has the same new look.\n- **A smaller download for Linux:** the same TexMe, with nothing extra packed beside it.",
+ "file": "0.69.45/Tex-Suite-Setup-0.69.45.exe",
+ "size": 54352384,
+ "sha256": "e72f9fd43e77fcbafe72f69ef472c887af72256680a2721a59d8a2fdba9cebab",
+ "signature": "c6b468bb9832f1a01e86c83f4ba61d11192de9f7bdba640dbc1e23576e3e9aace88bafe898be30aa8f3a9106bfa55231f1caea617431b96e0200f8a5713cc901"
 }
