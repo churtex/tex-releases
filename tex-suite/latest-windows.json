@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.43",
+ "version": "0.69.44",
  "date": "2026-11-09",
- "title": "Chat that holds",
- "notes": "- **Chat connects even when both of you press Open Chat at the same moment.** Before, each computer could keep a different connection and the chat ended with \"connection reset\".\n- **A chat that dropped is noticed within a minute,** and opening it again starts a fresh one at once.\n- **Plain words when a connection is cut,** with what to do next.\n- **Send to another device:** a new button in an item's details takes you straight to Share with that item chosen.\n- **Share items** now shows for every device nearby, your own ones too.",
- "file": "0.69.43/Tex-Suite-Setup-0.69.43.exe",
- "size": 54318592,
- "sha256": "e89393bd4ce6817e4bc6333606653ee97f413c93c57b75ddcdcc2025ca22bf10",
- "signature": "4761007c20e78d150d38ce3f0facffb3eb76013a7f8617915c6cf31c8aaa5142ba27fcc8de5d859f78e554aacbf36a4dfd293b8af5a32bf33e72e904e6aa4005"
+ "title": "Chats that continue, and calmer Sermons",
+ "notes": "- **Chats continue.** Once you've compared the code with someone, you're remembered on both sides: the next chat connects without a code.\n- **A dropped chat reconnects by itself** while their conversation is open and they're on the same network.\n- **Write even when they're away.** Your message waits, marked \"Waiting\", and goes as soon as you're connected again.\n- **See the speed of every file** in a chat: a live bar with how much has gone, the speed and the time left. Share & Sync shows the time left too.\n- **Send a file works every time,** also after a file that stopped half way.\n- **Choose when the screen locks** while creating your library. New libraries lock after 30 minutes unless you choose otherwise.\n- **Stopping a sermon recording no longer freezes TexMe.** The recording is kept in the background while you carry on.\n- **Examples & Testimonies now live inside each sermon,** under the sermon itself. Ones you kept before can be added to a sermon with one click.\n- **Fasting: \"I fasted today\"** marks the day, apart from \"End the fast\". Days you fasted turn green.\n- **Edit a fast:** change its kind, dates, hours, title or note.\n- **Windows updates inside TexMe:** the update downloads, is checked, and installs, with no trip to a web page.",
+ "file": "0.69.44/Tex-Suite-Setup-0.69.44.exe",
+ "size": 54348288,
+ "sha256": "e732c2e690c04f7de2d1eb6b0fa1220715aa861b3e02fead27b9ecaf7630b25b",
+ "signature": "5abf7152a1133225f69cb857b7feea59fd9af83de9a02d0873384ee62dae310ea40731a1f962058a0196f5ebd2888dd4756d2bca276f4b43387212e87d823a03"
 }
