@@ -1,5 +1,16 @@
 # Changelog
 
+## 0.69.49 (2026-11-10) - 50 more games, 140 in all
+- **Puzzle:** Mosaic, Loop, Lamplighter, Picture Logic, Fifteen, Clusters, Glide, Blockfit, Honeycomb, Crowns, Bridges, Jigsaw, Rings.
+- **Mind:** Tally, Typist, Reckon, Unscramble, Three Cups, Two by Two, Odd One, Magic Square, Letters, Five Letters, Scales, Target, Sequence.
+- **Board:** Chess, Dominoes, Four Homes, Hexlink, Lines.
+- **Action:** Trail, Breaker, Ribbons, Glowworm, Blast Grid.
+- **Strategy:** Shepherd, Rails, Market Stall, Gold Rush, Lighthouse.
+- **Sports:** Cue, Volley, Boules, Swell.
+- **Physics:** Pinball, Ripple, Snowball.
+- **Space:** Sky Lance. **Rhythm and reflex:** Highrise.
+- Kart, Pairs and other games that drew some shapes out of place now draw them where they belong.
+
 ## 0.69.48 (2026-11-10) - 20 more games, 90 in all
 - **Puzzle:** Pour, Flood, Five Alike, Way Out.
 - **Mind:** Knight Path, Jade Tiles, Wordfind.
