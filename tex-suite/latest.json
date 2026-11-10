@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.51",
+ "version": "0.70.0",
  "date": "2026-11-10",
- "title": "Pictures in every part of Pedia",
- "notes": "- **Pictures everywhere in Pedia:** every category now shows pictures, not only Health. 2,659 articles carry one: Health 1,074, Home 403, Survival 117, Make 369, Know 135, Rebuild 561. The 10 featured articles have pictures too. All of them are inside the app, with nothing to download.\n- Every picture comes from Wikimedia Commons under a free licence, with its credit shown beneath it.\n- **Windows:** the Setup now carries the video encoder, so films can be made smaller on Windows with nothing else to install.",
- "file": "0.69.51/tex-suite-0.69.51-linux-x86_64.tar.gz",
- "size": 79580638,
- "sha256": "e564844c9f65074ee75973cb2f1d0083f7ffa5ed012e2b7e55a495befc624c04",
- "signature": "40aab1e17916a59c7f9e2b2c22e41a3ba0272ddf7cfe477e777c1a634a94b9a84465efde8746aeac1fc79b14e700845b794c2f02a4b17c84fa8a0fa083feaa08"
+ "title": "Share from anywhere, chat that sends your library",
+ "notes": "- **Share on every film, series, song, book and photo:** it opens TexChat with the item ready to send.\n- **A new message bar:** the paperclip on the left opens Image / Video, File, Contact and TexFile; the send arrow sits inside the bar.\n- **TexFile:** pick from your library by Movies, Series, Music, Books, Photos & videos or Talks & documents, several at once. They go already small and arrive ready to watch, read or play.\n- **Contacts** can be sent in a chat as a short card.\n- **Nothing is made smaller twice:** films and songs that already came small (from another TexMe) are kept as they are.\n- **Sync** (was Share & Sync) is only for your own devices on your Tex ID.\n- **Prayer verses** in Daily Reading now follow the Bible version you chose.\n- **Pedia** shows its categories three to a row.\n- **Updates:** Check for updates is always on the page.\n- **Windows:** films are made smaller up to four at a time when there is memory for it, and the Windows Setup is much smaller.",
+ "file": "0.70.0/tex-suite-0.70.0-linux-x86_64.tar.gz",
+ "size": 79600154,
+ "sha256": "c74ad92669089b493e166d99bac0d598c4e46119aae178a986ac4a0625c69063",
+ "signature": "bb352b2f1423b5ba609bdefbf72d078fb0d542c7b491627e237f645078ebf67ad0c8718ded07c1e4d284ea752ffe5ebb74f824ae85ab7bc1bb0bdebf8f417f01"
 }

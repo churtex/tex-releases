@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.70.0 (2026-11-10) - Share from anywhere, chat that sends your library
+- **Share on every film, series, song, book and photo:** it opens TexChat with the item ready to send.
+- **A new message bar:** the paperclip on the left opens Image / Video, File, Contact and TexFile; the send arrow sits inside the bar.
+- **TexFile:** pick from your library by Movies, Series, Music, Books, Photos & videos or Talks & documents, several at once. They go already small and arrive ready to watch, read or play.
+- **Contacts** can be sent in a chat as a short card.
+- **Nothing is made smaller twice:** films and songs that already came small (from another TexMe) are kept as they are.
+- **Sync** (was Share & Sync) is only for your own devices on your Tex ID.
+- **Prayer verses** in Daily Reading now follow the Bible version you chose.
+- **Pedia** shows its categories three to a row.
+- **Updates:** Check for updates is always on the page.
+- **Windows:** films are made smaller up to four at a time when there is memory for it, and the Windows Setup is much smaller.
+
 ## 0.69.51 (2026-11-10) - Pictures in every part of Pedia
 - **Pictures everywhere in Pedia:** every category now shows pictures, not only Health. 2,659 articles carry one: Health 1,074, Home 403, Survival 117, Make 369, Know 135, Rebuild 561. The 10 featured articles have pictures too. All of them are inside the app, with nothing to download.
 - Every picture comes from Wikimedia Commons under a free licence, with its credit shown beneath it.
