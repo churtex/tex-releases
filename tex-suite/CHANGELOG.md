@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.69.51 (2026-11-10) - Pictures in every part of Pedia
+- **Pictures everywhere in Pedia:** every category now shows pictures, not only Health. 2,659 articles carry one: Health 1,074, Home 403, Survival 117, Make 369, Know 135, Rebuild 561. The 10 featured articles have pictures too. All of them are inside the app, with nothing to download.
+- Every picture comes from Wikimedia Commons under a free licence, with its credit shown beneath it.
+- **Windows:** the Setup now carries the video encoder, so films can be made smaller on Windows with nothing else to install.
+
 ## 0.69.50 (2026-11-10) - 60 more games: all 200
 - **Puzzle:** Binary, Greater, Skyline, Shade, Number Trail, Seedbed, Camp, Lily Pads, Colour In, Gears, Fence, Hex Turn, Shunting.
 - **Mind:** Cages, Clockwise, Shopkeeper, Signal Lamp, Books in Order, Palette, Twin Pictures, Join the Dots, Robot Steps, Cross Sums, Recall, Capitals, Counting Sheep.
