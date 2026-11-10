@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.71.0 (2026-11-10) - Your family, your home
+- **Family Tree, reborn:** the tree fills the page. Every card says how the person is related to you: Father, Grandmother, Uncle, Cousin, Sister-in-law.
+- **Colours that tell the story:** the lines follow each grandparent's line, the bar on each card shows the generation, and a soft red wash shows blood relatives, deeper the closer they are. Lights travel down the lines, parents to children.
+- **Every kind of family:** as many brothers and sisters as you have, adoptive, step and foster parents and guardians, a fiancée and her family, more than one marriage, divorced or widowed.
+- **A photo for everyone** in the tree, chosen from your Home photos.
+- **Click a person** to see them in a popup; adding or editing opens a full page, then takes you back to the tree.
+- **Timeline:** each person's life, year by year, with the milestones you add. Print their life story in words.
+- **Home is your private place:** one PIN opens all of it, leaving locks it again. 2FA codes, passwords and crypto ask once more, never twice in a row.
+- **TexChat:** the chat list in its own column, folding sections, Chat settings, and disappearing messages that start counting only once a message is read (1 hour to 12 months).
+- **TexAI** answers from what is on your device: Pedia, the Bible and help. It never goes online.
+- **TexSound** opens on a Home page with every tool and what it does. The Overview shows How loud beside Sound engineering analysis.
+- **Films play at once,** even before Space Saver makes them smaller. A film someone sends you plays straight away.
+- **Windows:** the Setup is back and much smaller.
+
 ## 0.70.0 (2026-11-10) - Share from anywhere, chat that sends your library
 - **Share on every film, series, song, book and photo:** it opens TexChat with the item ready to send.
 - **A new message bar:** the paperclip on the left opens Image / Video, File, Contact and TexFile; the send arrow sits inside the bar.
