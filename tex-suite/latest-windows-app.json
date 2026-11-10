@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.49",
+ "version": "0.69.50",
  "date": "2026-11-10",
- "title": "50 more games, 140 in all",
- "notes": "- **Puzzle:** Mosaic, Loop, Lamplighter, Picture Logic, Fifteen, Clusters, Glide, Blockfit, Honeycomb, Crowns, Bridges, Jigsaw, Rings.\n- **Mind:** Tally, Typist, Reckon, Unscramble, Three Cups, Two by Two, Odd One, Magic Square, Letters, Five Letters, Scales, Target, Sequence.\n- **Board:** Chess, Dominoes, Four Homes, Hexlink, Lines.\n- **Action:** Trail, Breaker, Ribbons, Glowworm, Blast Grid.\n- **Strategy:** Shepherd, Rails, Market Stall, Gold Rush, Lighthouse.\n- **Sports:** Cue, Volley, Boules, Swell.\n- **Physics:** Pinball, Ripple, Snowball.\n- **Space:** Sky Lance. **Rhythm and reflex:** Highrise.\n- Kart, Pairs and other games that drew some shapes out of place now draw them where they belong.",
- "file": "0.69.49/tex-suite-0.69.49-windows-x86_64.tar.xz",
- "size": 95585848,
- "sha256": "a2f933b7cda85884ba676862ab87186cc9eed9fd80c089f2d0d026348c17855e",
- "signature": "b9bd54b903e6ea9a10c9bb0d635ccff9cedbd5a569439993de67a343853591f3b1e41f66fd447cffd9a50b3793f8b1aa73c7e773ff01f9a838ef83eb8ac0230a"
+ "title": "60 more games: all 200",
+ "notes": "- **Puzzle:** Binary, Greater, Skyline, Shade, Number Trail, Seedbed, Camp, Lily Pads, Colour In, Gears, Fence, Hex Turn, Shunting.\n- **Mind:** Cages, Clockwise, Shopkeeper, Signal Lamp, Books in Order, Palette, Twin Pictures, Join the Dots, Robot Steps, Cross Sums, Recall, Capitals, Counting Sheep.\n- **Board:** Pyramid, Fairway, Eights, Nine Boards, Fox and Geese, Capture, Hop Home.\n- **Action:** Hillside, Pollen, Clay Shot, Paper Round.\n- **Strategy:** Lift, Crossroads, Bucket Line, Trade Winds, Village, Tide.\n- **Sports:** Ring Push, Field Day, Ski Jump, Spot Kick.\n- **Physics:** Balance, Peg Drop.\n- **Rhythm and reflex:** Snap, Rowers, Fireworks, Tightrope, Griddle, Tug of War.\n- **Racing and flight:** Balloon Ride, Regatta, Runway.\n- **Space:** Stargazer, Rover.",
+ "file": "0.69.50/tex-suite-0.69.50-windows-x86_64.tar.xz",
+ "size": 95655720,
+ "sha256": "7d9979d4de85259630739f95d9b222e847a8f8ece2da7ae690c7cab27647f658",
+ "signature": "497c4a2bc8eb5c6e3cc6b958d736c5e245e49ac1f2965802e83d2ca9180c3844650f68e5be304a92672b7d83c483108451b05a19fa3d1088ca385c6a905d6704"
 }
