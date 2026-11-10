@@ -1,11 +1,13 @@
 {
- "app": "tex-suite",
- "version": "0.71.0",
- "date": "2026-11-10",
- "title": "Your family, your home",
- "notes": "- **Family Tree, reborn:** the tree fills the page. Every card says how the person is related to you: Father, Grandmother, Uncle, Cousin, Sister-in-law.\n- **Colours that tell the story:** the lines follow each grandparent's line, the bar on each card shows the generation, and a soft red wash shows blood relatives, deeper the closer they are. Lights travel down the lines, parents to children.\n- **Every kind of family:** as many brothers and sisters as you have, adoptive, step and foster parents and guardians, a fiancée and her family, more than one marriage, divorced or widowed.\n- **A photo for everyone** in the tree, chosen from your Home photos.\n- **Click a person** to see them in a popup; adding or editing opens a full page, then takes you back to the tree.\n- **Timeline:** each person's life, year by year, with the milestones you add. Print their life story in words.\n- **Home is your private place:** one PIN opens all of it, leaving locks it again. 2FA codes, passwords and crypto ask once more, never twice in a row.\n- **TexChat:** the chat list in its own column, folding sections, Chat settings, and disappearing messages that start counting only once a message is read (1 hour to 12 months).\n- **TexAI** answers from what is on your device: Pedia, the Bible and help. It never goes online.\n- **TexSound** opens on a Home page with every tool and what it does. The Overview shows How loud beside Sound engineering analysis.\n- **Films play at once,** even before Space Saver makes them smaller. A film someone sends you plays straight away.\n- **Windows:** the Setup is back and much smaller.",
- "file": "0.71.0/tex-suite-0.71.0-linux-x86_64.tar.gz",
- "size": 79767446,
- "sha256": "f8322d5d7e8581d586a21c338b50e5a30a1fc2ed0da6c0ee9b5e750bf343f0ef",
- "signature": "eb424069afed6a0606a12c8b6cb3e341ed02c3085029eeec795129c15399531fc8ccf3fe22832e9e9da9508abd530a8d7e6e2ba16d06be54a1491889bc1dfa0e"
+  "app": "tex-suite",
+  "version": "0.71.0",
+  "date": "2026-11-10",
+  "title": "Your family, your home",
+  "notes": "- **Family Tree, reborn:** the tree fills the page. Every card says how the person is related to you: Father, Grandmother, Uncle, Cousin, Sister-in-law.\n- **Colours that tell the story:** the lines follow each grandparent's line, the bar on each card shows the generation, and a soft red wash shows blood relatives, deeper the closer they are. Lights travel down the lines, parents to children.\n- **Every kind of family:** as many brothers and sisters as you have, adoptive, step and foster parents and guardians, a fiancée and her family, more than one marriage, divorced or widowed.\n- **A photo for everyone** in the tree, chosen from your Home photos.\n- **Click a person** to see them in a popup; adding or editing opens a full page, then takes you back to the tree.\n- **Timeline:** each person's life, year by year, with the milestones you add. Print their life story in words.\n- **Home is your private place:** one PIN opens all of it, leaving locks it again. 2FA codes, passwords and crypto ask once more, never twice in a row.\n- **TexChat:** the chat list in its own column, folding sections, Chat settings, and disappearing messages that start counting only once a message is read (1 hour to 12 months).\n- **TexAI** answers from what is on your device: Pedia, the Bible and help. It never goes online.\n- **TexSound** opens on a Home page with every tool and what it does. The Overview shows How loud beside Sound engineering analysis.\n- **Films play at once,** even before Space Saver makes them smaller. A film someone sends you plays straight away.\n- **Windows:** the Setup is back and much smaller.",
+  "file": "0.71.0/tex-suite-0.71.0-linux-x86_64.tar.gz",
+  "size": 79767446,
+  "sha256": "f8322d5d7e8581d586a21c338b50e5a30a1fc2ed0da6c0ee9b5e750bf343f0ef",
+  "signature": "eb424069afed6a0606a12c8b6cb3e341ed02c3085029eeec795129c15399531fc8ccf3fe22832e9e9da9508abd530a8d7e6e2ba16d06be54a1491889bc1dfa0e",
+  "deb": "0.71.0/tex-suite_0.71.0-1_amd64.deb",
+  "rpm": "0.71.0/tex-suite-0.71.0-1.x86_64.rpm"
 }
