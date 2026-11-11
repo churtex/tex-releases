@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.69.50",
- "date": "2026-11-10",
- "title": "60 more games: all 200",
- "notes": "- **Puzzle:** Binary, Greater, Skyline, Shade, Number Trail, Seedbed, Camp, Lily Pads, Colour In, Gears, Fence, Hex Turn, Shunting.\n- **Mind:** Cages, Clockwise, Shopkeeper, Signal Lamp, Books in Order, Palette, Twin Pictures, Join the Dots, Robot Steps, Cross Sums, Recall, Capitals, Counting Sheep.\n- **Board:** Pyramid, Fairway, Eights, Nine Boards, Fox and Geese, Capture, Hop Home.\n- **Action:** Hillside, Pollen, Clay Shot, Paper Round.\n- **Strategy:** Lift, Crossroads, Bucket Line, Trade Winds, Village, Tide.\n- **Sports:** Ring Push, Field Day, Ski Jump, Spot Kick.\n- **Physics:** Balance, Peg Drop.\n- **Rhythm and reflex:** Snap, Rowers, Fireworks, Tightrope, Griddle, Tug of War.\n- **Racing and flight:** Balloon Ride, Regatta, Runway.\n- **Space:** Stargazer, Rover.",
- "file": "0.69.50/Tex-Suite-Setup-0.69.50.exe",
- "size": 96162816,
- "sha256": "6c2fdbb9cabd7a4023e3e079d00d4f46d8ef81070ad1a3113a34388b85dbf948",
- "signature": "b3c19b7323b2b9147ffdec78da56c7e38307575dc4d571561442f99b9f74c3043757b26d99756014dd002c8e9a9cd6854d7aa8e38d7b35f4bad3224580e4290f"
+ "version": "0.72.0",
+ "date": "2026-11-11",
+ "title": "Your TexAI, your licence",
+ "notes": "- **Your TexAI:** give TexAI a name, tell it how to call you and a little about you, choose short or full answers, and see what it remembers. Say \"remember that…\" or \"forget that…\" in the chat. Everything stays encrypted on your device and never goes online.\n- **TexAI settings** open from the person-and-gear button at the top of the TexAI chat. TexAI now has one place in the chatbot list.\n- **Honest about itself:** a small line under the message box says TexAI can give wrong answers and is not an adviser. Ask it whether it is a doctor, pastor, lawyer or counsellor, and it tells you plainly that it is not.\n- **Family Tree:** each family line keeps its own colour, women's cards in soft family pinks, and parents are chosen straight from the tree.\n- **Licence** comes first in Settings: your licence and what each plan gives you. Try TexMe free for 90 days, or own it for life for $40 per device, with a year of updates. Security fixes are free for everyone.\n- **Stronger libraries:** creating a library shows how strong your password is, from red to green, and says exactly why Create is not ready yet.",
+ "file": "0.72.0/TexMe-Setup-0.72.0.msi",
+ "size": 93986816,
+ "sha256": "f4adbb145a51e9ac1f4fee4e8f29a8e2c2f2983fde3b2077c8eb3138a170db37",
+ "signature": "9eca5524532decd7aa8f9b395de0cfccf023f3e4c488564bd11a8c05ea53a36682c2a0c5017989c891f925408523fd42be303f5ef4e25dc21a4b06bf00274d03"
 }
