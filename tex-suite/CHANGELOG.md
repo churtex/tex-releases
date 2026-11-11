@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.72.0 (2026-11-11) - Your TexAI, your licence
+- **Your TexAI:** give TexAI a name, tell it how to call you and a little about you, choose short or full answers, and see what it remembers. Say "remember that…" or "forget that…" in the chat. Everything stays encrypted on your device and never goes online.
+- **TexAI settings** open from the person-and-gear button at the top of the TexAI chat. TexAI now has one place in the chatbot list.
+- **Honest about itself:** a small line under the message box says TexAI can give wrong answers and is not an adviser. Ask it whether it is a doctor, pastor, lawyer or counsellor, and it tells you plainly that it is not.
+- **Family Tree:** each family line keeps its own colour, women's cards in soft family pinks, and parents are chosen straight from the tree.
+- **Licence** comes first in Settings: your licence and what each plan gives you. Try TexMe free for 90 days, or own it for life for $40 per device, with a year of updates. Security fixes are free for everyone.
+- **Stronger libraries:** creating a library shows how strong your password is, from red to green, and says exactly why Create is not ready yet.
+
 ## 0.71.0 (2026-11-10) - Your family, your home
 - **Family Tree, reborn:** the tree fills the page. Every card says how the person is related to you: Father, Grandmother, Uncle, Cousin, Sister-in-law.
 - **Colours that tell the story:** the lines follow each grandparent's line, the bar on each card shows the generation, and a soft red wash shows blood relatives, deeper the closer they are. Lights travel down the lines, parents to children.
