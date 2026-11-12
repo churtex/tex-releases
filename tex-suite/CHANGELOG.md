@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.73.0 (2026-11-12) - Cademy teaches, Support inside the app
+- **Cademy teaches step by step** in Counting to 10: each topic has four parts. **Watch** shows it done, **Together** practises it with the hint beside you and lets you try again when an answer is wrong, **On your own** practises until you get 9 of the last 10 right, and the **Quiz** checks it. Now and then a question brings back an earlier topic, so nothing is forgotten. More courses will teach this way as they are finished, one by one.
+- **The full plan of every class:** Classes 7, 8 and 9 now list every lesson of England's national curriculum for ages 11 to 14 (65 in maths, 137 in science, 34 in English), and Nursery covers all 17 early learning goals, with new topics such as getting dressed, holding a pencil, retelling a story and pretend play. Lessons still being written show "Coming soon".
+- **Smoother course pages:** pictures stay still until you point at them, then turn; pages use far less of your computer.
+- **Support:** New Request sends a question, a problem, feedback or an idea straight from the app. My Requests lists everything you sent, with its status, and a filter for each kind of request. Replies come inside the app with Priority Support.
+- **Texpto Wallet** lives in Home → Finance: keep your 12 or 24 recovery words safe, each box turning green when the word is right.
+- **Journal** moved to Home → Personal.
+- **TexChat:** official chats first, an unread count on the chat icon, your own names for people, and files you send show their progress inside the conversation.
+- **Pick up where you left off** fills the row from the left, whatever you were watching, reading or hearing.
+- **Daily Reading:** Skip & Read Later sits beside the version on the extra reading.
+- **Tools** shows only the tools that are ready.
+- **Message boxes** use the same letters and size as the fields beside them.
+- The bottom bar shows the version and when your library was last saved.
+- Dependencies: tex-ui 0.1.96, tex-sound 0.2.10, tex-games 0.1.30 (Tex's own parts, updated together).
+
 ## 0.72.0 (2026-11-11) - Your TexAI, your licence
 - **Your TexAI:** give TexAI a name, tell it how to call you and a little about you, choose short or full answers, and see what it remembers. Say "remember that…" or "forget that…" in the chat. Everything stays encrypted on your device and never goes online.
 - **TexAI settings** open from the person-and-gear button at the top of the TexAI chat. TexAI now has one place in the chatbot list.
