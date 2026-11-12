@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.73.1 (2026-11-12) - Cademy's class pages are light again
+- **All classes is quick again:** the page counted every lesson of every class many times a second, which made it slow and heavy. It now counts once, so it opens and scrolls smoothly. The page for each class is lighter too.
+
 ## 0.73.0 (2026-11-12) - Cademy teaches, Support inside the app
 - **Cademy teaches step by step** in Counting to 10: each topic has four parts. **Watch** shows it done, **Together** practises it with the hint beside you and lets you try again when an answer is wrong, **On your own** practises until you get 9 of the last 10 right, and the **Quiz** checks it. Now and then a question brings back an earlier topic, so nothing is forgotten. More courses will teach this way as they are finished, one by one.
 - **The full plan of every class:** Classes 7, 8 and 9 now list every lesson of England's national curriculum for ages 11 to 14 (65 in maths, 137 in science, 34 in English), and Nursery covers all 17 early learning goals, with new topics such as getting dressed, holding a pencil, retelling a story and pretend play. Lessons still being written show "Coming soon".
