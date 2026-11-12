@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.72.0",
- "date": "2026-11-11",
- "title": "Your TexAI, your licence",
- "notes": "- **Your TexAI:** give TexAI a name, tell it how to call you and a little about you, choose short or full answers, and see what it remembers. Say \"remember that…\" or \"forget that…\" in the chat. Everything stays encrypted on your device and never goes online.\n- **TexAI settings** open from the person-and-gear button at the top of the TexAI chat. TexAI now has one place in the chatbot list.\n- **Honest about itself:** a small line under the message box says TexAI can give wrong answers and is not an adviser. Ask it whether it is a doctor, pastor, lawyer or counsellor, and it tells you plainly that it is not.\n- **Family Tree:** each family line keeps its own colour, women's cards in soft family pinks, and parents are chosen straight from the tree.\n- **Licence** comes first in Settings: your licence and what each plan gives you. Try TexMe free for 90 days, or own it for life for $40 per device, with a year of updates. Security fixes are free for everyone.\n- **Stronger libraries:** creating a library shows how strong your password is, from red to green, and says exactly why Create is not ready yet.",
- "file": "0.72.0/TexMe-Setup-0.72.0.msi",
- "size": 93986816,
- "sha256": "f4adbb145a51e9ac1f4fee4e8f29a8e2c2f2983fde3b2077c8eb3138a170db37",
- "signature": "9eca5524532decd7aa8f9b395de0cfccf023f3e4c488564bd11a8c05ea53a36682c2a0c5017989c891f925408523fd42be303f5ef4e25dc21a4b06bf00274d03"
+ "version": "0.73.0",
+ "date": "2026-11-12",
+ "title": "Cademy teaches, Support inside the app",
+ "notes": "- **Cademy teaches step by step** in Counting to 10: each topic has four parts. **Watch** shows it done, **Together** practises it with the hint beside you and lets you try again when an answer is wrong, **On your own** practises until you get 9 of the last 10 right, and the **Quiz** checks it. Now and then a question brings back an earlier topic, so nothing is forgotten. More courses will teach this way as they are finished, one by one.\n- **The full plan of every class:** Classes 7, 8 and 9 now list every lesson of England's national curriculum for ages 11 to 14 (65 in maths, 137 in science, 34 in English), and Nursery covers all 17 early learning goals, with new topics such as getting dressed, holding a pencil, retelling a story and pretend play. Lessons still being written show \"Coming soon\".\n- **Smoother course pages:** pictures stay still until you point at them, then turn; pages use far less of your computer.\n- **Support:** New Request sends a question, a problem, feedback or an idea straight from the app. My Requests lists everything you sent, with its status, and a filter for each kind of request. Replies come inside the app with Priority Support.\n- **Texpto Wallet** lives in Home → Finance: keep your 12 or 24 recovery words safe, each box turning green when the word is right.\n- **Journal** moved to Home → Personal.\n- **TexChat:** official chats first, an unread count on the chat icon, your own names for people, and files you send show their progress inside the conversation.\n- **Pick up where you left off** fills the row from the left, whatever you were watching, reading or hearing.\n- **Daily Reading:** Skip & Read Later sits beside the version on the extra reading.\n- **Tools** shows only the tools that are ready.\n- **Message boxes** use the same letters and size as the fields beside them.\n- The bottom bar shows the version and when your library was last saved.\n- Dependencies: tex-ui 0.1.96, tex-sound 0.2.10, tex-games 0.1.30 (Tex's own parts, updated together).",
+ "file": "0.73.0/TexMe-Setup-0.73.0.msi",
+ "size": 94720000,
+ "sha256": "83cc75c51770dd0fc88fc5d9bad77cc9b7a74ea276d600962872cda9304779cc",
+ "signature": "ad2271e8673a8324a50f9cf942456b299f8ad2b0a9f2908c41529c87e00df07f2fb179aec5f8975e2c0dc164f8be68cc9b420c689e9527dc249e564c0d53400a"
 }
