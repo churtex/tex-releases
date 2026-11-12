@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.73.0",
+ "version": "0.73.1",
  "date": "2026-11-12",
- "title": "Cademy teaches, Support inside the app",
- "notes": "- **Cademy teaches step by step** in Counting to 10: each topic has four parts. **Watch** shows it done, **Together** practises it with the hint beside you and lets you try again when an answer is wrong, **On your own** practises until you get 9 of the last 10 right, and the **Quiz** checks it. Now and then a question brings back an earlier topic, so nothing is forgotten. More courses will teach this way as they are finished, one by one.\n- **The full plan of every class:** Classes 7, 8 and 9 now list every lesson of England's national curriculum for ages 11 to 14 (65 in maths, 137 in science, 34 in English), and Nursery covers all 17 early learning goals, with new topics such as getting dressed, holding a pencil, retelling a story and pretend play. Lessons still being written show \"Coming soon\".\n- **Smoother course pages:** pictures stay still until you point at them, then turn; pages use far less of your computer.\n- **Support:** New Request sends a question, a problem, feedback or an idea straight from the app. My Requests lists everything you sent, with its status, and a filter for each kind of request. Replies come inside the app with Priority Support.\n- **Texpto Wallet** lives in Home → Finance: keep your 12 or 24 recovery words safe, each box turning green when the word is right.\n- **Journal** moved to Home → Personal.\n- **TexChat:** official chats first, an unread count on the chat icon, your own names for people, and files you send show their progress inside the conversation.\n- **Pick up where you left off** fills the row from the left, whatever you were watching, reading or hearing.\n- **Daily Reading:** Skip & Read Later sits beside the version on the extra reading.\n- **Tools** shows only the tools that are ready.\n- **Message boxes** use the same letters and size as the fields beside them.\n- The bottom bar shows the version and when your library was last saved.\n- Dependencies: tex-ui 0.1.96, tex-sound 0.2.10, tex-games 0.1.30 (Tex's own parts, updated together).",
- "file": "0.73.0/TexMe-Setup-0.73.0.msi",
+ "title": "Cademy's class pages are light again",
+ "notes": "- **All classes is quick again:** the page counted every lesson of every class many times a second, which made it slow and heavy. It now counts once, so it opens and scrolls smoothly. The page for each class is lighter too.",
+ "file": "0.73.1/TexMe-Setup-0.73.1.msi",
  "size": 94720000,
- "sha256": "83cc75c51770dd0fc88fc5d9bad77cc9b7a74ea276d600962872cda9304779cc",
- "signature": "ad2271e8673a8324a50f9cf942456b299f8ad2b0a9f2908c41529c87e00df07f2fb179aec5f8975e2c0dc164f8be68cc9b420c689e9527dc249e564c0d53400a"
+ "sha256": "ceecf87a6e670f686a8a59c624b0f19f20adf414ceed180d8f0628c8365b6434",
+ "signature": "146feacf4868e2f8f2960e1a3059254f041f10ef77f6e4616d358e3a20c37ea7a7d87414dca854d39b9794b619229395652ce65f58464fba8e0ad9abeb74320d"
 }
