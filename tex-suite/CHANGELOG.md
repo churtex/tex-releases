@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.73.2 (2026-11-14) - Films play on Windows again
+- **Films open on Windows:** on Windows, films stopped with "the video part of TexMe is missing, install again". The video part was there, but it could not read the film as TexMe passes it along inside your computer. It is rebuilt to read it, and the message now says what really went wrong.
+
 ## 0.73.1 (2026-11-12) - Cademy's class pages are light again
 - **All classes is quick again:** the page counted every lesson of every class many times a second, which made it slow and heavy. It now counts once, so it opens and scrolls smoothly. The page for each class is lighter too.
 

@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.73.1",
- "date": "2026-11-12",
- "title": "Cademy's class pages are light again",
- "notes": "- **All classes is quick again:** the page counted every lesson of every class many times a second, which made it slow and heavy. It now counts once, so it opens and scrolls smoothly. The page for each class is lighter too.",
- "file": "0.73.1/tex-suite-0.73.1-linux-x86_64.tar.gz",
- "size": 80452674,
- "sha256": "8470cbea5e1dee2500701fbbe6dd0e3933a83c4ff981fb7ef467acdf1fdaa890",
- "signature": "bd0818c4cbfeb18fdb7ee4419de9dd312366d8a4192590f5eb8c3888e9914828f397d5b9721b35b4232f2d9ad44a55223fa6e2f7d6e85c105a470febdf78d807"
+ "version": "0.73.2",
+ "date": "2026-11-14",
+ "title": "Films play on Windows again",
+ "notes": "- **Films open on Windows:** on Windows, films stopped with \"the video part of TexMe is missing, install again\". The video part was there, but it could not read the film as TexMe passes it along inside your computer. It is rebuilt to read it, and the message now says what really went wrong.",
+ "file": "0.73.2/tex-suite-0.73.2-linux-x86_64.tar.gz",
+ "size": 80455502,
+ "sha256": "5b85e027188878c0a9c4a304cf83d064a0c2b7aae1ac3ecd8cc22d8b975538c3",
+ "signature": "f7f16a46a11aacf73e47914a80453f1a73f393ae4ba6901e9e8ab0f4ee01963f84310d7af305300ddd078c9fbaa2ee8b6eb8ef9aef1846f87dbeb415d7417803"
 }
