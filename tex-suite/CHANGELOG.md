@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.73.3 (2026-11-15) - Smooth again
+- **Smooth moving pictures:** when TexMe had been open for a long time, the unlock card's lines and other moving pictures moved in small jumps, as if stuck. They now stay smooth however long TexMe stays open.
+- Dependencies: tex-ui 0.1.97, tex-engine 0.30.67, tex-games 0.1.31, tex-sound 0.2.11 (Tex's own parts, updated together).
+
 ## 0.73.2 (2026-11-14) - Films play on Windows again
 - **Films open on Windows:** on Windows, films stopped with "the video part of TexMe is missing, install again". The video part was there, but it could not read the film as TexMe passes it along inside your computer. It is rebuilt to read it, and the message now says what really went wrong.
 
