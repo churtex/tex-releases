@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.75.0 (2026-11-16) - Add films three ways, smooth sound
+- **Import, three ways:** press Import and choose: **Choose files** yourself, **Choose a device** (a flash disk, phone or drive plugged in: Churtex finds its films), or **Scan this computer** (finds the films in your own folders that are not in Churtex yet).
+- **Safe by what is inside:** every file is checked by its contents, not its name. A program, script or archive named like a film is refused, and nothing found is ever opened or run. A search only looks; it never changes or moves your files.
+- **Smooth sound:** a film's sound no longer sticks now and then; the sound keeps flowing while the pictures catch up.
+- **The first screens speak your language:** Welcome and Create your library are in English and Kiswahili.
+- Dependencies: tex-engine 0.30.69 (Churtex's own part).
+
 ## 0.74.0 (2026-11-15) - Churtex
 - **TexMe is now Churtex.** The same app, with your library, settings and everything in it, under its new name. Created by Aniwene Madolomani.
 - **This device is yours:** Churtex ties your licence and everything you own to your computer's security chip, so nobody can copy it to another device. On Linux, Churtex asks once for your permission; your computer asks for your password, and nothing leaves the device. Churtex needs this to be used on a device. If it does not work, one press on **Report this problem** sends us what went wrong.
