@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.75.0",
+ "version": "0.75.1",
  "date": "2026-11-16",
- "title": "Add films three ways, smooth sound",
- "notes": "- **Import, three ways:** press Import and choose: **Choose files** yourself, **Choose a device** (a flash disk, phone or drive plugged in: Churtex finds its films), or **Scan this computer** (finds the films in your own folders that are not in Churtex yet).\n- **Safe by what is inside:** every file is checked by its contents, not its name. A program, script or archive named like a film is refused, and nothing found is ever opened or run. A search only looks; it never changes or moves your files.\n- **Smooth sound:** a film's sound no longer sticks now and then; the sound keeps flowing while the pictures catch up.\n- **The first screens speak your language:** Welcome and Create your library are in English and Kiswahili.\n- Dependencies: tex-engine 0.30.69 (Churtex's own part).",
- "file": "0.75.0/tex-suite-0.75.0-windows-x86_64.tar.xz",
- "size": 77934140,
- "sha256": "b1d35186c5fe51221ff358cc7c9793c5fec253f68547d08a9c8e52274adacddb",
- "signature": "5fed0acafc57bce75974556a241cc6bdd79c0805563df820ad39e0d90fb75af86cfd327a3d90f039508285e23f4b0601e4cd44892f5f9e8c008f299656ed4309"
+ "title": "Steadier sound",
+ "notes": "- **Steadier sound on busy computers:** the speakers keep a little more sound ready, so a short pause of a computer with little memory free no longer breaks the sound.\n- **A clearer promise:** the forgotten-password notice now says nobody can recover it, not even us.\n- Dependencies: tex-engine 0.30.70 (Churtex's own part).",
+ "file": "0.75.1/tex-suite-0.75.1-windows-x86_64.tar.xz",
+ "size": 77937584,
+ "sha256": "cbfd3a53fd71d70451aec15f76e49bea77e1a94e25f0fc0e24273f5940c3acfe",
+ "signature": "b4380387801534f479635346419aa4716e4acc4b9b395fd85572ec08fdcb5644097830a8f6772ef527fd682b0da6b1704380e494b3ae7b1c4daed058522b3b0f"
 }
