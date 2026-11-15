@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.74.0",
- "date": "2026-11-15",
- "title": "Churtex",
- "notes": "- **TexMe is now Churtex.** The same app, with your library, settings and everything in it, under its new name. Created by Aniwene Madolomani.\n- **This device is yours:** Churtex ties your licence and everything you own to your computer's security chip, so nobody can copy it to another device. On Linux, Churtex asks once for your permission; your computer asks for your password, and nothing leaves the device. Churtex needs this to be used on a device. If it does not work, one press on **Report this problem** sends us what went wrong.\n- **Locked out?** The unlock screen has **I'm locked out**: it says plainly what can and cannot be done, and **Import a backup** brings a backup back in. **Report a problem** is there too, without unlocking.\n- **A clear promise when you start:** making your library says plainly that nobody can recover a forgotten password, and to keep a backup.\n- **English and Kiswahili:** the two languages of Churtex. Kiswahili opens as soon as every screen is translated.\n- **Cademy teaches far more:** Maths for Classes 1 to 6 and English for Classes 1 to 4 now teach lesson by lesson: Watch, Together, On your own and the Quiz, the way Counting to 10 does.\n- **TexChat:** start a chat with a request instead of a code; the other person accepts or declines. One chat per person, even when they use more than one device. Right-click a message to reply, react, copy, forward, delete or see its details. The message box holds the attach and send buttons, and you can attach files in your own chat too.\n- **Voice Studio:** My voice, and fairer training.\n- **No more green dots** on the side buttons after updates.\n- **The unlock card stands still:** it no longer shakes by a pixel, and the lock screen shows one card at a time.\n- Dependencies: tex-ui 0.1.97, tex-engine 0.30.68, tex-games 0.1.31, tex-sound 0.2.12 (Churtex's own parts, updated together).",
- "file": "0.74.0/tex-suite-0.74.0-windows-x86_64.tar.xz",
- "size": 77913704,
- "sha256": "6cac508106e733471bba2eaf303e5aac2aa75df79c14048713f57229ee32481b",
- "signature": "36f423d72f9a518937f8157a38114979a6ed51798b40ce2bdda4fb2a1c4a8f78e30d4a32ce3e0bd43c59e5c4577ccb0bd0f1eac408c7578f67d022955cef3207"
+ "version": "0.75.0",
+ "date": "2026-11-16",
+ "title": "Add films three ways, smooth sound",
+ "notes": "- **Import, three ways:** press Import and choose: **Choose files** yourself, **Choose a device** (a flash disk, phone or drive plugged in: Churtex finds its films), or **Scan this computer** (finds the films in your own folders that are not in Churtex yet).\n- **Safe by what is inside:** every file is checked by its contents, not its name. A program, script or archive named like a film is refused, and nothing found is ever opened or run. A search only looks; it never changes or moves your files.\n- **Smooth sound:** a film's sound no longer sticks now and then; the sound keeps flowing while the pictures catch up.\n- **The first screens speak your language:** Welcome and Create your library are in English and Kiswahili.\n- Dependencies: tex-engine 0.30.69 (Churtex's own part).",
+ "file": "0.75.0/tex-suite-0.75.0-windows-x86_64.tar.xz",
+ "size": 77934140,
+ "sha256": "b1d35186c5fe51221ff358cc7c9793c5fec253f68547d08a9c8e52274adacddb",
+ "signature": "5fed0acafc57bce75974556a241cc6bdd79c0805563df820ad39e0d90fb75af86cfd327a3d90f039508285e23f4b0601e4cd44892f5f9e8c008f299656ed4309"
 }
