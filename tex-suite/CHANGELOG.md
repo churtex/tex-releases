@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.75.1 (2026-11-16) - Steadier sound
+- **Steadier sound on busy computers:** the speakers keep a little more sound ready, so a short pause of a computer with little memory free no longer breaks the sound.
+- **A clearer promise:** the forgotten-password notice now says nobody can recover it, not even us.
+- Dependencies: tex-engine 0.30.70 (Churtex's own part).
+
 ## 0.75.0 (2026-11-16) - Add films three ways, smooth sound
 - **Import, three ways:** press Import and choose: **Choose files** yourself, **Choose a device** (a flash disk, phone or drive plugged in: Churtex finds its films), or **Scan this computer** (finds the films in your own folders that are not in Churtex yet).
 - **Safe by what is inside:** every file is checked by its contents, not its name. A program, script or archive named like a film is refused, and nothing found is ever opened or run. A search only looks; it never changes or moves your files.
