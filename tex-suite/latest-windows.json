@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.73.2",
- "date": "2026-11-14",
- "title": "Films play on Windows again",
- "notes": "- **Films open on Windows:** on Windows, films stopped with \"the video part of TexMe is missing, install again\". The video part was there, but it could not read the film as TexMe passes it along inside your computer. It is rebuilt to read it, and the message now says what really went wrong.",
- "file": "0.73.2/TexMe-Setup-0.73.2.msi",
- "size": 94875648,
- "sha256": "fdb61386685384584e2e6ffc2ae27c78e87f093e4192e863c2b7b1d54a00d42b",
- "signature": "7a9829943b37695b796d8e26a9bf5ad852bd09849f628971b5626cfc3dd64b5542d11c8c8469612d1c72e052181242b721d0a1f42c4575aa716c484941829109"
+ "version": "0.73.3",
+ "date": "2026-11-15",
+ "title": "Smooth again",
+ "notes": "- **Smooth moving pictures:** when TexMe had been open for a long time, the unlock card's lines and other moving pictures moved in small jumps, as if stuck. They now stay smooth however long TexMe stays open.\n- Dependencies: tex-ui 0.1.97, tex-engine 0.30.67, tex-games 0.1.31, tex-sound 0.2.11 (Tex's own parts, updated together).",
+ "file": "0.73.3/TexMe-Setup-0.73.3.msi",
+ "size": 94924800,
+ "sha256": "40a4ab4a2f01bf07fc9c238907ee6fafc7fb4f4251d1c3de531fd863d68362fa",
+ "signature": "6b8fa2e72d8c1e84bcbc38c4a9f79e1c3b8d7a35b0be632dab4a2d747413eec5766d1899c5563376536876d761059b906d9600b2fdc2929ef776cb6a7f70fa08"
 }
