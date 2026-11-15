@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.73.3",
+ "version": "0.74.0",
  "date": "2026-11-15",
- "title": "Smooth again",
- "notes": "- **Smooth moving pictures:** when TexMe had been open for a long time, the unlock card's lines and other moving pictures moved in small jumps, as if stuck. They now stay smooth however long TexMe stays open.\n- Dependencies: tex-ui 0.1.97, tex-engine 0.30.67, tex-games 0.1.31, tex-sound 0.2.11 (Tex's own parts, updated together).",
- "file": "0.73.3/tex-suite-0.73.3-linux-x86_64.tar.gz",
- "size": 80490489,
- "sha256": "412edc978d075175b395c69fa622de9b9642faf1cdf7570d76b1250b1ac49533",
- "signature": "783322dbb41be97e99ce47ea88064010c5a4e5b96d3b0332c1b6847fb7013a5899443cb23088896f5deb840b0ab974eb4e6479b59e04c3ac34c7da6b652bc80c"
+ "title": "Churtex",
+ "notes": "- **TexMe is now Churtex.** The same app, with your library, settings and everything in it, under its new name. Created by Aniwene Madolomani.\n- **This device is yours:** Churtex ties your licence and everything you own to your computer's security chip, so nobody can copy it to another device. On Linux, Churtex asks once for your permission; your computer asks for your password, and nothing leaves the device. Churtex needs this to be used on a device. If it does not work, one press on **Report this problem** sends us what went wrong.\n- **Locked out?** The unlock screen has **I'm locked out**: it says plainly what can and cannot be done, and **Import a backup** brings a backup back in. **Report a problem** is there too, without unlocking.\n- **A clear promise when you start:** making your library says plainly that nobody can recover a forgotten password, and to keep a backup.\n- **English and Kiswahili:** the two languages of Churtex. Kiswahili opens as soon as every screen is translated.\n- **Cademy teaches far more:** Maths for Classes 1 to 6 and English for Classes 1 to 4 now teach lesson by lesson: Watch, Together, On your own and the Quiz, the way Counting to 10 does.\n- **TexChat:** start a chat with a request instead of a code; the other person accepts or declines. One chat per person, even when they use more than one device. Right-click a message to reply, react, copy, forward, delete or see its details. The message box holds the attach and send buttons, and you can attach files in your own chat too.\n- **Voice Studio:** My voice, and fairer training.\n- **No more green dots** on the side buttons after updates.\n- **The unlock card stands still:** it no longer shakes by a pixel, and the lock screen shows one card at a time.\n- Dependencies: tex-ui 0.1.97, tex-engine 0.30.68, tex-games 0.1.31, tex-sound 0.2.12 (Churtex's own parts, updated together).",
+ "file": "0.74.0/tex-suite-0.74.0-linux-x86_64.tar.gz",
+ "size": 82148939,
+ "sha256": "0a9f99e773fa35654a0646f77620c235153ad8a4af7f14fc6811e976639f4fb5",
+ "signature": "5d86abc369ce0dec34f3fb46b430a4cd287809ad51d49530f5ea96f516f419a6a92c7214e5dae0f982e5d57d70378b5f45a5a667237bf1f772a93e89550f2c0a"
 }

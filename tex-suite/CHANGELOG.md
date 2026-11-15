@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.74.0 (2026-11-15) - Churtex
+- **TexMe is now Churtex.** The same app, with your library, settings and everything in it, under its new name. Created by Aniwene Madolomani.
+- **This device is yours:** Churtex ties your licence and everything you own to your computer's security chip, so nobody can copy it to another device. On Linux, Churtex asks once for your permission; your computer asks for your password, and nothing leaves the device. Churtex needs this to be used on a device. If it does not work, one press on **Report this problem** sends us what went wrong.
+- **Locked out?** The unlock screen has **I'm locked out**: it says plainly what can and cannot be done, and **Import a backup** brings a backup back in. **Report a problem** is there too, without unlocking.
+- **A clear promise when you start:** making your library says plainly that nobody can recover a forgotten password, and to keep a backup.
+- **English and Kiswahili:** the two languages of Churtex. Kiswahili opens as soon as every screen is translated.
+- **Cademy teaches far more:** Maths for Classes 1 to 6 and English for Classes 1 to 4 now teach lesson by lesson: Watch, Together, On your own and the Quiz, the way Counting to 10 does.
+- **TexChat:** start a chat with a request instead of a code; the other person accepts or declines. One chat per person, even when they use more than one device. Right-click a message to reply, react, copy, forward, delete or see its details. The message box holds the attach and send buttons, and you can attach files in your own chat too.
+- **Voice Studio:** My voice, and fairer training.
+- **No more green dots** on the side buttons after updates.
+- **The unlock card stands still:** it no longer shakes by a pixel, and the lock screen shows one card at a time.
+- Dependencies: tex-ui 0.1.97, tex-engine 0.30.68, tex-games 0.1.31, tex-sound 0.2.12 (Churtex's own parts, updated together).
+
 ## 0.73.3 (2026-11-15) - Smooth again
 - **Smooth moving pictures:** when TexMe had been open for a long time, the unlock card's lines and other moving pictures moved in small jumps, as if stuck. They now stay smooth however long TexMe stays open.
 - Dependencies: tex-ui 0.1.97, tex-engine 0.30.67, tex-games 0.1.31, tex-sound 0.2.11 (Tex's own parts, updated together).
