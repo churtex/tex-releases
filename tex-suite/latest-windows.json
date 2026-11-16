@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "0.75.1",
+ "version": "0.76.0",
  "date": "2026-11-16",
- "title": "Steadier sound",
- "notes": "- **Steadier sound on busy computers:** the speakers keep a little more sound ready, so a short pause of a computer with little memory free no longer breaks the sound.\n- **A clearer promise:** the forgotten-password notice now says nobody can recover it, not even us.\n- Dependencies: tex-engine 0.30.70 (Churtex's own part).",
- "file": "0.75.1/Churtex-Setup-0.75.1.msi",
- "size": 97001472,
- "sha256": "5f385405fe761ba08d1fd98292cab3acfd11189220c006207391a32313d22bcd",
- "signature": "92ca69a1aa730dc6398f917312ce1544c55b81b0b9b855cf9c5ef78164392c1d0a054fd38213d7cb3bfff71bff72853c6dc4cfa09d42e704e1e2161c44ac850c"
+ "title": "Your devices, together",
+ "notes": "- **Sync, for your own devices only:** up to five of your devices, each with its Churtex licence from ASI Portal. The Sync page shows how many are in step, for example \"3 of 5 devices synced\".\n- **Your devices learn each other:** every sync also shares which of your devices are in step, so after syncing A with B and B with C, all three know each other.\n- **Send files:** conversations now carry files only: a file, a photo or video, or something from your Churtex library. Typing and calls are gone.\n- **A lighter security chip notice:** one short line, then the facts on their own rows.\n- **Help you can see:** \"I'm locked out\" and \"Report a problem\" now sit inside the unlock card, with the version.\n- **The bell's number** sits on its corner and never hides the bell on a small screen.\n- **Gem Cascade, more to play:** four gems in a square leave a Bomb, four in a line a Blaster, five in a line a Star, and they set each other off.\n- **Sled:** tap to hop over rocks, hold to lean for speed.\n- Dependencies: tex-ui 0.1.98, tex-games 0.1.32, tex-sound 0.2.13 (Churtex's own parts).",
+ "file": "0.76.0/Churtex-Setup-0.76.0.msi",
+ "size": 97017856,
+ "sha256": "043f5347113e35be4c336af205df62b65b2fe932b814d331e4fcbbf9e0ca7e69",
+ "signature": "5cc1d2ea9de400cecf49ac20daa4472eeb780fa135060a7a30aa6dbb3b1f2aca20a29b0c691fa5a5501c9697a4aa0f5242a5d4e0c954f1376574321b56c14707"
 }
