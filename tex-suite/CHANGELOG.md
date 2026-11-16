@@ -1,5 +1,17 @@
 # Changelog
 
+## 0.76.0 (2026-11-16) - Your devices, together
+- **Sync, for your own devices only:** up to five of your devices, each with its Churtex licence from ASI Portal. The Sync page shows how many are in step, for example "3 of 5 devices synced".
+- **Your devices learn each other:** every sync also shares which of your devices are in step, so after syncing A with B and B with C, all three know each other.
+- **Send files:** conversations now carry files only: a file, a photo or video, or something from your Churtex library. Typing and calls are gone.
+- **A lighter security chip notice:** one short line, then the facts on their own rows.
+- **Help you can see:** "I'm locked out" and "Report a problem" now sit inside the unlock card, with the version.
+- **The bell's number** sits on its corner and never hides the bell on a small screen.
+- **Gem Cascade, more to play:** four gems in a square leave a Bomb, four in a line a Blaster, five in a line a Star, and they set each other off.
+- **Sled:** tap to hop over rocks, hold to lean for speed.
+- Dependencies: tex-ui 0.1.98, tex-games 0.1.32, tex-sound 0.2.13 (Churtex's own parts).
+
+
 ## 0.75.1 (2026-11-16) - Steadier sound
 - **Steadier sound on busy computers:** the speakers keep a little more sound ready, so a short pause of a computer with little memory free no longer breaks the sound.
 - **A clearer promise:** the forgotten-password notice now says nobody can recover it, not even us.
