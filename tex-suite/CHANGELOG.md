@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.76.1 (2026-11-16) - Your films, safe and playing
+- **Films made smaller play again.** When Space Saver finished a film while the screen had locked and was unlocked, the library still pointed at the film's old file, which Space Saver had just replaced, and the film would not open. Every change to your library now starts from the newest list on disk, so this cannot happen again.
+- **Nothing drops out of your library.** An import, Space Saver, a cancel or closing Churtex could write an older copy of the library list over a newer one, and a film could disappear while its file was still there. That is fixed, and Churtex now looks for such films at every start and puts them back, with their title: "1 film found and put back in your library". Nothing is ever deleted.
+- **Churtex's own video programs on Linux too.** Every Linux download (the in-app update, the .deb and the .rpm) now carries Churtex's own ffmpeg, ffprobe and AV1 encoder, as Windows does; installs that update get them by themselves. They are signed like the app, and a changed copy is never used.
+- **Space Saver works on Windows.** Windows' video programs are rebuilt with everything Space Saver needs (AV1 decoding, the picture check and the sound file it writes); before, no film could be made smaller there.
+- **Small films and songs stored compressed now play.** The player used to get the compressed bytes.
+- **Words that say what really went wrong** when a film cannot play, with what fixes it (for example Settings → Updates), never "install again" when that would not help.
+- **A release goes out whole or not at all:** the publish step now opens every package (Linux update, .deb, .rpm, Windows installer and update) and refuses unless each carries every part.
+- **Import window, with room to breathe:** the window to choose files, a device or a scan of this computer is now Tex's own choice window. Each choice is a row with its icon, and no words touch the window's edges, also on a narrow window.
+- A test keeps every window and popup a Tex part: the app may not build its own. Every floating piece (notices, menus, a film's Info, a family member's card, a book's Continue button and bookmarks, the Bible's version bar, the unlock opening) is now one too; bookmarks read "Page 12 | top".
+- Security review: the repair at start only reads files in the library's own items folder with the owner's key (a file it cannot open is left alone) and never deletes; the media programs are checked against Churtex's release signature before they are started; the library lock file holds no data.
+- Dependencies: tex-engine 0.30.72, tex-ui 0.1.100, tex-games 0.1.34, tex-sound 0.2.15 (Churtex's own parts); bundled: FFmpeg 7.1.1, dav1d 1.5.1, libvmaf 3.0.0, Opus 1.5.2, zlib 1.3.1, SVT-AV1 2.3.0 (named in THIRD_PARTY.md).
+
 ## 0.76.0 (2026-11-16) - Your devices, together
 - **Sync, for your own devices only:** up to five of your devices, each with its Churtex licence from ASI Portal. The Sync page shows how many are in step, for example "3 of 5 devices synced".
 - **Your devices learn each other:** every sync also shares which of your devices are in step, so after syncing A with B and B with C, all three know each other.
