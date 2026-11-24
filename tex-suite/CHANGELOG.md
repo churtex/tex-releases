@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.77.0 (2026-11-23) - Texai, your own assistant
+- **Texai Chat:** your own assistant, thinking right on this device. A one-time download of 1.3 GB (Qwen3.5 2B, Apache 2.0), then it works with no internet, reading Pedia and the Bible for you. Have it on a flash disk? Choose file.
+- **Texai wakes in about a second:** its mind is read straight from its file instead of copied, and what it has read of its instructions is kept, so only your question is read each time.
+- **Up-to-date answers when On-Grid:** questions about things that change (who leads a country now, prices, news) and questions Pedia does not cover are looked up on the web first; the source shows in small letters under the answer. Today's news comes from BBC News. Off-Grid, Texai says plainly when what it knows may be out of date, and never guesses names, dates or numbers.
+- **A chat like any other:** right-click a message to react, reply or copy; a reply shows the message it answers, and Texai knows which one you mean. Texai reacts too (a sad face for sad news, praying hands for a prayer request) and tags the message it answers.
+- **Many chats:** up to 25, kept encrypted on this device, in a table with their last answer, messages and when; rename or remove any of them.
+- **Texai's page:** white, its header fixed at the top, only the talk scrolls, the box to type in at the foot with the cursor already in it.
+- **Account inside Churtex:** sign in to your A S I account in the app; this device is licensed and approved by signing in, with no extra step. Account, My Profile and My Device are in Settings.
+- **The licence code types itself in,** one letter to a box, each box turning green as it is checked.
+- **On-Grid and Off-Grid,** the same words everywhere, at the bottom left and in every message.
+- **Shapes:** Appearance → Shape: Rounded (the default) or Chamfer, for buttons, cards, bubbles and panels alike.
+- **Tools in sections:** Office Workspace (Tex Word, Tex DB and the rest, coming soon), Be Prepared (Checklists and Storage, with one page from 6 months to 7 years), Navigation (Compass, World Map, Clock and Sunrise).
+- **Films smooth again:** every picture of a film is shown (24 a second for most films). Since 0.75.1 the player's clock moved in steps, and on many computers only every second picture reached the screen; music and films not yet made smaller keep time the same smooth way.
+- **Neater forms:** every label sits on one line over its box, and every box and button in a row lines up; scroll bars keep their gap from the page.
+- **Games:** Pour lets you pour into any glass with room, and the colours look like liquid.
+- **Group singing:** the modes are named Single, Choir and Choir & Music.
+- Dependencies: tex-engine 0.30.74, tex-ui 0.1.105, tex-games 0.1.38, tex-sound 0.2.19 (Churtex's own parts); Texai's mind: Qwen3.5 2B Q4_K_M (Apache 2.0, by the Qwen team, file from unsloth).
+
 ## 0.76.1 (2026-11-16) - Your films, safe and playing
 - **Films made smaller play again.** When Space Saver finished a film while the screen had locked and was unlocked, the library still pointed at the film's old file, which Space Saver had just replaced, and the film would not open. Every change to your library now starts from the newest list on disk, so this cannot happen again.
 - **Nothing drops out of your library.** An import, Space Saver, a cancel or closing Churtex could write an older copy of the library list over a newer one, and a film could disappear while its file was still there. That is fixed, and Churtex now looks for such films at every start and puts them back, with their title: "1 film found and put back in your library". Nothing is ever deleted.
