@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "1.0.1",
+ "version": "1.0.2",
  "date": "2026-11-27",
- "title": "Steady and clear",
- "notes": "- **Sign in, perfectly still.** The sign-in box on the Account page now stands calm and steady, and so does the unlock card.\n- **Free means free.** My Device and your licence no longer count down days: Churtex is free, and anything extra you choose on churtex.org opens the moment you sign in.",
- "file": "1.0.1/tex-suite-1.0.1-linux-x86_64.tar.xz",
- "size": 87206336,
- "sha256": "a28653bf4bcadd2ba600e278f1d7e648086bbc3e192000777d15dedaa5daf9d7",
- "signature": "669b63dabf9ff1041c6b429b9a417111099866085ef1c60bd0d52fd221bb25c444e454ad2376f20981bd7cd45dacbaeab2bc4d663066302e15ac6c4067d41b01"
+ "title": "Still and simple",
+ "notes": "- **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.",
+ "file": "1.0.2/tex-suite-1.0.2-linux-x86_64.tar.xz",
+ "size": 87173096,
+ "sha256": "2bba4ffbb4608deca29f09f9894c3ca7026fbfa6a59e6f0c39be007df7cc12e6",
+ "signature": "8da5623f25487784efd9ba2dae067c2e131600a73ec18b85332c9d2a071244685a3d43dbb345b856ad83abe71b2e76aaad01cf700614a8e8483650620448ba0b"
 }

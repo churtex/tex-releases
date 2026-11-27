@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.2 (2026-11-27) - Still and simple
+- **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.
+
 ## 1.0.1 (2026-11-27) - Steady and clear
 - **Sign in, perfectly still.** The sign-in box on the Account page now stands calm and steady, and so does the unlock card.
 - **Free means free.** My Device and your licence no longer count down days: Churtex is free, and anything extra you choose on churtex.org opens the moment you sign in.
