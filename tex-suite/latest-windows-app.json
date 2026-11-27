@@ -1,13 +1,13 @@
 {
  "app": "tex-suite",
- "version": "1.0.1",
+ "version": "1.0.2",
  "date": "2026-11-27",
- "title": "Steady and clear",
- "notes": "- **Sign in, perfectly still.** The sign-in box on the Account page now stands calm and steady, and so does the unlock card.\n- **Free means free.** My Device and your licence no longer count down days: Churtex is free, and anything extra you choose on churtex.org opens the moment you sign in.",
- "file": "1.0.1/tex-suite-1.0.1-windows-x86_64.tar.xz",
- "size": 85669064,
- "sha256": "0ae1ead24e731c1d9cd3447a9377635c68a180244f468279b68df4bdf03222eb",
- "signature": "000396f129d3e77db0777aabb1f6cb5365c284b52f5f81791208110d409022031abeb59a45232b5c203f13f2fb5f7542b6825a97486ca8baea54a7e76e95f103",
- "setup": "https://churtex.org/download/1.0.1/Churtex-Setup-1.0.1.msi",
- "setup_size": 108965888
+ "title": "Still and simple",
+ "notes": "- **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.",
+ "file": "1.0.2/tex-suite-1.0.2-windows-x86_64.tar.xz",
+ "size": 85672520,
+ "sha256": "ac2d31358dc937314bcbfa88c877dd179ce4cc104e5a8cfa198aaa54d5a55480",
+ "signature": "59f1f2e721eb900d05194290c20e3b75f59f0730f506c38e8994535a831aa9f307958701c5cd5bb0031d7f4d0878269391c80ea487f36f0b06083ccb68866a02",
+ "setup": "https://churtex.org/download/1.0.2/Churtex-Setup-1.0.2.msi",
+ "setup_size": 108949504
 }
