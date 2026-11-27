@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4 (2026-11-27) - Only what is ready
+- **Anivo shows only what is finished.** Its menu now holds just the parts that are ready for you, like every other menu in Churtex.
+- **Tainment welcomes you by name.** An empty Tainment now greets you with "Welcome to Tainment".
+- **Every list fits, and you can type.** Dropdowns now stay on screen with every name in reach, and where you can add one, just type it: a new preacher, ministry or category is added in one step.
+
 ## 1.0.3 (2026-11-27) - The opening returns
 - **The way in, alive again.** The moment your password is accepted, the lines race deep into the centre and your card tears away like paper, and a burst of light opens into Churtex. Before that, the sign-in page stays perfectly still.
 
