@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.0.3 (2026-11-27) - The opening returns
+- **The way in, alive again.** The moment your password is accepted, the lines race deep into the centre and your card tears away like paper, and a burst of light opens into Churtex. Before that, the sign-in page stays perfectly still.
+
 ## 1.0.2 (2026-11-27) - Still and simple
 - **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.
 

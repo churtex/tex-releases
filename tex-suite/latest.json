@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "1.0.2",
+ "version": "1.0.3",
  "date": "2026-11-27",
- "title": "Still and simple",
- "notes": "- **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.",
- "file": "1.0.2/tex-suite-1.0.2-linux-x86_64.tar.xz",
- "size": 87173096,
- "sha256": "2bba4ffbb4608deca29f09f9894c3ca7026fbfa6a59e6f0c39be007df7cc12e6",
- "signature": "8da5623f25487784efd9ba2dae067c2e131600a73ec18b85332c9d2a071244685a3d43dbb345b856ad83abe71b2e76aaad01cf700614a8e8483650620448ba0b"
+ "title": "The opening returns",
+ "notes": "- **The way in, alive again.** The moment your password is accepted, the lines race deep into the centre and your card tears away like paper, and a burst of light opens into Churtex. Before that, the sign-in page stays perfectly still.",
+ "file": "1.0.3/tex-suite-1.0.3-linux-x86_64.tar.xz",
+ "size": 87186740,
+ "sha256": "cfc35f806ac5ba8d7a9768082c37da2ae648c9f4785cae32d872ab0fbbae969f",
+ "signature": "dd4f17ed3ae52aa4e4fb70ee70a2c1b4fdd320d7dd4fce71a6e445bc4fe32ad88f3b11d0a7d508676f63300826f4b3f2daf13de6e02176b7a8069bb66d3add0a"
 }
