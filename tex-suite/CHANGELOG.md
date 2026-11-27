@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.0.0 (2026-11-25) - Churtex 1.0
+- **Churtex 1.0. Finished, and free.** Every part you see is ready: Anivo, Home, Pedia, Tools, Texai, Share Files, Tainment and Settings. What is still being built stays out of sight until it is just as ready.
+- **Tainment, reborn as a lobby.** The banner turns by itself every eight seconds, each picture fading in and slowly drawing you closer; it holds still while your mouse rests on it. Under it, four doors: Movies, Series, Music and Books, each glowing in its own colour with what it holds.
+- **Every shelf a stage.** Movies opens on the film you choose, large. Series opens on your newest show with its episodes. Music opens on a record that turns, with Play all and Shuffle.
+- **Your music stays inside Churtex.** Songs made smaller by Space Saver now play in Churtex's own player, and no song is ever handed to another program.
+- **Voice memos in your Journal.** Record, pause and keep a memo with any entry; it is kept encrypted with it and plays inside Churtex. An entry can be only a memo.
+- **All of Anivo,** from About to Sermons: Home, the Bible, Pray, My Study, Feelings and Sermons. One recorder now serves Sermons and the Journal.
+- **Texai answers what you asked.** Ask what causes something and it answers with the cause, from the article itself.
+- **My Device shows your devices,** up to five, each with its Tex ID from its security chip, inside Churtex.
+- **Share Files is for sending files between your devices:** New Device to add one, nothing else in the way.
+- **A song's own menu:** ⋯ at its top left, or a right-click: Play, Play next, add it to any playlist (or a new one), take it out of one, Details.
+- **One way to write, everywhere.** Sermon notes, examples, prayers, Bible notes and every other place you write now use the Journal's editor and its larger, easy-to-read size.
+- **Tainment Insights, behind your PIN,** with a tab for each: Movies, Series, Music, Ebooks, Podcasts and Games.
+- **Support for everyone:** report a problem or share an idea with no account; sign in for questions and feedback, and once signed in every choice is yours.
+- **Features, simpler:** Churtex is free, shown whole; the extras under it; Texai is in use; the Tex Store is free to use.
+- **No page that jumps.** Pages keep the scroll bar's room, so nothing moves under your eyes; a check before every release keeps it so.
+- **25 games** to begin with, more to come.
+- Dependencies: tex-engine 0.30.75, tex-ui 0.1.106, tex-games 0.1.39, tex-sound 0.2.20 (Churtex's own parts).
+
 ## 0.77.0 (2026-11-23) - Texai, your own assistant
 - **Texai Chat:** your own assistant, thinking right on this device. A one-time download of 1.3 GB (Qwen3.5 2B, Apache 2.0), then it works with no internet, reading Pedia and the Bible for you. Have it on a flash disk? Choose file.
 - **Texai wakes in about a second:** its mind is read straight from its file instead of copied, and what it has read of its instructions is kept, so only your question is read each time.
