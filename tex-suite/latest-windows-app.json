@@ -1,13 +1,13 @@
 {
  "app": "tex-suite",
- "version": "1.0.2",
+ "version": "1.0.3",
  "date": "2026-11-27",
- "title": "Still and simple",
- "notes": "- **A calm way in.** The sign-in page is now just your card on its soft colours: no moving dots or lines, nothing drifting, and Churtex opens the moment you unlock.",
- "file": "1.0.2/tex-suite-1.0.2-windows-x86_64.tar.xz",
- "size": 85672520,
- "sha256": "ac2d31358dc937314bcbfa88c877dd179ce4cc104e5a8cfa198aaa54d5a55480",
- "signature": "59f1f2e721eb900d05194290c20e3b75f59f0730f506c38e8994535a831aa9f307958701c5cd5bb0031d7f4d0878269391c80ea487f36f0b06083ccb68866a02",
- "setup": "https://churtex.org/download/1.0.2/Churtex-Setup-1.0.2.msi",
- "setup_size": 108949504
+ "title": "The opening returns",
+ "notes": "- **The way in, alive again.** The moment your password is accepted, the lines race deep into the centre and your card tears away like paper, and a burst of light opens into Churtex. Before that, the sign-in page stays perfectly still.",
+ "file": "1.0.3/tex-suite-1.0.3-windows-x86_64.tar.xz",
+ "size": 85672692,
+ "sha256": "fea4c087c0380585639a53cf8e74a9cff774deb4485326e6377b2a08ad9d4ec2",
+ "signature": "58c87e8764bac05ff86c06b3a11a65d51de63b64a3debb772b45c9c44eccf8feff4bb99022446a197a385192e75d7c023e2bdebd8a64d5c3807cc7bd1dab720b",
+ "setup": "https://churtex.org/download/1.0.3/Churtex-Setup-1.0.3.msi",
+ "setup_size": 108957696
 }
