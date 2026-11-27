@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1 (2026-11-27) - Steady and clear
+- **Sign in, perfectly still.** The sign-in box on the Account page now stands calm and steady, and so does the unlock card.
+- **Free means free.** My Device and your licence no longer count down days: Churtex is free, and anything extra you choose on churtex.org opens the moment you sign in.
+
 ## 1.0.0 (2026-11-25) - Churtex 1.0
 - **Churtex 1.0. Finished, and free.** Every part you see is ready: Anivo, Home, Pedia, Tools, Texai, Share Files, Tainment and Settings. What is still being built stays out of sight until it is just as ready.
 - **Tainment, reborn as a lobby.** The banner turns by itself every eight seconds, each picture fading in and slowly drawing you closer; it holds still while your mouse rests on it. Under it, four doors: Movies, Series, Music and Books, each glowing in its own colour with what it holds.

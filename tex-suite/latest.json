@@ -1,11 +1,11 @@
 {
  "app": "tex-suite",
- "version": "1.0.0",
- "date": "2026-11-25",
- "title": "Churtex 1.0",
- "notes": "- **Churtex 1.0. Finished, and free.** Every part you see is ready: Anivo, Home, Pedia, Tools, Texai, Share Files, Tainment and Settings. What is still being built stays out of sight until it is just as ready.\n- **Tainment, reborn as a lobby.** The banner turns by itself every eight seconds, each picture fading in and slowly drawing you closer; it holds still while your mouse rests on it. Under it, four doors: Movies, Series, Music and Books, each glowing in its own colour with what it holds.\n- **Every shelf a stage.** Movies opens on the film you choose, large. Series opens on your newest show with its episodes. Music opens on a record that turns, with Play all and Shuffle.\n- **Your music stays inside Churtex.** Songs made smaller by Space Saver now play in Churtex's own player, and no song is ever handed to another program.\n- **Voice memos in your Journal.** Record, pause and keep a memo with any entry; it is kept encrypted with it and plays inside Churtex. An entry can be only a memo.\n- **All of Anivo,** from About to Sermons: Home, the Bible, Pray, My Study, Feelings and Sermons. One recorder now serves Sermons and the Journal.\n- **Texai answers what you asked.** Ask what causes something and it answers with the cause, from the article itself.\n- **My Device shows your devices,** up to five, each with its Tex ID from its security chip, inside Churtex.\n- **Share Files is for sending files between your devices:** New Device to add one, nothing else in the way.\n- **A song's own menu:** ⋯ at its top left, or a right-click: Play, Play next, add it to any playlist (or a new one), take it out of one, Details.\n- **One way to write, everywhere.** Sermon notes, examples, prayers, Bible notes and every other place you write now use the Journal's editor and its larger, easy-to-read size.\n- **Tainment Insights, behind your PIN,** with a tab for each: Movies, Series, Music, Ebooks, Podcasts and Games.\n- **Support for everyone:** report a problem or share an idea with no account; sign in for questions and feedback, and once signed in every choice is yours.\n- **Features, simpler:** Churtex is free, shown whole; the extras under it; Texai is in use; the Tex Store is free to use.\n- **No page that jumps.** Pages keep the scroll bar's room, so nothing moves under your eyes; a check before every release keeps it so.\n- **25 games** to begin with, more to come.\n- Dependencies: tex-engine 0.30.75, tex-ui 0.1.106, tex-games 0.1.39, tex-sound 0.2.20 (Churtex's own parts).",
- "file": "1.0.0/tex-suite-1.0.0-linux-x86_64.tar.xz",
- "size": 87193960,
- "sha256": "a6fe96ce6e845c73bb10d3c2c832315decb85aabbcd8b886169782ea4bb4c054",
- "signature": "d6caa1acb7498329295fd7b4a21be999b629e5f7faac8fcda8ccc772e88a7248effdbfceee16c5f6afd0f2ab2e7d7e90cbcea6d02d6e548c08584277c30f0f04"
+ "version": "1.0.1",
+ "date": "2026-11-27",
+ "title": "Steady and clear",
+ "notes": "- **Sign in, perfectly still.** The sign-in box on the Account page now stands calm and steady, and so does the unlock card.\n- **Free means free.** My Device and your licence no longer count down days: Churtex is free, and anything extra you choose on churtex.org opens the moment you sign in.",
+ "file": "1.0.1/tex-suite-1.0.1-linux-x86_64.tar.xz",
+ "size": 87206336,
+ "sha256": "a28653bf4bcadd2ba600e278f1d7e648086bbc3e192000777d15dedaa5daf9d7",
+ "signature": "669b63dabf9ff1041c6b429b9a417111099866085ef1c60bd0d52fd221bb25c444e454ad2376f20981bd7cd45dacbaeab2bc4d663066302e15ac6c4067d41b01"
 }
