@@ -1,13 +1,13 @@
 {
  "app": "tex-suite",
- "version": "1.0.3",
+ "version": "1.0.4",
  "date": "2026-11-27",
- "title": "The opening returns",
- "notes": "- **The way in, alive again.** The moment your password is accepted, the lines race deep into the centre and your card tears away like paper, and a burst of light opens into Churtex. Before that, the sign-in page stays perfectly still.",
- "file": "1.0.3/tex-suite-1.0.3-windows-x86_64.tar.xz",
- "size": 85672692,
- "sha256": "fea4c087c0380585639a53cf8e74a9cff774deb4485326e6377b2a08ad9d4ec2",
- "signature": "58c87e8764bac05ff86c06b3a11a65d51de63b64a3debb772b45c9c44eccf8feff4bb99022446a197a385192e75d7c023e2bdebd8a64d5c3807cc7bd1dab720b",
- "setup": "https://churtex.org/download/1.0.3/Churtex-Setup-1.0.3.msi",
- "setup_size": 108957696
+ "title": "Only what is ready",
+ "notes": "- **Anivo shows only what is finished.** Its menu now holds just the parts that are ready for you, like every other menu in Churtex.\n- **Tainment welcomes you by name.** An empty Tainment now greets you with \"Welcome to Tainment\".\n- **Every list fits, and you can type.** Dropdowns now stay on screen with every name in reach, and where you can add one, just type it: a new preacher, ministry or category is added in one step.",
+ "file": "1.0.4/tex-suite-1.0.4-windows-x86_64.tar.xz",
+ "size": 85629112,
+ "sha256": "d37ccd88cd33c00928318971214987852d452c348963a2b3276ba05413dacee0",
+ "signature": "d009f62841f8c43bc91e5e572b9c78d124f065a1c13e0f75ff818ae8e9a0c6ddf6bc8f72c459c749e83fb31162b1491397867201282a7050706ebb461aa9e408",
+ "setup": "https://churtex.org/download/1.0.4/Churtex-Setup-1.0.4.msi",
+ "setup_size": 108974080
 }
